@@ -1,0 +1,19 @@
+{
+  "company": [
+    {
+      "name": "Action Tokens",
+      "logoUrl": "/images/logos/action-tokens.png",
+      "homePage": "https://www.action-tokens.com"
+    },
+    {
+      "name": "Nuna Project Art",
+      "logoUrl": "/images/logos/nuna.png",
+      "homePage": "https://nunaproject.art"
+    },
+    {
+      "name": "Qtec Solution Limited",
+      "logoUrl": "/images/logos/qtec.png",
+      "homePage": "https://www.qtecsolution.com"
+    }
+  ]
+}
