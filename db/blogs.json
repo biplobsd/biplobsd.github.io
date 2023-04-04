@@ -1,12 +1,1 @@
-{
-  "blogs": [
-    {
-      "imgUrl": "https://camo.githubusercontent.com/8de6010cb5c674e3a67b0e1e3c4a862114bdb59e48c28b1e96112ad17877cd3e/687474703a2f2f696d672e796f75747562652e636f6d2f76692f56394c4d6b4b4e356a46512f302e6a7067",
-      "title": "Facebook stories auto react tool",
-      "desc": "Automatically react to stories on Facebook without having to manually click on any reaction icons. This Chrome extension can help you do just that. With this extension, you can effortlessly add reactions to stories without any extra effort.",
-      "date": 1680543529668,
-      "readTime": 5,
-      "fileName": "Facebook stories auto react tool.md"
-    }
-  ]
-}
+{"blogs": [{"imgUrl": "https://camo.githubusercontent.com/8de6010cb5c674e3a67b0e1e3c4a862114bdb59e48c28b1e96112ad17877cd3e/687474703a2f2f696d672e796f75747562652e636f6d2f76692f56394c4d6b4b4e356a46512f302e6a7067", "title": "Facebook stories auto react tool", "desc": "Automatically react to stories on Facebook without having to manually click on any reaction icons. This Chrome extension can help you do just that. With this extension, you can effortlessly add reactions to stories without any extra effort.", "date": 1680543529668, "readTime": 5, "fileName": "Facebook stories auto react tool.md"}]}

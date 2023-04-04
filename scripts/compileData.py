@@ -1,19 +1,33 @@
 import os
 import json
 
+def updateConfig(key, value):
+    configPath = os.path.join('db', 'configs.json')
+
+    if os.path.exists(configPath):
+        with open(configPath, 'r') as f:
+            db_configs = json.load(f)
+    else:
+        db_configs = {}
+
+    db_configs[key] = value
+
+    with open(configPath, 'w') as f:
+        json.dump(db_configs, f)
+
 
 def projectCompile():
     # Set the path to the folder containing the md files
-    folder_path = "projects/"
+    FOLDER_PATH = "projects/"
 
     # Create an empty list to store the project information
     projects_list = []
 
     # Loop through each md file in the folder
-    for filename in os.listdir(folder_path):
+    for filename in os.listdir(FOLDER_PATH):
         if filename.endswith(".md"):
             # Open the md file and read its contents
-            with open(os.path.join(folder_path, filename), "r") as f:
+            with open(os.path.join(FOLDER_PATH, filename), "r") as f:
                 md_text = f.read()
 
             # Extract the required information from the md text
@@ -50,20 +64,22 @@ def projectCompile():
 
     # Write the output dictionary to a JSON file
     with open("db/projects.json", "w") as f:
-        json.dump(output_dict, f, indent=2)
+        json.dump(output_dict, f)
+    
+    updateConfig('projectTotal', len(sorted_projects))
 
 def blogsCompile():
     # Set the path to the folder containing the md files
-    folder_path = "blogs/"
+    FOLDER_PATH = "blogs/"
 
     # Create an empty list to store the project information
     blogs_list = []
 
     # Loop through each md file in the folder
-    for filename in os.listdir(folder_path):
+    for filename in os.listdir(FOLDER_PATH):
         if filename.endswith(".md"):
             # Open the md file and read its contents
-            with open(os.path.join(folder_path, filename), "r") as f:
+            with open(os.path.join(FOLDER_PATH, filename), "r") as f:
                 md_text = f.read()
 
             # Extract the required information from the md text
@@ -94,7 +110,9 @@ def blogsCompile():
 
     # Write the output dictionary to a JSON file
     with open("db/blogs.json", "w") as f:
-        json.dump(output_dict, f, indent=2)
+        json.dump(output_dict, f)
+    
+    updateConfig('blogTotal', len(sorted_projects))
 
 if __name__ == '__main__':
     print('Parsing projects')
