@@ -8,7 +8,7 @@ readTime: 5
 
 # BLC auto login
 
-![logo](/src/assets/icons/icon128.png)
+![logo](https://github.com/biplobsd/blc-auto-login/raw/main/src/assets/icons/icon128.png)
 
 Automatically log in to the BLC website without manually entering your username and password.
 
