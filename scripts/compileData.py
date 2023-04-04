@@ -21,7 +21,6 @@ def projectCompile():
             app_logo = md_text.split("appLogo: ")[1].split("\n")[0]
             company_name = md_text.split("companyName: ")[1].split("\n")[0]
             company_logo = md_text.split("companyLogo: ")[1].split("\n")[0]
-            url = md_text.split("url: ")[1].split("\n")[0]
             date = int(md_text.split("date: ")[1].split("\n")[0])
             read_time = int(md_text.split("readTime: ")[1].split("\n")[0])
             img_url = md_text.split("imgUrl: ")[1].split("\n")[0]
@@ -35,7 +34,6 @@ def projectCompile():
                 "company": {"name": company_name, "logoUrl": company_logo},
                 "whatText": what_text,
                 "result": result,
-                "url": url,
                 "date": date,
                 "readTime": read_time,
                 "fileName": filename
@@ -71,7 +69,6 @@ def blogsCompile():
             # Extract the required information from the md text
             title = md_text.split("title: ")[1].split("\n")[0]
             desc = md_text.split("desc: ")[1].split("\n")[0]
-            url = md_text.split("url: ")[1].split("\n")[0]
             date = int(md_text.split("date: ")[1].split("\n")[0])
             read_time = int(md_text.split("readTime: ")[1].split("\n")[0])
             img_url = md_text.split("imgUrl: ")[1].split("\n")[0]
@@ -81,7 +78,6 @@ def blogsCompile():
                 "imgUrl": img_url,
                 "title": title,
                 "desc": desc,
-                "url": url,
                 "date": date,
                 "readTime": read_time,
                 "fileName": filename
