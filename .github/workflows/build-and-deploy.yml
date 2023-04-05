@@ -46,3 +46,4 @@ jobs:
         with:
           branch: gh-pages
           folder: buildEnv/main/out
+          token: ${{ secrets.PAT }}
