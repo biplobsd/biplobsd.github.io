@@ -5,16 +5,16 @@ companyName: Action Tokens
 companyLogo: /images/logos/action-tokens.png
 date: 1680541759736
 readTime: 2
-imgUrl: https://user-images.githubusercontent.com/43641536/174719788-f493067f-58ff-4b2b-aa66-acb67106f4d0.gif
+imgUrl: https://user-images.githubusercontent.com/43641536/230180140-a0552cd5-3823-409e-92a9-fe33d5082d13.gif
 whatText: Stellar Account Checker and Asset Holder Limit Tool.
 result: This tool was well-received by users and delivered a native app experience, meeting the client's requirements.
 ---
 
-![preview gif](https://user-images.githubusercontent.com/43641536/174719788-f493067f-58ff-4b2b-aa66-acb67106f4d0.gif)
+![preview gif](https://user-images.githubusercontent.com/43641536/230180140-a0552cd5-3823-409e-92a9-fe33d5082d13.gif)
 
 ## Action wallet checker
 
-[Live at awc.action-tokens.com](https://awc.action-tokens.com)
+<a href="https://awc.action-tokens.com" target="_blank">Live at awc.action-tokens.com</a>
 
 ## Case Study
 

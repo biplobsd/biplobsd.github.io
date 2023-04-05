@@ -1,7 +1,7 @@
 ---
 title: Youtube Subscriptions Transfer
 desc: YouTube Subscriptions Transfer is a browser extension that allows you to transfer subscriptions from one account to another without using any API. The extension collects a list of channels and enables you to subscribe or unsubscribe to each channel. It interacts with the DOM using xpath.
-imgUrl: https://user-images.githubusercontent.com/43641536/225979057-af78429a-d0a1-40d2-9704-ba2f9ec66ec8.png
+imgUrl: https://user-images.githubusercontent.com/43641536/225968066-01278b17-4ea8-4fd5-954c-525c2a8cc0bd.png
 date: 1680629480129
 readTime: 4
 ---
