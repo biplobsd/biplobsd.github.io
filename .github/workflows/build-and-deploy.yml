@@ -1,0 +1,55 @@
+name: Node.js CI
+
+on:
+  push:
+    branches: [data]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository data
+        uses: actions/checkout@v3
+        with:
+          ref: "data"
+          path: "buildEnv/portfolio_data"
+      - name: Build
+        run: |
+          cd buildEnv/portfolio_data
+          python scripts/compileData.py
+      - name: Checkout repository Nextjs site
+        uses: actions/checkout@v3
+        with:
+          repository: biplobsd/portfolio
+          ref: "main"
+          path: "buildEnv/main"
+          token: ${{ secrets.PAT }}
+      # a standard step for GitHub actions on Node
+      # https://github.com/actions/setup-node
+      - uses: actions/setup-node@v3
+        with:
+          # update the Node version to meet your needs
+          node-version: 16
+          cache: npm
+          cache-dependency-path: buildEnv/main/package-lock.json
+      - name: Build
+        run: |
+          cd buildEnv/main
+          npm ci
+          npm run export
+          touch out/.nojekyll
+
+      # - name: Deploy
+      #   # https://github.com/JamesIves/github-pages-deploy-action
+      #   uses: JamesIves/github-pages-deploy-action@v4
+      #   with:
+      #     branch: gh-pages
+      #     folder: buildEnv/main/out
+      #     token: ${{ secrets.PAT }}
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          personal_token: ${{ secrets.PAT }}
+          publish_dir: buildEnv/main/out
+          publish_branch: gh-pages
