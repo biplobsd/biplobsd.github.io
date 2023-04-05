@@ -14,10 +14,11 @@ jobs:
         with:
           ref: "data"
           path: "buildEnv/portfolio_data"
-      - name: Build
+      - name: Compile data
         run: |
           cd buildEnv/portfolio_data
           python scripts/compileData.py
+          git push
       - name: Checkout repository Nextjs site
         uses: actions/checkout@v3
         with:
@@ -25,11 +26,9 @@ jobs:
           ref: "main"
           path: "buildEnv/main"
           token: ${{ secrets.PAT }}
-      # a standard step for GitHub actions on Node
-      # https://github.com/actions/setup-node
+
       - uses: actions/setup-node@v3
         with:
-          # update the Node version to meet your needs
           node-version: 16
           cache: npm
           cache-dependency-path: buildEnv/main/package-lock.json
@@ -38,15 +37,6 @@ jobs:
           cd buildEnv/main
           npm ci
           npm run export
-          touch out/.nojekyll
-
-      # - name: Deploy
-      #   # https://github.com/JamesIves/github-pages-deploy-action
-      #   uses: JamesIves/github-pages-deploy-action@v4
-      #   with:
-      #     branch: gh-pages
-      #     folder: buildEnv/main/out
-      #     token: ${{ secrets.PAT }}
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
