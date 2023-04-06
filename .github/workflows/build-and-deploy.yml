@@ -17,6 +17,7 @@ jobs:
       - name: Compile data
         run: |
           cd buildEnv/portfolio_data
+          pip install -r scripts/requirements.txt
           python scripts/compileData.py
           git push
       - name: Checkout repository Nextjs site
