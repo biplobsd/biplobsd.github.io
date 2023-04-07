@@ -15,7 +15,9 @@ jobs:
           ref: "data"
       - name: Sync system time
         run: |
-          sudo timedatectl set-ntp true
+          date
+          sudo apt-get install ntpdate
+          sudo ntpdate pool.ntp.org
       - name: Compile data
         run: |
           pip install -r scripts/requirements.txt
