@@ -57,7 +57,7 @@ def extractDate(filePath, post):
             create_time = os.path.getctime(filePath)
             modify_time = os.path.getmtime(filePath)
             date = max(create_time, modify_time)
-            return int(date)
+            return int(date * 1000)
     return int(date_str)
 
 
