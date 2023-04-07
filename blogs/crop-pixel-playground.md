@@ -14,7 +14,7 @@ This app is supported on
 
 | Android | Window | Web |
 |:-:|:-:|:-:|
-| [<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height=75 width=200>](https://play.google.com/store/apps/details?id=com.speedout.cppg) | [<img src="https://get.microsoft.com/images/en-us%20dark.svg" height=55 width=200>](https://apps.microsoft.com/store/detail/crop-pixel-playground/9NXP42BX8X7M?hl=en-us&gl=us) | [<img src="https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/cpp-logo.png" height=100 width=100>](https://croppixel.web.app) |
+| [<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height=75 width=200>](https://play.google.com/store/apps/details?id=com.speedout.cppg) | [<img src="https://get.microsoft.com/images/en-us%20dark.svg" height=75 width=150>](https://apps.microsoft.com/store/detail/crop-pixel-playground/9NXP42BX8X7M?hl=en-us&gl=us) | [<img src="https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/cpp-logo.png" height=100 width=100>](https://croppixel.web.app) |
 
 To use the app, you need to set the x and y values and upload the image by tapping the upload image button. Then, adjust the zoom or pan to fit the grid and tap the capture button to crop the image. Sometimes, the loading Save button will enable you to save the cropped images. The app creates a zip file containing the cropped image, the main image, and a fileinfo.json.
 
