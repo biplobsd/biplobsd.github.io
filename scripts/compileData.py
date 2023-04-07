@@ -1,6 +1,7 @@
 import os
 import re
 import json
+import subprocess
 import frontmatter
 from bs4 import BeautifulSoup
 from markdown import markdown
@@ -53,11 +54,12 @@ def extractDate(filePath, post):
     try:
         date_str = post['date']
     except KeyError:
-        if os.path.exists(filePath):
-            create_time = os.path.getctime(filePath)
-            modify_time = os.path.getmtime(filePath)
-            date = max(create_time, modify_time)
-            return int(date * 1000)
+        try:
+            output = subprocess.check_output(['git', 'log', '-1', '--pretty=format:%ct', filePath])
+            date_str = output.decode().strip()
+            return int(date_str) * 1000
+        except subprocess.CalledProcessError:
+            return 1680888147920
     return int(date_str)
 
 
