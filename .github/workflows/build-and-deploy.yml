@@ -19,7 +19,9 @@ jobs:
           cd buildEnv/portfolio_data
           pip install -r scripts/requirements.txt
           python scripts/compileData.py
-          git push
+          git add .
+          git commit -m "update"
+          git push origin data
       - name: Checkout repository Nextjs site
         uses: actions/checkout@v3
         with:
