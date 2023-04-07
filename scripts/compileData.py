@@ -57,6 +57,7 @@ def extractDate(filePath, post):
         try:
             output = subprocess.check_output(['git', 'log', '-1', '--pretty=format:%ct', filePath])
             date_str = output.decode().strip()
+            print(filePath, date_str)
             return int(date_str) * 1000
         except subprocess.CalledProcessError:
             return 1680888147920
