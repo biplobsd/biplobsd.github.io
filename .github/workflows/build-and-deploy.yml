@@ -13,6 +13,9 @@ jobs:
         uses: actions/checkout@v3
         with:
           ref: "data"
+      - name: Sync system time
+        run: |
+          sudo timedatectl set-ntp true
       - name: Compile data
         run: |
           pip install -r scripts/requirements.txt
