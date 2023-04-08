@@ -23,13 +23,11 @@ def updateConfig(key, value):
 
 
 def get_image_from_content(content):
-    # Extract image from markdown image tag
     pattern = r"!\[.*\]\((.*)\)"
     match = re.search(pattern, content)
     if match:
         return match.group(1)
     else:
-        # Extract image from HTML img tag
         pattern = r"<img.*src=\"([^\"]+)\""
         match = re.search(pattern, content)
         if match:
@@ -63,6 +61,36 @@ def extractDate(filePath, post):
     return int(date_str)
 
 
+def get_title_from_content(file_path, content):
+    html = markdown(content)
+    soup = BeautifulSoup(html, 'html.parser')
+    title = soup.find('h1')
+    if title:
+        return title.text
+    else:
+        return os.path.splitext(os.path.basename(file_path))[0]
+
+def extract_desc_from_content(content):
+    html = markdown(content)
+    soup = BeautifulSoup(html, 'html.parser')
+
+    first_headings = soup.find_all(re.compile('^h[1-6]$'), recursive=False)
+
+    desc_elem = None
+    for heading in first_headings:
+        next_elem = heading.find_next_sibling()
+        if next_elem and not next_elem.name.startswith('h'):
+            desc_elem = next_elem
+            break
+
+    if desc_elem:
+        desc = desc_elem.get_text().strip()
+    else:
+        desc = soup.get_text().strip()
+
+    return desc if len(desc) < 100 else desc[:100] + '...'
+
+
 def projectCompile():
 
     FOLDER_PATH = "projects/"
@@ -82,7 +110,6 @@ def projectCompile():
             company_name = post.get('companyName', '')
             company_logo = post.get('companyLogo', '')
             date = extractDate(file_path, post)
-            # assuming average reading speed of 500 words per minute
             read_time = extractReadTime(post.content)
             img_url = post.get(
                 'imgUrl', get_image_from_content(post.content))
@@ -127,13 +154,8 @@ def blogsCompile():
                 md_text = f.read()
 
             post = frontmatter.loads(md_text)
-            title = post.get('title', filename[:-3])
-            desc = post.get('desc', '')
-            if not desc:
-                html = markdown(post.content)
-                text = ''.join(BeautifulSoup(
-                    html, features="html.parser").findAll(string=True))
-                desc = text[:100].strip()
+            title = post.get('title', get_title_from_content(filename, post.content))
+            desc = post.get('desc', extract_desc_from_content(post.content))
 
             date = extractDate(file_path, post)
             read_time = extractReadTime(post.content)
