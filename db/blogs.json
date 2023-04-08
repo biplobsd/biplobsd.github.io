@@ -1,6 +1,14 @@
 {
   "blogs": [
     {
+      "imgUrl": "https://github.com/biplobsd/ocaria2/raw/main/src/preview.gif",
+      "title": "ocaria2",
+      "desc": "Run aria2c and AriaNgWke together with one click\nRun aria2c and AriaNgWke with one click. ocaria2 wi",
+      "date": 1680975232000,
+      "readTime": 1,
+      "fileName": "ocaria2.md"
+    },
+    {
       "imgUrl": "https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/cpp-preview.gif",
       "title": "Crop Pixel Playground",
       "desc": "Crop Pixel Playground\nCrop Pixel Playground is an app that allows you to crop an image into blocks",
