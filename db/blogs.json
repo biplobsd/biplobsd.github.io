@@ -2,8 +2,8 @@
   "blogs": [
     {
       "imgUrl": "https://github.com/biplobsd/ocaria2/raw/main/src/preview.gif",
-      "title": "ocaria2",
-      "desc": "Run aria2c and AriaNgWke together with one click\nRun aria2c and AriaNgWke with one click. ocaria2 wi",
+      "title": "Run aria2c and AriaNgWke together with one click",
+      "desc": "Run aria2c and AriaNgWke with one click. ocaria2 will automatically get the trackers list and optimi...",
       "date": 1680975232000,
       "readTime": 1,
       "fileName": "ocaria2.md"
@@ -11,7 +11,7 @@
     {
       "imgUrl": "https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/cpp-preview.gif",
       "title": "Crop Pixel Playground",
-      "desc": "Crop Pixel Playground\nCrop Pixel Playground is an app that allows you to crop an image into blocks",
+      "desc": "Crop Pixel Playground is an app that allows you to crop an image into blocks of small images. It gen...",
       "date": 1680895451000,
       "readTime": 1,
       "fileName": "crop-pixel-playground.md"
@@ -19,7 +19,7 @@
     {
       "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Lenovo_ThinkPad_X1_Ultrabook_%28Nov_16%2C_2012%29.png/330px-Lenovo_ThinkPad_X1_Ultrabook_%28Nov_16%2C_2012%29.png",
       "title": "t460s-ux",
-      "desc": "t460s-ux\nSome useful change for lenovo thinkpad t460s\n3 finger browser back<->forward (Win10)\n\nEnab",
+      "desc": "Some useful change for lenovo thinkpad t460s",
       "date": 1680860417000,
       "readTime": 1,
       "fileName": "t460s-ux.md"
