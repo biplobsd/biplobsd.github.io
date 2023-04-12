@@ -2,8 +2,10 @@
 logoUrl: https://user-images.githubusercontent.com/43641536/231563769-1add7468-8794-4ffe-a8f1-417508d03c7c.png
 title: Image Resizer Offline
 category: Photo & video
-p_name_1: Microsoft
-p_link_1: https://www.microsoft.com/store/apps/9NV38S4TW6J4
+p_name_1: Android
+p_link_1: https://play.google.com/store/apps/details?id=com.speedout.ir
+p_name_2: Windows
+p_link_2: https://www.microsoft.com/store/apps/9NV38S4TW6J4
 img_1: https://store-images.s-microsoft.com/image/apps.37118.14406779376951763.e0d67b06-ed0d-4d66-94fd-9a4cfade378d.05b3da44-137d-4fcd-b6c4-b3b82850347a
 img_2: https://store-images.s-microsoft.com/image/apps.41230.14406779376951763.e0d67b06-ed0d-4d66-94fd-9a4cfade378d.d1f445f7-8356-4f0a-b4d8-bf73cb31d590
 img_3: https://store-images.s-microsoft.com/image/apps.32543.14406779376951763.e0d67b06-ed0d-4d66-94fd-9a4cfade378d.d2b6d7fb-6d05-4e2e-9a27-c0b8831d6d09

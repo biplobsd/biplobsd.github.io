@@ -2,8 +2,10 @@
 logoUrl: https://user-images.githubusercontent.com/43641536/231563769-1add7468-8794-4ffe-a8f1-417508d03c7c.png
 title: Image Converter Offline
 category: Photo & video
-p_name_1: Microsoft
-p_link_1: https://www.microsoft.com/store/apps/9NZRDDXTW2VS
+p_name_1: Android
+p_link_1: https://play.google.com/store/apps/details?id=com.speedout.ic
+p_name_2: Windows
+p_link_2: https://www.microsoft.com/store/apps/9NZRDDXTW2VS
 img_1: https://store-images.s-microsoft.com/image/apps.60055.14470901667866755.9e833380-61d3-4d9b-a90c-a2e434979671.0966fd1e-b7d8-479f-95b8-2d9394a8a17f
 img_2: https://store-images.s-microsoft.com/image/apps.33980.14470901667866755.9e833380-61d3-4d9b-a90c-a2e434979671.72e7561c-c9d0-460b-8aab-771ef0ad8fb7
 img_3: https://store-images.s-microsoft.com/image/apps.26752.14470901667866755.9e833380-61d3-4d9b-a90c-a2e434979671.a53f8d99-383b-436e-bf6d-19ccfd8e6827
