@@ -11,7 +11,7 @@ Transferring subscriptions from one YouTube account to another.
 
 This extension that allows you to transfer subscriptions from one account to another without using any API. The extension collects a list of channels and enables you to subscribe or unsubscribe to each channel. It interacts with the DOM using xpath.
 
-## FEATURES
+## Features
 
 - Collect all subscriptions from your current active tab on YouTube and save them to the Data section
 - Subscribe channel with collected list
