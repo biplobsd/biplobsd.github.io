@@ -1,10 +1,35 @@
 {
   "apps": [
     {
+      "imgUrl": "https://github.com/biplobsd/diuspeederapp/raw/main/assets/ic_launcher.png",
+      "title": "DIU Speeder",
+      "category": "Education",
+      "date": 1681397532000,
+      "fileName": "diu-speeder.md",
+      "imgs": [
+        "https://github.com/biplobsd/diuspeederapp/raw/main/assets/preview.gif",
+        "https://play-lh.googleusercontent.com/AYJzWy1Oq2AGYEquOy65eM4NfWW3lVYhj9iIgr40Byfxgz7hD71ksXRhCWcR6LpDOWjD=w2560-h1440-rw",
+        "https://play-lh.googleusercontent.com/5a1eZbnqz82zJNYJjg9O6rVbAJNL3h3bF8c8i6J70c5S-do4HP-H6510Js0oLGm6HPk=w2560-h1440-rw",
+        "https://play-lh.googleusercontent.com/Aa0AWIaXuwTfXlyx_f6CynGGhPXhfYQDo5JBQmamQav4c4UGb0V2QvnmImo95cPLaQ=w2560-h1440-rw",
+        "https://play-lh.googleusercontent.com/gLQmUKKB5UL8LHnGVudbhibvDsw4lCFXh2QQV6WACcjgLXTGki9NNRuvMbffrGeE-w=w2560-h1440-rw",
+        "https://play-lh.googleusercontent.com/WGlKezmJDsfNbcI_cU2bSe3W0jsYNnmM0AWH-M7KE7N4zWB9orI6ZEXIhswFidcKHQ=w2560-h1440-rw"
+      ],
+      "platforms": [
+        {
+          "name": "Android",
+          "link": "https://play.google.com/store/apps/details?id=com.speedout.diuspeeder"
+        },
+        {
+          "name": "Github release",
+          "link": "https://github.com/biplobsd/DIUSpeederApp/releases/latest"
+        }
+      ]
+    },
+    {
       "imgUrl": "https://user-images.githubusercontent.com/43641536/231795791-acae867c-9bd9-4923-9dda-ce977d5dd88d.png",
       "title": "Image Animated Splitter",
       "category": "Photo & video",
-      "date": 1681396968000,
+      "date": 1681397107000,
       "fileName": "image-animated-splitter.md",
       "imgs": [
         "https://store-images.s-microsoft.com/image/apps.42640.14291781097012336.a6a58d34-b5a1-4a19-9a12-0d15918ca04f.5f673a2b-1e21-48c7-ad6f-86c39420a08b?h=1080",
