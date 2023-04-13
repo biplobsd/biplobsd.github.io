@@ -1,10 +1,37 @@
 {
   "apps": [
     {
+      "imgUrl": "https://raw.githubusercontent.com/biplobsd/proxySpeedTestApp/master/assets/icon.png",
+      "title": "DIU Speeder",
+      "category": "Tools",
+      "date": 1681398031000,
+      "fileName": "proxy-speed-test-app-pro.md",
+      "imgs": [
+        "https://play-lh.googleusercontent.com/A7O51H51ah8gciC6Ecz2piBdd0JRQdipgaJtdbFEmo8c994yR-jAQqNntpk2XNOCAZ4=w2560-h1440-rw",
+        "https://play-lh.googleusercontent.com/FS6PY0WHJkukad_ZktJ6iod5QQTjHZaMwdsKhHQ5Om35YV_zWYGnDrbdBdnkHPVIzcY=w2560-h1440-rw",
+        "https://play-lh.googleusercontent.com/LEyh6KpSxgOm5mM0C6zRl_WeJF5bFYJ3hob9cr9prz6TekQkVuupWQ8DYQM2bNZqks4=w2560-h1440-rw",
+        "https://play-lh.googleusercontent.com/Y39Tv2LbrsTAro2wjVKuO8ML4X-xWKFaHNZEkm4iQqAtg2R_zu7re9IEtOqAjumxRuc=w2560-h1440-rw",
+        "https://play-lh.googleusercontent.com/2gZgOCvpT3772MJcFBdBhHC7CPHeKjzgy7kE8Ayv7hBlr2YrFT4q-6aFXRRZ-jkXFjAy=w2560-h1440-rw",
+        "https://play-lh.googleusercontent.com/5HOzSjUhUCkXLI2jEJwOZrFmN20boWWEUP-jAgPcsqfetnwzCeB9fcXH92plPyp8HQ=w2560-h1440-rw",
+        "https://play-lh.googleusercontent.com/AtH2xktUaEInFxwDKb1jApHSrFcHwlXR6HqSO5ATRjKxc3SD5yeMt3vzkmkzPgwJQ7k=w2560-h1440-rw",
+        "https://play-lh.googleusercontent.com/T5BMIOu85CP43dojkmnI1FCUpTfbSaWAIN0FyMFDz3AfEjNtO8HYEtoTQuJvJY804g=w2560-h1440-rw"
+      ],
+      "platforms": [
+        {
+          "name": "Android",
+          "link": "https://play.google.com/store/apps/details?id=com.speedout.proxyspeedtestpro"
+        },
+        {
+          "name": "Github release",
+          "link": "https://github.com/biplobsd/proxySpeedTestApp/releases/latest"
+        }
+      ]
+    },
+    {
       "imgUrl": "https://github.com/biplobsd/diuspeederapp/raw/main/assets/ic_launcher.png",
       "title": "DIU Speeder",
       "category": "Education",
-      "date": 1681397532000,
+      "date": 1681397658000,
       "fileName": "diu-speeder.md",
       "imgs": [
         "https://github.com/biplobsd/diuspeederapp/raw/main/assets/preview.gif",
