@@ -9,14 +9,14 @@ img_1: https://store-images.s-microsoft.com/image/apps.36930.77a08942-54a6-442e-
 
 Automatically log in to the BLC website without manually entering your username and password.
 
-## FEATURES
+## Features
 
 - Toggle on/off
 - Auto login account
 - Dark theme
 - Open-source
 
-## HOW TO USE
+## Usages
 
 To get started, simply click the toggle button to turn it on. Then enter your BLC login credentials. And you're all set. From now on, whenever you visit the https://elearn.daffodilvarsity.edu.bd/ page, if you're not already logged in, this extension will automatically input your username and password in the login section and attempt to log you in. If you're already logged in, the extension won't take any action.
 
