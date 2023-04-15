@@ -1,6 +1,6 @@
 ---
 appName: Action wallet checker
-appLogo: /images/logos/action-tokens.png
+appLogo: ../images/awc-logo.png
 companyName: Action Tokens
 companyLogo: /images/logos/action-tokens.png
 date: 1680541759736

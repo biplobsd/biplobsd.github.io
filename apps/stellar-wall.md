@@ -2,6 +2,7 @@
 logoUrl: https://user-images.githubusercontent.com/43641536/231564790-212620ad-8f10-408b-87e0-c767c57e1f09.png
 title: Stellar Wall
 category: Photo & video
+date: 1680501600000
 p_name_1: Windows
 p_link_1: https://www.microsoft.com/store/apps/9P4QG0ZWGBZ6
 p_name_2: Web
@@ -19,4 +20,3 @@ Stellar Wall is an wall project for 100×100 pixels where users can buy out thei
 - Share image to home page
 - Interactive view
 - Gif, Apng share
-- Mint as NFT

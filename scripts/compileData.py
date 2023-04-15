@@ -8,6 +8,23 @@ from bs4 import BeautifulSoup
 from markdown import markdown
 
 
+def replaceImgRelativePath(data, wPath):
+    rootConfigPath = 'configs.json'
+    imgPattern = r"\.\.\/images\/"
+    if os.path.exists(rootConfigPath):
+        with open(rootConfigPath, 'r') as f:
+            root_configs = json.load(f)
+    if not root_configs.get('baseImgUrl'):
+        raise Exception('Error: baseImgUrl key not found')
+        sys.exit(1)
+
+    if re.search(imgPattern, data):
+        finalData = re.sub(imgPattern, root_configs['baseImgUrl'], data)
+
+        with open(wPath, 'w') as w:
+            w.write(finalData)
+
+
 def updateConfig(key, value):
     configPath = os.path.join('db', 'configs.json')
 
@@ -20,7 +37,7 @@ def updateConfig(key, value):
     db_configs[key] = value
 
     with open(configPath, 'w') as f:
-        json.dump(db_configs, f, indent=2)
+        json.dump(db_configs, f)
 
 
 def get_image_from_content(content):
@@ -168,13 +185,15 @@ def projectCompile():
 
             projects_list.append(project_dict)
 
+            replaceImgRelativePath(md_text, file_path)
+
     sorted_projects = sorted(
         projects_list, key=lambda x: x['date'], reverse=True)
 
     output_dict = {"projects": sorted_projects}
 
     with open("db/projects.json", "w") as f:
-        json.dump(output_dict, f, indent=2)
+        json.dump(output_dict, f)
 
     updateConfig('projectTotal', len(sorted_projects))
 
@@ -216,13 +235,15 @@ def blogsCompile():
 
             blogs_list.append(blog_dict)
 
+            replaceImgRelativePath(md_text, file_path)
+
     sorted_blogs = sorted(
         blogs_list, key=lambda x: x['date'], reverse=True)
 
     output_dict = {"blogs": sorted_blogs}
 
     with open("db/blogs.json", "w") as f:
-        json.dump(output_dict, f, indent=2)
+        json.dump(output_dict, f)
 
     updateConfig('blogTotal', len(sorted_blogs))
 
@@ -268,13 +289,15 @@ def appsCompile():
 
             apps_list.append(app_dict)
 
+            replaceImgRelativePath(md_text, file_path)
+
     sorted_apps = sorted(
         apps_list, key=lambda x: x['date'], reverse=True)
 
     output_dict = {"apps": sorted_apps}
 
     with open("db/apps.json", "w") as f:
-        json.dump(output_dict, f, indent=2)
+        json.dump(output_dict, f)
 
     updateConfig('appTotal', len(sorted_apps))
 
