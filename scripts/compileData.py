@@ -24,6 +24,9 @@ def replaceImgRelativePath(data, wPath):
         with open(wPath, 'w') as w:
             w.write(finalData)
 
+        return finalData
+    return data
+
 
 def updateConfig(key, value):
     configPath = os.path.join('db', 'configs.json')
@@ -160,6 +163,8 @@ def projectCompile():
             with open(file_path, "r") as f:
                 md_text = f.read()
 
+            md_text = replaceImgRelativePath(md_text, file_path)
+
             post = frontmatter.loads(md_text)
             app_name = post.get('appName', '')
             app_logo = post.get('appLogo', '')
@@ -184,8 +189,6 @@ def projectCompile():
             }
 
             projects_list.append(project_dict)
-
-            replaceImgRelativePath(md_text, file_path)
 
     sorted_projects = sorted(
         projects_list, key=lambda x: x['date'], reverse=True)
@@ -215,6 +218,8 @@ def blogsCompile():
             with open(file_path, "r") as f:
                 md_text = f.read()
 
+            md_text = replaceImgRelativePath(md_text, file_path)
+
             post = frontmatter.loads(md_text)
             title = post.get('title', get_title_from_content(
                 filename, post.content))
@@ -234,8 +239,6 @@ def blogsCompile():
             }
 
             blogs_list.append(blog_dict)
-
-            replaceImgRelativePath(md_text, file_path)
 
     sorted_blogs = sorted(
         blogs_list, key=lambda x: x['date'], reverse=True)
@@ -265,6 +268,8 @@ def appsCompile():
             with open(file_path, "r") as f:
                 md_text = f.read()
 
+            md_text = replaceImgRelativePath(md_text, file_path)
+
             post = frontmatter.loads(md_text)
             title = post.get('title', get_title_from_content(
                 filename, post.content))
@@ -288,8 +293,6 @@ def appsCompile():
             }
 
             apps_list.append(app_dict)
-
-            replaceImgRelativePath(md_text, file_path)
 
     sorted_apps = sorted(
         apps_list, key=lambda x: x['date'], reverse=True)
