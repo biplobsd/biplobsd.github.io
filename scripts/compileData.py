@@ -20,7 +20,7 @@ def updateConfig(key, value):
     db_configs[key] = value
 
     with open(configPath, 'w') as f:
-        json.dump(db_configs, f)
+        json.dump(db_configs, f, indent=2)
 
 
 def get_image_from_content(content):
@@ -174,7 +174,7 @@ def projectCompile():
     output_dict = {"projects": sorted_projects}
 
     with open("db/projects.json", "w") as f:
-        json.dump(output_dict, f)
+        json.dump(output_dict, f, indent=2)
 
     updateConfig('projectTotal', len(sorted_projects))
 

@@ -1,0 +1,69 @@
+---
+appName: Stellar Wall
+appLogo: https://user-images.githubusercontent.com/43641536/232205018-85cb74eb-e216-43ee-be64-fc06130057a5.png
+companyName: Nuna Project Art
+companyLogo: https://nunaproject.art/assets/img/logo/logo.png
+imgUrl: https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/stellar-wall-preview.png
+whatText: Stellar Wall is a 100x100 pixels online billboard that offers advertise your projects.
+result: User able to share to their NFT collections, assets, projects by showing any picture on their pixels.
+---
+
+![preview](https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/stellar-wall-preview.png)
+
+# Stellar Wall - 100x100 pixels online billboard
+
+<strong>Status: Inactive</strong><br>
+<a href="https://stellarwall.xyz/">Live at stellarwall.xyz</a>
+
+## Overview
+
+STELLAR WALL is a 100x100 pixels online billboard that offers a new opportunity to advertise your projects. It is build with Flutter web and uses Firebase as its database service.
+
+## Problem
+
+The key problem is that show all block in webpage with interactive way. User can move view block information with click or hover. Also user can also select some block to place oder. And with our client the budget is limited, requiring a cost-efficient full stack solution.
+
+## Solution
+
+With many research our team deiced to use Frontend as Flutter Web for canvas, Backend as Django REST API hosting on heroku, database as firebase firestore.
+
+## Design
+
+The design of Stellar Wall was based on the client's requirements and ideas, and our initial design was created using Figma. We went through several iterations before finalizing the website's design.
+
+### Initial Figma design
+
+![Initial Figma design](https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/stellar-wall-initial.png)
+
+### Final design
+
+![Final design](https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/stellar-wall-preview.png)
+
+This website is design as native experiance and it's design is base on meterial design.
+
+## Features
+
+- Share image to home page
+- Interactive view
+- Gif, Apng share
+- Mint as NFT
+
+## Technology
+
+- Flutter Web for frontend
+- Firebase Firestore as the NoSQL database, providing data from cloud.
+- Backend as Django REST API hosting on heroku
+- Frontend hosting on firebase hosting
+
+## Team
+
+- StellarGee, @StellarGee: Funned
+- Elicc, @elycolz: Designer
+- Munaytu, @munaytu: Project structured
+- Biplob Kumar Sutradhar, @biplobsd11: Lead Developer
+- Arnob Dey, @arnob_016: Manage, Design, client requirement sync
+- Md. Zonaid, @iH_Zonaid: Backend developer
+
+## Results
+
+User able to share to their NFT collections, assets, projects by showing any picture on their pixels.
