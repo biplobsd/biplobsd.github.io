@@ -6,6 +6,7 @@ import subprocess
 import frontmatter
 from bs4 import BeautifulSoup
 from markdown import markdown
+import urllib.parse
 
 
 def replaceImgRelativePath(data, wPath):
@@ -14,12 +15,14 @@ def replaceImgRelativePath(data, wPath):
     if os.path.exists(rootConfigPath):
         with open(rootConfigPath, 'r') as f:
             root_configs = json.load(f)
-    if not root_configs.get('baseImgUrl'):
-        raise Exception('Error: baseImgUrl key not found')
+    if not (root_configs.get('baseImgPath') or root_configs.get('baseUrl')):
+        raise Exception('Error: baseImgPath or baseUrl key not found')
         sys.exit(1)
 
+    baseImgUrl = root_configs['baseUrl'] + root_configs['baseImgPath']
+
     if re.search(imgPattern, data):
-        finalData = re.sub(imgPattern, root_configs['baseImgUrl'], data)
+        finalData = re.sub(imgPattern, baseImgUrl, data)
 
         with open(wPath, 'w') as w:
             w.write(finalData)
