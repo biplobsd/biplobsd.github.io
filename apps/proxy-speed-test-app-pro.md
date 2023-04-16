@@ -1,6 +1,6 @@
 ---
 logoUrl: https://raw.githubusercontent.com/biplobsd/proxySpeedTestApp/master/assets/icon.png
-title: DIU Speeder
+title: Proxy Speed Test
 category: Tools
 p_name_1: Android
 p_link_1: https://play.google.com/store/apps/details?id=com.speedout.proxyspeedtestpro
