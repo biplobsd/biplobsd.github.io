@@ -1,13 +1,13 @@
 ---
 appName: Action Tokens Gallery
-appLogo: /images/logos/action-token.png
+appLogo: /images/logos/action-tokens.png
 companyName: Action Tokens
-companyLogo: /images/logos/action-token.png
+companyLogo: /images/logos/action-tokens.png
 whatText: Action Tokens Gallery is an image sharing website.
 result: Simple image sharing gallery.
 ---
 
-![preview gif](https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/action-tokens/gallery-preview.png)
+![preview gif](../images/action-tokens/gallery-preview.png)
 
 # Action Tokens Gallery - Image Sharing Website
 
@@ -36,17 +36,17 @@ The website's design was based on the client's requirements and ideas. We began 
 
 ### Initial drawing
 
-![Drawing 1](https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/action-tokens/gallery-drawing.jpg)
-![Drawing 2](https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/action-tokens/gallery-drawing-2.jpg)
+![Drawing 1](../images/action-tokens/gallery-drawing.jpg)
+![Drawing 2](../images/action-tokens/gallery-drawing-2.jpg)
 
 ### Final design
 
-![Home](https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/action-tokens/home-gallery-preview.png)
-![Gallery](https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/action-tokens/Gallery-art-preview.png)
-![Art page](https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/action-tokens/Art-preview.png)
-![Upload page](https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/action-tokens/art-upload-ui.png)
-![Pending stage](https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/action-tokens/pending-art-preview-ui.png)
-![Connect wallets ui](https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/action-tokens/wallets-ui.png)
+![Home](../images/action-tokens/home-gallery-preview.png)
+![Gallery](../images/action-tokens/Gallery-art-preview.png)
+![Art page](../images/action-tokens/Art-preview.png)
+![Upload page](../images/action-tokens/art-upload-ui.png)
+![Pending stage](../images/action-tokens/pending-art-preview-ui.png)
+![Connect wallets ui](../images/action-tokens/wallets-ui.png)
 
 ## Features
 
@@ -54,7 +54,7 @@ The website's design was based on the client's requirements and ideas. We began 
 - Built with Next.js framework and Firebase database service
 - Supports wallet clients including Albedo, Wallet Connect, Freighter, XBull, and Rabet
 - Upload art it will be on the admin approval.
-- Admin can delete any art from the admin penal.
+- Admin can delete any art from the admin panel.
 
 ## Technology
 
