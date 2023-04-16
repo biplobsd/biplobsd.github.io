@@ -37,6 +37,7 @@ Our design for Stellar Wall was based on the client's requirements and ideas. We
 ### Initial Figma design
 
 ![Initial Figma design](https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/stellar-wall-initial.png)
+[View on Figma](<https://www.figma.com/file/0FtcbGTyJMhJgivk2O1Lr6/MillionNUNA-(Copy)?t=2dJnKOsFKYiseniQ-1>)
 
 ### Final design
 
