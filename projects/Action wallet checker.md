@@ -45,9 +45,10 @@ The development team proposed building a PWA app that would use the Stellar Hori
 
 ## Team
 
-- Biplob Kumar Sutradhar: Lead Developer
-- Arnob dey: Idea, Design, client requirement sync
-- Mahian Islam Sadim: Tester
+- Jose Urquiza, <a href='https://twitter.com/@hollowvox'>@hollowvox</a>: Funned, Manager
+- Biplob Kumar Sutradhar, <a href='https://twitter.com/@biplobsd11'>@biplobsd11</a>: Lead Developer
+- Arnob dey, <a href='https://twitter.com/@arnob_016'>@arnob_016</a>: Design, client requirement sync
+- Mahian Islam Sadim, <a href='https://github.com/MahianSadim'>@MahianSadim</a>: Tester
 
 ## Results
 
