@@ -64,8 +64,9 @@ The website features a modern and minimalist aesthetic with a focus on providing
 
 ## Team
 
-- Biplob Kumar Sutradhar: Lead Developer
-- Arnob Dey: Idea, Design, client requirement sync
+- Jose Urquiza, <a href='https://twitter.com/@hollowvox'>@hollowvox</a>: Funned, Manager
+- Biplob Kumar Sutradhar, <a href='https://twitter.com/@biplobsd11'>@biplobsd11</a>: Lead Developer
+- Arnob dey, <a href='https://twitter.com/@arnob_016'>@arnob_016</a>: Design, client requirement sync
 
 ## Results
 
