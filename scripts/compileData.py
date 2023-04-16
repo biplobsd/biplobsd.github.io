@@ -15,11 +15,12 @@ def replaceImgRelativePath(data, wPath):
     if os.path.exists(rootConfigPath):
         with open(rootConfigPath, 'r') as f:
             root_configs = json.load(f)
-    if not (root_configs.get('baseImgPath') or root_configs.get('baseUrl')):
+    if not (root_configs.get('baseImgPath') or root_configs.get('baseUrl') or root_configs.get('repoPath')):
         raise Exception('Error: baseImgPath or baseUrl key not found')
         sys.exit(1)
 
-    baseImgUrl = root_configs['baseUrl'] + root_configs['baseImgPath']
+    baseImgUrl = root_configs['baseUrl'] + \
+        root_configs['repoPath'] + root_configs['baseImgPath']
 
     if re.search(imgPattern, data):
         finalData = re.sub(imgPattern, baseImgUrl, data)

@@ -1,7 +1,8 @@
 {
   "appName": "Biplob Sutradhar",
-  "testimonialAddUrl": "https://github.com/biplobsd/biplobsd.github.io/tree/data/home/testimonials.json",
   "twitterHandle": "@biplobsd11",
-  "resumeUrl": "https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/files/Biplob-Kumar-Sutradhar-resume.pdf",
-  "baseImgUrl": "https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/"
+  "baseUrl": "https://raw.githubusercontent.com",
+  "repoPath": "/biplobsd/biplobsd.github.io",
+  "resumePath": "/data/files/Biplob-Kumar-Sutradhar-resume.pdf",
+  "baseImgPath": "/data/images/"
 }
