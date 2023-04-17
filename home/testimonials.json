@@ -1,6 +1,13 @@
 {
   "testis": [
     {
+      "imgUrl": "https://avatars.githubusercontent.com/u/80211467?v=4",
+      "fullName": "Jahid Imran",
+      "position": "Independent Security Researcher",
+      "text": "Biplob is humble, supportive, very dedicated and passionate about his work. I've found his projects really interesting and unique, specially, DIU Speeder, BLC Auto Login and YT Subscription Transfer. He's a leading team player with good effective communication skill and helpful towards his peer.",
+      "blank": false
+    },
+    {
       "imgUrl": "/images/me/propic.png",
       "fullName": "Biplob Sutradhar",
       "position": "Developer",
