@@ -1,6 +1,13 @@
 {
   "testis": [
     {
+      "imgUrl": "https://avatars.githubusercontent.com/u/19178331?v=4",
+      "fullName": "Jack McKew",
+      "position": "Data Scientist",
+      "text": "Biplob provided an extremely useful utility to my open source project enabling users flexible interactivity. This contribution was invaluable and is used in over 150 codebases!",
+      "link": "http://jackmckew.dev/"
+    },
+    {
       "imgUrl": "https://avatars.githubusercontent.com/u/80211467?v=4",
       "fullName": "Jahid Imran",
       "position": "Independent Security Researcher",
