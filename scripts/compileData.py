@@ -309,6 +309,60 @@ def appsCompile():
     updateConfig('appTotal', len(sorted_apps))
 
 
+def companyCompile():
+
+    FOLDER_PATH = "company/"
+
+    company_list = []
+
+    if not os.path.exists(FOLDER_PATH):
+        print('Error not found directory: '+FOLDER_PATH)
+        return
+
+    for filename in os.listdir(FOLDER_PATH):
+        if filename.endswith(".md"):
+            file_path = os.path.join(FOLDER_PATH, filename)
+
+            with open(file_path, "r") as f:
+                md_text = f.read()
+
+            md_text = replaceImgRelativePath(md_text, file_path)
+
+            post = frontmatter.loads(md_text)
+            title = post.get('title', get_title_from_content(
+                filename, post.content))
+
+            date = extractDate(file_path, post)
+            logoUrl = post.get('logoUrl', get_image_from_content(post.content))
+            homePage = post.get('homePage', '')
+            start = post.get('start', -1)
+            end = post.get('end', -1)
+            read_time = extractReadTime(post.content)
+
+            company_dict = {
+                "imgUrl": logoUrl,
+                "title": title,
+                "homePage": homePage,
+                "date": date,
+                "start": start,
+                "end": end,
+                "readTime": read_time,
+                "fileName": filename
+            }
+
+            company_list.append(company_dict)
+
+    sorted_company = sorted(
+        company_list, key=lambda x: x['date'], reverse=True)
+
+    output_dict = {"company": sorted_company}
+
+    with open("db/workInfo.json", "w") as f:
+        json.dump(output_dict, f)
+
+    updateConfig('companyTotal', len(sorted_company))
+
+
 if __name__ == '__main__':
     print('Parsing projects')
     projectCompile()
@@ -321,3 +375,7 @@ if __name__ == '__main__':
     print('Parsing apps')
     appsCompile()
     print('Apps parse done')
+
+    print('Parsing workInfo')
+    companyCompile()
+    print('WorkInfo parse done')
