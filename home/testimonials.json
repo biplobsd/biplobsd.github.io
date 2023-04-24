@@ -1,6 +1,13 @@
 {
   "testis": [
     {
+      "imgUrl": "https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/action-tokens/joseUrquiza.jpg",
+      "fullName": "Jose Urquiza",
+      "position": "Founder and CEO - Action Tokens",
+      "text": "It has been an amazing experience working together. Biplob has been instrumental in bringing our ideas to reality, allowing us to test new innovative ways for artists to connect and reward their fans. Very excited to see what's next!",
+      "link": "https://twitter.com/hollowvox"
+    },
+    {
       "imgUrl": "https://faculty.daffodilvarsity.edu.bd/images/teacher/9319018eb335d3c27aac61a862d47794.jpg",
       "fullName": "Nushrat Jahan Ria",
       "position": "Lecturer, Daffodil International University",
