@@ -6,7 +6,7 @@ imgUrl: https://user-images.githubusercontent.com/43641536/227714912-f2fb693d-8b
 ## BLC(Blended Learning Center) তে কিছু সময় পরপর logout হয়ে যাচ্ছে? অথবা কিছু দিন পরে BLC তে visit করলে আবার login করা লাগছে?
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7PWVRwNLFlQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="w-full h-96" src="https://www.youtube.com/embed/7PWVRwNLFlQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </center>
 
 এটা ঝামেলা মনে না হতে পারে। মনে করতে পারেন আবার login করে নিব। 1 second এর বেপার ই। কিন্তু এটা আপনার কিছু attention, time নিয়ে যাচ্ছে। অল্প অল্প করে অনেক time নস্ত হচ্ছে।
