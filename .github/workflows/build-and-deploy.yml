@@ -2,7 +2,7 @@ name: ✨ PNP Workflow
 
 on:
   push:
-    branches: [main]
+    branches: [data]
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -10,7 +10,7 @@ jobs:
       - name: 📥 Checkout repository data
         uses: actions/checkout@v3
         with:
-          ref: "main"
+          ref: "data"
           fetch-depth: 0
       - name: 🛠 Compile data
         run: |
@@ -26,7 +26,7 @@ jobs:
       - name: 📤 Push changes
         uses: ad-m/github-push-action@master
         with:
-          branch: "main"
+          branch: "data"
       - name: 📂 Structure directory
         run: |
           mkdir -p buildEnv/portfolio_data
