@@ -35,7 +35,7 @@ jobs:
       - name: 📥 Checkout repository PNP
         uses: actions/checkout@v3
         with:
-          repository: SpeedOut-Source/pnp
+          repository: biplobsd/portfolio
           ref: "main"
           path: "buildEnv/main"
           token: ${{ secrets.PAT }}
