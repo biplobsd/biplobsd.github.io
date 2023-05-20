@@ -2,7 +2,7 @@
 appName: Action wallet checker
 appLogo: https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/awc-logo.png
 companyName: Action Tokens
-companyLogo: /images/logos/action-tokens.png
+companyLogo: https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/logos/action-tokens.png
 date: 1680541759736
 readTime: 2
 imgUrl: https://user-images.githubusercontent.com/43641536/230180140-a0552cd5-3823-409e-92a9-fe33d5082d13.gif

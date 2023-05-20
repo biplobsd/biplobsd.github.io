@@ -1,6 +1,6 @@
 ---
 title: Qtec Solution Limited
-logoUrl: /images/logos/qtec.png
+logoUrl: https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/logos/qtec.png
 homePage: https://www.qtecsolution.com
 start: 1651341600000
 end: 1659290400000

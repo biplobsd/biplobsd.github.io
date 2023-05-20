@@ -1,6 +1,6 @@
 ---
 title: Nuna Project Art
-logoUrl: /images/logos/nuna.png
+logoUrl: https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/logos/nuna.png
 homePage: https://nunaproject.art
 start: 1654020000000
 end: 1667152800000

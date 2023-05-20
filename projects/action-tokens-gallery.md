@@ -1,8 +1,8 @@
 ---
 appName: Action Tokens Gallery
-appLogo: /images/logos/action-tokens.png
+appLogo: https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/logos/action-tokens.png
 companyName: Action Tokens
-companyLogo: /images/logos/action-tokens.png
+companyLogo: https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/logos/action-tokens.png
 whatText: Action Tokens Gallery is an image sharing website.
 result: Simple image sharing gallery.
 ---

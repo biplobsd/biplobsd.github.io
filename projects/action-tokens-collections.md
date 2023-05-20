@@ -1,8 +1,8 @@
 ---
 appName: Action Tokens Collections
-appLogo: /images/logos/action-tokens.png
+appLogo: https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/logos/action-tokens.png
 companyName: Action Tokens
-companyLogo: /images/logos/action-tokens.png
+companyLogo: https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/logos/action-tokens.png
 imgUrl: https://user-images.githubusercontent.com/43641536/232020542-503e6a6d-16da-4a3e-bfc1-7e10e5c5237a.png
 whatText: Action Token Collections is an image and audio sharing website that stellar integrated.
 result: With help of Albedo, Wallet Connect, Freighter and other user no need to create account

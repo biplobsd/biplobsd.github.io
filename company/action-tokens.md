@@ -1,6 +1,6 @@
 ---
 title: Action Tokens
-logoUrl: /images/logos/action-tokens.png
+logoUrl: https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/logos/action-tokens.png
 homePage: https://www.action-tokens.com
 start: 1654794960000
 end: -1
