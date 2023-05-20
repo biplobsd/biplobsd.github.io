@@ -1,66 +1,72 @@
-name: Node.js CI
+name: ✨ PNP Workflow
 
 on:
   push:
-    branches: [data]
-
+    branches: [main]
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository data
+      - name: 📥 Checkout repository data
         uses: actions/checkout@v3
         with:
-          ref: "data"
+          ref: "main"
           fetch-depth: 0
-      - name: Compile data
+      - name: 🛠 Compile data
         run: |
           pip install -r scripts/requirements.txt
           python scripts/compileData.py
-      - name: Commit files
+      - name: 💾 Commit files
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git diff --quiet && git diff --staged --quiet || git commit -am "${{ github.event.head_commit.message }}"
-      - name: Push changes
+          git add .
+          git diff --quiet && git diff --staged --quiet || git commit -m "${{ github.event.head_commit.message }}"
+          git status
+      - name: 📤 Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.PAT }}
-          branch: "data"
-      - name: Structure directory
+          branch: "main"
+      - name: 📂 Structure directory
         run: |
           mkdir -p buildEnv/portfolio_data
+          mv .env.local buildEnv/portfolio_data/
           rsync -av --exclude='buildEnv' * buildEnv/portfolio_data/
-      - name: Checkout repository Nextjs site
+      - name: 📥 Checkout repository PNP
         uses: actions/checkout@v3
         with:
-          repository: biplobsd/portfolio
+          repository: SpeedOut-Source/pnp
           ref: "main"
           path: "buildEnv/main"
           token: ${{ secrets.PAT }}
-      - uses: actions/setup-node@v3
+      - name: 🔒 Secret env pass
+        run: |
+          printf "\nALGOLIA_SEARCH_ADMIN_KEY=${{ secrets.ALGOLIA_SEARCH_ADMIN_KEY }}" >> buildEnv/portfolio_data/.env.local
+      - name: 🛟 Passing data
+        run: |
+          python buildEnv/portfolio_data/scripts/passData.py
+      - name: 💫 Setup node
+        uses: actions/setup-node@v3
         with:
           node-version: 18.16.0
           cache: npm
           cache-dependency-path: buildEnv/main/package-lock.json
-      - name: Restore cache
+      - name: 🔄 Restore cache
         uses: actions/cache@v3
         with:
           path: buildEnv/main/.next/cache
-          # Generate a new cache whenever packages or source files change.
           key: ${{ runner.os }}-nextjs-${{ hashFiles('buildEnv/main/**/package-lock.json', 'buildEnv/main/**/yarn.lock') }}-${{ hashFiles('buildEnv/main/**.[jt]s', 'buildEnv/main/**.[jt]sx') }}
-          # If source files changed but packages didn't, rebuild from a prior cache.
           restore-keys: |
             ${{ runner.os }}-nextjs-${{ hashFiles('buildEnv/main/**/package-lock.json', 'buildEnv/main/**/yarn.lock') }}-
-      - name: Build
+      - name: 🏗️ Build
         run: |
           cd buildEnv/main
           npm ci
           npm run export
-      - name: Deploy
+      - name: 🚀 Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          personal_token: ${{ secrets.PAT }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: buildEnv/main/out
           publish_branch: gh-pages
+          cname: biplobsd.me

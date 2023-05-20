@@ -364,18 +364,21 @@ def companyCompile():
 
 
 if __name__ == '__main__':
-    print('Parsing projects')
+    if not os.path.exists('db'):
+        os.makedirs("db", exist_ok=True)
+
+    print('✨ Parsing projects')
     projectCompile()
-    print('Project parse done')
+    print('✅ Project parse done')
 
-    print('Parsing blogs')
+    print('📚 Parsing blogs')
     blogsCompile()
-    print('Blogs parse done')
+    print('✅ Blogs parse done')
 
-    print('Parsing apps')
+    print('📱 Parsing apps')
     appsCompile()
-    print('Apps parse done')
+    print('✅ Apps parse done')
 
-    print('Parsing workInfo')
+    print('👔 Parsing workInfo')
     companyCompile()
-    print('WorkInfo parse done')
+    print('✅ WorkInfo parse done')
