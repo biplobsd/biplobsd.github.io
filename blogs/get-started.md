@@ -37,11 +37,11 @@ Since PNP is a static site, it is not possible to have a search feature on the p
 
 Next, create five indexes under your application:
 
-- Testimonials
-- Company
-- Blogs
-- Apps
-- Projects
+- `testimonials`
+- `company`
+- `blogs`
+- `apps`
+- `projects`
 
 Once you have successfully set up all the content, you will need to search the table field in the Algolia console.
 
