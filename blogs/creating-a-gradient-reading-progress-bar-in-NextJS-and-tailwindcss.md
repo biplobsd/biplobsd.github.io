@@ -1,8 +1,8 @@
 ---
-imgUrl: https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/images/reading-progressbar/preview.png
+imgUrl: ../images/reading-progressbar/preview.png
 ---
 
-![preview-reading-progressbar](https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/images/reading-progressbar/previewPointing.png)
+![preview-reading-progressbar](../images/reading-progressbar/previewPointing.png)
 
 # Creating a Gradient Reading Progress Bar in NextJS with TailwindCSS
 
@@ -10,7 +10,7 @@ I am building this portfolio website to showcase my app and services to the worl
 
 This progress bar is a good way to know how much content is remaining and it provides feedback to the user, potentially improving the user experience of the website.
 
-![gif-preview-progressbar](https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/images/reading-progressbar/reading_progress_bar.gif)
+![gif-preview-progressbar](../images/reading-progressbar/reading_progress_bar.gif)
 
 I found a tutorial by Anshuman Bhardwaj that explains how to implement a reading progress bar in a React and TailwindCSS project. Since my site is built with NextJS and TailwindCSS, I was able to adapt the tutorial to suit my website.
 
@@ -24,7 +24,7 @@ If you want to access the full source code for this project, you can find it on 
 
 ## Create a Hook File in Your NextJS Project
 
-![useReadingProgressbar.ts](https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/images/reading-progressbar/useReadingProgressbar.png)
+![useReadingProgressbar.ts](../images/reading-progressbar/useReadingProgressbar.png)
 
 Copy this code snippet below and save it as `useReadingProgressbar.ts` file.
 
@@ -101,11 +101,11 @@ I have used a TailwindCSS gradient and adjusted the `backgroundSize` CSS propert
 
 ## Preview
 
-![Preview tutorial project](https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/images/reading-progressbar/source-code-project-preview.gif)
+![Preview tutorial project](../images/reading-progressbar/source-code-project-preview.gif)
 
 ## Source Code
 
-You can find the source code for this tutorial on [Source link]
+You can find the source code for this tutorial on https://github.com/biplobsd/reading-progress-bar
 
 You can also see the implementation of this reading progress bar on the PNP website, which is an open-source project.
 
