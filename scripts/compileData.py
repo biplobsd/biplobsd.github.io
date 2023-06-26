@@ -25,7 +25,7 @@ def replaceImgRelativePath(data, wPath):
     if re.search(imgPattern, data):
         finalData = re.sub(imgPattern, baseImgUrl, data)
 
-        with open(wPath, 'w') as w:
+        with open(wPath, 'w', encoding="utf8") as w:
             w.write(finalData)
 
         return finalData
@@ -164,7 +164,7 @@ def projectCompile():
         if filename.endswith(".md"):
             file_path = os.path.join(FOLDER_PATH, filename)
 
-            with open(file_path, "r") as f:
+            with open(file_path, "r", encoding="utf8") as f:
                 md_text = f.read()
 
             md_text = replaceImgRelativePath(md_text, file_path)
@@ -219,7 +219,7 @@ def blogsCompile():
         if filename.endswith(".md"):
             file_path = os.path.join(FOLDER_PATH, filename)
 
-            with open(file_path, "r") as f:
+            with open(file_path, "r", encoding="utf8") as f:
                 md_text = f.read()
 
             md_text = replaceImgRelativePath(md_text, file_path)
@@ -269,7 +269,7 @@ def appsCompile():
         if filename.endswith(".md"):
             file_path = os.path.join(FOLDER_PATH, filename)
 
-            with open(file_path, "r") as f:
+            with open(file_path, "r", encoding="utf8") as f:
                 md_text = f.read()
 
             md_text = replaceImgRelativePath(md_text, file_path)
@@ -323,7 +323,7 @@ def companyCompile():
         if filename.endswith(".md"):
             file_path = os.path.join(FOLDER_PATH, filename)
 
-            with open(file_path, "r") as f:
+            with open(file_path, "r", encoding="utf8") as f:
                 md_text = f.read()
 
             md_text = replaceImgRelativePath(md_text, file_path)
