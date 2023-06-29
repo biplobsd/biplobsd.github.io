@@ -1,4 +1,4 @@
-![preview](../images/syntax-highlight-code-in-NextJS-tailwindcss-daisyui/preview-code-syntax-highlighter.gif)
+![preview](https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/syntax-highlight-code-in-NextJS-tailwindcss-daisyui/preview-code-syntax-highlighter.gif)
 
 # Syntax Highlight Code in NextJS TailwindCSS DaisyUI
 
@@ -84,11 +84,11 @@ In this code, we are using TailwindCSS, DaisyUI, and tailwind-scrollbar to style
 
 When running `npm run dev`:
 
-![highlight-added-dev-preview.png](../images/syntax-highlight-code-in-NextJS-tailwindcss-daisyui/highlight-added-dev-preview.png)
+![highlight-added-dev-preview.png](https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/syntax-highlight-code-in-NextJS-tailwindcss-daisyui/highlight-added-dev-preview.png)
 
 When running `npm run build`:
 
-![highlight-added-pro-preview.png](../images/syntax-highlight-code-in-NextJS-tailwindcss-daisyui/highlight-added-pro-preview.png)
+![highlight-added-pro-preview.png](https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/syntax-highlight-code-in-NextJS-tailwindcss-daisyui/highlight-added-pro-preview.png)
 
 However, there is a problem with the code highlighting in `npm run build`. To fix this, we need to register the syntax highlighter languages in our `MarkdownRender` component file.
 
@@ -177,7 +177,7 @@ pre: (pre) => {
 
 ## Final preview
 
-![copy-button-language-name.png](../images/syntax-highlight-code-in-NextJS-tailwindcss-daisyui/copy-button-language-name.png)
+![copy-button-language-name.png](https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/syntax-highlight-code-in-NextJS-tailwindcss-daisyui/copy-button-language-name.png)
 
 ## Complete Code for `markdown_render.tsx`
 
