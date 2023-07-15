@@ -4,6 +4,10 @@ title: BLC Auto Login
 category: Productivity
 p_name_1: Microsoft Edge
 p_link_1: https://microsoftedge.microsoft.com/addons/detail/cklmpfnelcdadbpoonlejongcfmkngjj
+p_name_2: Chrome Web Store
+p_link_2: https://chrome.google.com/webstore/detail/jfcbfdeolomalpheclmhggngjkocjjcb
+p_name_3: Github release
+p_link_3: https://github.com/biplobsd/blc-auto-login/releases/latest
 img_1: https://store-images.s-microsoft.com/image/apps.36930.77a08942-54a6-442e-84a9-20c5814e601e.fc5e3ee3-6b38-46b3-8ea3-d6eec12b76f9.5ee70080-2ce2-4327-9536-4f497a6c7b54
 ---
 
