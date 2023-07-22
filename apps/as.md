@@ -2,10 +2,6 @@
 logoUrl: https://raw.githubusercontent.com/biplobsd/as/main/src/assets/icons/icon128.png
 title: Addition and Subscription
 category: Fun
-p_name_1: Edge Add-ons
-p_link_1: https://microsoftedge.microsoft.com/addons/detail/fodpdpkegeedoncffdiefkljojnnofhf
-p_name_2: Chrome Web Store
-p_link_2: https://chrome.google.com/webstore/detail/gcfbgldheflkffckpodpmkjlkbapmfnc
 p_name_3: Github release
 p_link_3: https://github.com/biplobsd/as/releases/latest
 img_1: https://github.com/biplobsd/as/assets/43641536/be8cfb52-bb45-4ce3-8855-59e2e5e1bd49
@@ -15,7 +11,7 @@ img_1: https://github.com/biplobsd/as/assets/43641536/be8cfb52-bb45-4ce3-8855-59
 <iframe class="w-full h-96" src="https://www.youtube.com/embed/tH3DBDNKc8c" title="Addition and Subscription Extension" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
-Addition and Subscription is a browser extension that helps you practice simple addition and subtraction equations. It is like a quiz extension.
+Addition and Subscription is a browser extension that helps you practice simple addition and subtraction expression. It is like a quiz extension.
 
 FEATURES
 ----------------------------------
