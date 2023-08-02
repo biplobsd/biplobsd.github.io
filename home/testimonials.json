@@ -1,6 +1,13 @@
 {
   "testis": [
     {
+      "imgUrl": "https://avatars.githubusercontent.com/u/80211467?v=4",
+      "fullName": "Jahid Imran",
+      "position": "Independent Security Researcher",
+      "text": "Biplob is humble, supportive, very dedicated and passionate about his work. I've found his projects really interesting and unique, specially, DIU Speeder, BLC Auto Login and YT Subscription Transfer. He's a leading team player with good effective communication skill and helpful towards his peer.",
+      "link": "https://twitter.com/badxcode"
+    },
+    {
       "imgUrl": "https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/action-tokens/joseUrquiza.jpg",
       "fullName": "Jose Urquiza",
       "position": "Founder and CEO - Action Tokens",
@@ -29,11 +36,11 @@
       "link": "http://jackmckew.dev/"
     },
     {
-      "imgUrl": "https://avatars.githubusercontent.com/u/80211467?v=4",
-      "fullName": "Jahid Imran",
-      "position": "Independent Security Researcher",
-      "text": "Biplob is humble, supportive, very dedicated and passionate about his work. I've found his projects really interesting and unique, specially, DIU Speeder, BLC Auto Login and YT Subscription Transfer. He's a leading team player with good effective communication skill and helpful towards his peer.",
-      "link": "https://twitter.com/badxcode"
+      "imgUrl": "https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/Ratul-Karim.jpg",
+      "fullName": "Ratul Karim",
+      "position": "Digital Marketer & Google ads expert",
+      "text": "I consider myself incredibly fortunate to have met Biplob during our university journey. He has been an exceptional friend and a pillar of support throughout our time in the Computer Science and Engineering department.",
+      "link": "https://rkpromote.com/"
     }
   ]
 }
