@@ -2,6 +2,8 @@
 logoUrl: https://raw.githubusercontent.com/biplobsd/as/main/src/assets/icons/icon128.png
 title: Addition and Subtraction 
 category: Fun
+p_name_1: Microsoft Add-ons
+p_link_1: https://chrome.google.com/webstore/detail/fodpdpkegeedoncffdiefkljojnnofhf
 p_name_2: Chrome Web Store
 p_link_2: https://chrome.google.com/webstore/detail/gcfbgldheflkffckpodpmkjlkbapmfnc
 p_name_3: Github release
