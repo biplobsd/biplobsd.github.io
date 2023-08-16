@@ -1,58 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url><loc>https://biplobsd.me</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/about</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/view</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/view</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/company</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/company/page</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/company/view</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/contact</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/pricing</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/privacy</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/projects</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/projects/page</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/projects/view</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/resume</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/1</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/2</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/view/ocr.md</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/view/awc.md</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/view/as.md</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/view/blc-auto-login.md</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/view/yst.md</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/view/proxy-speed-test-app-pro.md</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/view/epoch-readable.md</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/view/diu-speeder.md</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/view/image-animated-splitter.md</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/view/image-resizer-offline.md</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/view/image-converter-offline.md</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/view/cppg.md</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/view/stellar-wall.md</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/1</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/2</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/view/limbuscode-chrome-extension-analysis.md</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/view/syntax-highlight-code-in-NextJS-tailwindcss-daisyui.md</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/view/creating-a-gradient-reading-progress-bar-in-NextJS-and-tailwindcss.md</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/view/get-started.md</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/view/blc-auto-logo.bn.md</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/view/ocaria2.md</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/view/crop-pixel-playground.md</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/view/t460s-ux.md</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/view/OneClickRun Notebook.md</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/view/Youtube Subscriptions Transfer.md</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/view/BLC auto login.md</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/company/page/1</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/company/view/action-tokens.md</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/company/view/nuna-project-art.md</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/company/view/qtec-solution-limited.md</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/projects/page/1</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/projects/view/action-tokens-collections.md</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/projects/view/action-tokens-gallery.md</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/projects/view/stellar-wall.md</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/projects/view/Action wallet checker.md</loc><lastmod>2023-08-06T14:47:02.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/about</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/view</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/view</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/company</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/company/page</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/company/view</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/contact</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/pricing</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/privacy</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/projects</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/projects/page</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/projects/view</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/resume</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/1</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/2</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/view/ocr.md</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/view/awc.md</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/view/as.md</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/view/blc-auto-login.md</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/view/yst.md</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/view/proxy-speed-test-app-pro.md</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/view/epoch-readable.md</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/view/diu-speeder.md</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/view/image-animated-splitter.md</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/view/image-resizer-offline.md</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/view/image-converter-offline.md</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/view/cppg.md</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/view/stellar-wall.md</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/1</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/2</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/view/stellar-login-system-with-facebook-and-google.md</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/view/limbuscode-chrome-extension-analysis.md</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/view/syntax-highlight-code-in-NextJS-tailwindcss-daisyui.md</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/view/creating-a-gradient-reading-progress-bar-in-NextJS-and-tailwindcss.md</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/view/get-started.md</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/view/blc-auto-logo.bn.md</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/view/ocaria2.md</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/view/crop-pixel-playground.md</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/view/t460s-ux.md</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/view/OneClickRun Notebook.md</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/view/Youtube Subscriptions Transfer.md</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/view/BLC auto login.md</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/company/page/1</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/company/view/action-tokens.md</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/company/view/nuna-project-art.md</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/company/view/qtec-solution-limited.md</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/projects/page/1</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/projects/view/action-tokens-collections.md</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/projects/view/action-tokens-gallery.md</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/projects/view/stellar-wall.md</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/projects/view/Action wallet checker.md</loc><lastmod>2023-08-16T03:39:24.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 </urlset>
