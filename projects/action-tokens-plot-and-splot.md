@@ -8,7 +8,7 @@ whatText: Grid for placing images into blocks that stellar integrated.
 result: Action Tokens users can easily visualize their plots and SPlots on their screens and upload images, edit information, and showcase their plots to the world
 ---
 
-<video width="100%" height="100%" autoplay muted>
+<video width="100%" height="100%" autoplay muted loop>
   <source src="https://github.com/biplobsd/biplobsd.github.io/assets/43641536/bf0b5e08-f44a-4eae-af2a-00a19ccd7a5b" type="video/mp4">
 </video>
 
