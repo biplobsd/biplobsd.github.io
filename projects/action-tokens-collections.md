@@ -24,7 +24,7 @@ The website has a problem identifying users by their public address, which is on
 
 ## Solution
 
-To address these issues, we chose Next.JS as our framework, TailwindCSS for frontend, and Firebase Firestore for backend database. Amazon Amplifier was used as the backend for our client's Amazon Amplifier account.
+To address these issues, we chose Next.JS as our framework, TailwindCSS for frontend, and Firebase Firestore for backend database. Amazon Amplify was used as the backend for our client's Amazon Amplify account.
 
 ## Design
 
@@ -84,4 +84,4 @@ Users can now share their arts or LiteMint and Fimi data on the Action Token Col
 
 ## Conclusion
 
-The implementation of Next.js, TailwindCSS, Firebase Firestore, and Amazon Amplifier has enabled Action Tokens Collections to address the challenge of identifying users through their public address and support multiple wallet clients. The platform's privacy lock feature and ability to fetch data from URLs have added to its appeal.
+The implementation of Next.js, TailwindCSS, Firebase Firestore, and Amazon Amplify has enabled Action Tokens Collections to address the challenge of identifying users through their public address and support multiple wallet clients. The platform's privacy lock feature and ability to fetch data from URLs have added to its appeal.

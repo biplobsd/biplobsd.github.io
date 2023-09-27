@@ -28,7 +28,7 @@ After conducting thorough research, our team chose
 - Next.JS as framework
 - TailwindCSS for frontend
 - Firebase Firestore for backend database
-- Amazon Amplifier was used as the Next.JS hosting
+- Amazon Amplify was used as the Next.JS hosting
 
 ## Design
 
