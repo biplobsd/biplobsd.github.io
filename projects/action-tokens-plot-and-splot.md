@@ -69,6 +69,7 @@ The design of Action Tokens Plot and SPlot was based on the client's requirement
 - Jose Urquiza, <a href='https://twitter.com/@hollowvox'>@hollowvox</a>: Founder and CEO - Action Tokens
 - Biplob Kumar Sutradhar, <a href='https://twitter.com/@biplobsd11'>@biplobsd11</a>: Lead Developer.
 - Arnob Dey, <a href='https://twitter.com/@arnob_016'>@arnob_016</a>: Design and Project Manager
+- Md. Zonaid, <a href='https://twitter.com/@iH_Zonaid'>@iH_Zonaid</a>: Developer
 
 ## Results
 
