@@ -1,4 +1,4 @@
-![Swirl-Preview](../images/swirl/swirl-preview.gif)
+![Swirl-Preview](https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/swirl/swirl-preview.gif)
 
 # Run Swirl Open-Source Search Engine on the Google Colab
 
@@ -14,25 +14,25 @@ So, to give it a try, I have created a Google Colab notebook to run Swirl withou
 
 Click the "Open in Colab" button above to open the notebook. Then, connect to a new Google Colab runtime backend.
 
-![Connect-Runtime](../images/swirl/connect-runtime.png)
+![Connect-Runtime](https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/swirl/connect-runtime.png)
 
 ## Run Step 1 - Prerequisites Installation
 
 Now, run the prerequisites `setup 1` cell to install udocker and redis-server. In Colab, Docker is not supported yet. For this Docker alternative, I found udocker.
 
-![Step-1](../images/swirl/step-1.png)
+![Step-1](https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/swirl/step-1.png)
 
 ## Step 2 - Port Forward 8000
 
 In the Google Colab notebook, the local port is not open by default. So, if we want to access the localhost port, we need to port forward it somehow. Run this cell, and you will get a link to access the Google Colab backend at localhost:8000. Do not click that link now because Swirl has not started yet.
 
-![Step-2](../images/swirl/step-2.png)
+![Step-2](https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/swirl/step-2.png)
 
 ## Step 3 - Starting Swirl Using Udocker
 
 Here is the final cell for starting Swirl. On the first run, udocker will download the `swirlai/swirl-search` image, so please wait for the download. Then, Swirl will automatically start and wait for requests. So, please be patient; it takes almost 2-3 minutes. After that, you will see the message `Listening on TCP address 0.0.0.0:8000` in the console.
 
-![Step-3](../images/swirl/step-3.png)
+![Step-3](https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/swirl/step-3.png)
 
 ## Finish - Access Swirl
 
@@ -42,7 +42,7 @@ If you see the message `no tunnel here :(` or any other message, stop the `Step 
 
 Enter the username as `admin` and the password as `password`, and press Login.
 
-![Galaxy-UI](../images/swirl/Final.png)
+![Galaxy-UI](https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/swirl/Final.png)
 
 Now, enter any query to try out the open-source Swirl metasearch engine.
 
