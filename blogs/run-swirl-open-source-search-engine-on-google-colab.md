@@ -53,4 +53,6 @@ In my trial, Swirl is great—an open-source search engine built with Python. If
 GitHub: https://github.com/swirlai/swirl-search <br>
 Slack: [Swirl Community Slack](https://join.slack.com/t/swirlmetasearch/shared_invite/zt-1qk7q02eo-kpqFAbiZJGOdqgYVvR1sfw)
 
+Notebook repository : https://github.com/biplobsd/swirl-colab
+
 Thank you for reading and trying this amazing open-source search engine. 🚀🚀🚀
