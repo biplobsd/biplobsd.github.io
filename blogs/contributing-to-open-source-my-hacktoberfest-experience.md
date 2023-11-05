@@ -1,13 +1,13 @@
-![Untitled design](https://github.com/biplobsd/biplobsd.github.io/assets/43641536/76c3938a-9aa9-46e0-8f9c-642ac71070ca)
+![Preview](https://github.com/biplobsd/biplobsd.github.io/assets/43641536/76c3938a-9aa9-46e0-8f9c-642ac71070ca)
 
 # Contributing to Open Source: My Hacktoberfest Experience
 
-Learn how to earn free stickers, t-shirts, hoodies, and more by contributing to open-source projects. In this blog, I will share my experiences from participating in four Hacktoberfest events and receiving fantastic gifts from project maintainers. Why am I writing this blog? I'm doing it to document my experiences for next year and to improve my swag collection skills. This blog will also help beginners learn how to participate in open-source projects.
+Learn how to get free stickers, t-shirts, hoodies, and more by contributing to open-source projects. In this blog, I will share my experiences from participating in four Hacktoberfest events and receiving fantastic gifts from project maintainers. Why am I writing this blog? I'm doing it to document my experiences for next year and to improve my swag collection skills. This blog will also help beginners learn how to participate in open-source projects.
 
 ## What is Hacktoberfest?
-![image](https://github.com/biplobsd/biplobsd.github.io/assets/43641536/62d30a6d-81af-41b9-8681-eb6d910ef962)
+![Hacktoberfest logo](https://github.com/biplobsd/biplobsd.github.io/assets/43641536/62d30a6d-81af-41b9-8681-eb6d910ef962)
 
-[Hacktoberfest](https://hacktoberfest.com/) is a month-long celebration of open-source software. Throughout the entire month of October, developers of all skill levels are invited to contribute to open-source projects and, in return, receive limited-edition swag such as stickers, t-shirts, hoodies, and more. This description is taken from the [trigger.dev](https://trigger.dev/hacktoberfest) Hacktoberfest website. The year 2023 marks the 10th edition of Hacktoberfest, and you need to know about GitHub and Gitlab before participating in this event.
+[Hacktoberfest](https://hacktoberfest.com/) is a month-long celebration of open-source software. Throughout the entire month of October, developers of all skill levels are invited to contribute to open-source projects and, in return, receive limited-edition swag such as stickers, t-shirts, hoodies, and more. This description is taken from the [trigger.dev](https://trigger.dev/hacktoberfest) Hacktoberfest website. The year 2023 marks the 10th edition of Hacktoberfest, and you need to know about GitHub or GitLab before participating in this event.
 
 ## Where to Start?
 
@@ -35,7 +35,7 @@ Afterward, I reviewed all swag lists and wondered if contributing was really tha
 
 | Slack | Feature |
 |:---:|:---:|
-| ![image](https://github.com/biplobsd/biplobsd.github.io/assets/43641536/d9265220-80b3-446f-bc84-7b792cdd4d06) | ![Feature](https://github.com/biplobsd/biplobsd.github.io/assets/43641536/e6635b71-1bd8-4e4a-a040-b9d928c93220) |
+| ![Slack](https://github.com/biplobsd/biplobsd.github.io/assets/43641536/d9265220-80b3-446f-bc84-7b792cdd4d06) | ![Feature](https://github.com/biplobsd/biplobsd.github.io/assets/43641536/e6635b71-1bd8-4e4a-a040-b9d928c93220) |
 
 ## How to Join a Team
 
@@ -96,7 +96,7 @@ I mentioned this project earlier. Visit their Github project and choose an issue
 
 You can also contribute to [https://github.com/mondaycom/monday-ui-react-core](https://github.com/mondaycom/monday-ui-react-core) projects. My Hacksquad teammate, [Kritik Jiyaviya](https://github.com/Kritik-J), was the top contributor for [Monday-UI-React-Core Hacktoberfest](https://github.com/mondaycom/monday-ui-react-core/issues/1728). Although they don't provide swag, you gain valuable experience in React.
 
-![image](https://github.com/biplobsd/biplobsd.github.io/assets/43641536/25d47cb2-98c4-448b-9e21-0f9950bdd824)
+![Monday-ui-react-core leaderboard](https://github.com/biplobsd/biplobsd.github.io/assets/43641536/25d47cb2-98c4-448b-9e21-0f9950bdd824)
 
 ### Josh Goldberg’s Projects
 
