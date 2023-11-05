@@ -70,7 +70,9 @@ During trigger.dev contrubution I made some cool api reference example like how 
 
 I achieved 1st place at Trigger.dev Hacktoberfest event, earning [4,000 diamonds](https://trigger.dev/hacktoberfest#leaderboard).
 
-![Trigger.dev leaderboard](https://github.com/biplobsd/biplobsd.github.io/assets/43641536/dd94652a-8533-407f-90d8-2170ccf088b4)
+| Discord | Trigger.dev leaderboard |
+|:---:|:---:|
+| ![Discord](https://github.com/biplobsd/biplobsd.github.io/assets/43641536/89d05916-ca97-4504-bce6-d83a5d74f861) | ![Trigger.dev leaderboard](https://github.com/biplobsd/biplobsd.github.io/assets/43641536/dd94652a-8533-407f-90d8-2170ccf088b4) |
 
 ### Novu
 
