@@ -2,7 +2,7 @@
 
 # Contributing to Open Source: My Hacktoberfest Experience
 
-Learn how to get free stickers, t-shirts, hoodies, and more by contributing to open-source projects. In this blog, I will share my experiences from participating in four Hacktoberfest events and receiving fantastic gifts from project maintainers. Why am I writing this blog? I'm doing it to document my experiences for next year and to improve my swag collection skills. This blog will also help beginners learn how to participate in open-source projects.
+Learn how to get free stickers, t-shirts, hoodies, and more by contributing to open-source projects. In this blog, I will share my experiences as a four-time Hacktoberfest participant and receiving fantastic gifts from project maintainers. Why am I writing this blog? I'm doing it to document my experiences for next year and to improve my swag collection skills. This blog will also help beginners learn how to participate in open-source projects.
 
 ## What is Hacktoberfest?
 ![Hacktoberfest logo](https://github.com/biplobsd/biplobsd.github.io/assets/43641536/62d30a6d-81af-41b9-8681-eb6d910ef962)
@@ -21,7 +21,7 @@ However, 2023 is different. There are no physical items being shipped to our add
 
 So, where should you start? This question was already answered when I first learned about it from a YouTube video. But this approach may not be suitable for finding all the projects organized for this event. You need a list that shows the status of all events.
 
-[https://hacktoberfestswaglist.com](https://hacktoberfestswaglist.com) is the main source for knowing about all the events. I also contributed to this project to complete my four pull requests every year. [crweiner](https://github.com/crweiner) is the maintainer of this project.
+[Hacktoberfestswaglist.com](https://hacktoberfestswaglist.com) is the main source for knowing about all the events. I also contributed to this project to complete my four pull requests every year. [crweiner](https://github.com/crweiner) is the maintainer of this project.
 
 From the project, I first learned about [Swirl Search](https://github.com/swirlai/swirl-search) for my initial contribution through a tutorial.
 
@@ -56,13 +56,13 @@ In October, I successfully contributed to and merged PRs in [12 projects](https:
 
 ## My Recommended Projects to Contribute
 
-Always refer to [https://hacktoberfestswaglist.com](https://hacktoberfestswaglist.com) to discover all the events. Below, I have listed some recommended open-source projects to contribute to. The choice of projects is up to you, but these are the ones I contributed to this year and received swag from.
+Always refer to [hacktoberfestswaglist.com](https://hacktoberfestswaglist.com) to discover all the events. Below, I have listed some recommended open-source projects to contribute to. The choice of projects is up to you, but these are the ones I contributed to this year and received swag from.
 
 ### Trigger.dev
 
-The [Trigger.dev](https://trigger.dev/) project is also very strong, and you can contribute to it. You may need specific skills like Typescript, but you can also contribute to their documentation. They create issues with diamond cost labels, which indicate the difficulty of the issues. The project maintainers are positive and excellent communicators. They will review your pull requests and provide guidance. [Dan Patel](https://github.com/D-K-P), [Matt Aitken](https://github.com/matt-aitken), and [Nicktrn](https://github.com/nicktrn) will assist you in contributing to this project. Always ask questions on their [Discord server](https://discord.gg/nkqV9xBYWy) if you have any queries.
+The [trigger.dev](https://trigger.dev/) project is also very strong, and you can contribute to it. You may need specific skills like Typescript, but you can also contribute to their documentation. They create issues with diamond cost labels, which indicate the difficulty of the issues. The project maintainers are positive and excellent communicators. They will review your pull requests and provide guidance. [Dan Patel](https://github.com/D-K-P), [Matt Aitken](https://github.com/matt-aitken), and [Nicktrn](https://github.com/nicktrn) will assist you in contributing to this project. Always ask questions on their [Discord server](https://discord.gg/nkqV9xBYWy) if you have any queries.
 
-During trigger.dev contrubution I made some cool api reference example like how to use twitter api to make a post. 
+During [trigger.dev](https://trigger.dev/) contrubution I made some cool api reference example like how to use twitter api to make a post. 
 
 <video width="100%" height="100%" autoplay muted loop>
   <source src="https://github.com/biplobsd/biplobsd.github.io/assets/43641536/97104cc4-14f3-4891-a9fa-85fb707c092d" type="video/mp4">
@@ -76,7 +76,7 @@ I achieved 1st place at Trigger.dev Hacktoberfest event, earning [4,000 diamonds
 
 ### Novu
 
-The Novu project is a good starting point for Hacktoberfest. You only need to make three PRs to be eligible for their free t-shirt. Visit [https://novu.co/hacktoberfest](https://novu.co/hacktoberfest) to learn more about their event. [Sumit Saurabh](https://github.com/sumitsaurabh927) and [Prosper Otemuyiwa](https://github.com/unicodeveloper) guided me in merging my pull requests.
+The Novu project is a good starting point for Hacktoberfest. You only need to make three PRs to be eligible for their free t-shirt. Visit [novu.co/hacktoberfest](https://novu.co/hacktoberfest) to learn more about their event. [Sumit Saurabh](https://github.com/sumitsaurabh927) and [Prosper Otemuyiwa](https://github.com/unicodeveloper) guided me in merging my pull requests.
 
 I successfully contributed to 3 PRs in the Novu documentation.
 
@@ -84,33 +84,33 @@ I successfully contributed to 3 PRs in the Novu documentation.
 
 ### Odigos
 
-https://github.com/keyval-dev/odigos This project is also suitable for beginners. [Eden Federman](https://github.com/edeNFed) and [Amir Blum](https://github.com/blumamir) are very helpful in guiding you to contribute to their projects. I was also fortunate enough to be eligible for a t-shirt.
+[github.com/keyval-dev/odigos](https://github.com/keyval-dev/odigos) This project is also suitable for beginners. [Eden Federman](https://github.com/edeNFed) and [Amir Blum](https://github.com/blumamir) are very helpful in guiding you to contribute to their projects. I was also fortunate enough to be eligible for a t-shirt.
 
 ### Swirl Search
 
-https://github.com/swirlai/swirl-search This open-source project is ideal for beginners to contribute to. All you need to do is look at their issues and join their [Slack](https://join.slack.com/t/swirlmetasearch/shared_invite/zt-1qk7q02eo-kpqFAbiZJGOdqgYVvR1sfw). The maintainer will help you contribute to this project. I wrote a tutorial about [running Swirl Search on Google Colab](https://biplobsd.me/blogs/view/run-swirl-open-source-search-engine-on-google-colab.md) and became eligible for their swag.
+[github.com/swirlai/swirl-search](https://github.com/swirlai/swirl-search) This open-source project is ideal for beginners to contribute to. All you need to do is look at their issues and join their [Slack](https://join.slack.com/t/swirlmetasearch/shared_invite/zt-1qk7q02eo-kpqFAbiZJGOdqgYVvR1sfw). The maintainer will help you contribute to this project. I wrote a tutorial about [running Swirl Search on Google Colab](https://biplobsd.me/blogs/view/run-swirl-open-source-search-engine-on-google-colab.md) and became eligible for their swag.
 
 ### Hacktoberfest-swag-list
 
-I mentioned this project earlier. Visit their Github project and choose an issue to contribute to: [https://github.com/crweiner/hacktoberfest-swag-list](https://github.com/crweiner/hacktoberfest-swag-list). They might not provide swag, but it's a great way to gain experience in making pull requests.
+I mentioned this project earlier. Visit their Github project and choose an issue to contribute to: [github.com/crweiner/hacktoberfest-swag-list](https://github.com/crweiner/hacktoberfest-swag-list). They might not provide swag, but it's a great way to gain experience in making pull requests.
 
 ### Monday-UI-React-Core
 
-You can also contribute to [https://github.com/mondaycom/monday-ui-react-core](https://github.com/mondaycom/monday-ui-react-core) projects. My Hacksquad teammate, [Kritik Jiyaviya](https://github.com/Kritik-J), was the top contributor for [Monday-UI-React-Core Hacktoberfest](https://github.com/mondaycom/monday-ui-react-core/issues/1728). Although they don't provide swag, you gain valuable experience in React.
+You can also contribute to [github.com/mondaycom/monday-ui-react-core](https://github.com/mondaycom/monday-ui-react-core) projects. My Hacksquad teammate, [Kritik Jiyaviya](https://github.com/Kritik-J), was the top contributor for [Monday-UI-React-Core Hacktoberfest](https://github.com/mondaycom/monday-ui-react-core/issues/1728). Although they don't provide swag, you gain valuable experience in React.
 
 ![Monday-ui-react-core leaderboard](https://github.com/biplobsd/biplobsd.github.io/assets/43641536/25d47cb2-98c4-448b-9e21-0f9950bdd824)
 
 ### Josh Goldberg’s Projects
 
-[Josh](https://github.com/JoshuaKGoldberg) is a very active open-source contributor who has created numerous projects. He is the typescript-eslint maintainer and the author of LearningTypeScript. You can select a good first issue from any of his projects, and he will guide you in making successful pull requests. I was fortunate to make a small PR to his [https://github.com/JoshuaKGoldberg/create-typescript-app](https://github.com/JoshuaKGoldberg/create-typescript-app) project.
+[Josh](https://github.com/JoshuaKGoldberg) is a very active open-source contributor who has created numerous projects. He is the typescript-eslint maintainer and the author of LearningTypeScript. You can select a good first issue from any of his projects, and he will guide you in making successful pull requests. I was fortunate to make a small PR to his [github.com/JoshuaKGoldberg/create-typescript-app](https://github.com/JoshuaKGoldberg/create-typescript-app) project.
 
-![/create-typescript-app contributors](https://github.com/biplobsd/biplobsd.github.io/assets/43641536/b88cb366-5e62-43b2-805c-39a005ee4ab2)
+![create-typescript-app contributors](https://github.com/biplobsd/biplobsd.github.io/assets/43641536/b88cb366-5e62-43b2-805c-39a005ee4ab2)
 
 ### More Projects
 
 If you want to discover more projects of this kind, you can search on GitHub with filters like this: [https://github.com/search?q=comments%3A0+comments%3A0+label%3A%22good+first+issue%22++language%3ATypeScript++++&type=issues&ref=advsearch&state=open&s=created&o=desc](https://github.com/search?q=comments%3A0+comments%3A0+label%3A%22good+first+issue%22++language%3ATypeScript++++&type=issues&ref=advsearch&state=open&s=created&o=desc).
 
-You can also use websites like [http://firstissue.dev](http://firstissue.dev), [https://goodfirstissue.dev](https://goodfirstissue.dev), [https://up-for-grabs.net](https://up-for-grabs.net), etc., to find your first issue and contribute to it. I suggest ensuring that the project maintainer is active before contributing to the project.
+You can also use websites like [firstissue.dev](http://firstissue.dev), [goodfirstissue.dev](https://goodfirstissue.dev), [up-for-grabs.net](https://up-for-grabs.net), etc., to find your first issue and contribute to it. I suggest ensuring that the project maintainer is active before contributing to the project.
 
 ## Advanced Contributions
 
@@ -138,6 +138,7 @@ Hacktoberfest is a fantastic event that provides valuable experience in open-sou
 - [Beyond Hacktoberfest🚀](https://dev.to/siren/beyond-hacktoberfest-4815)
 - [My Hacktoberfest 2023 Experience with Trigger.dev](https://dev.to/shelar1423/my-hacktoberfest-2023-experience-with-triggerdev-lce)
 - [Contribute to Swirl this Hacktoberfest. Win Swags up to $100](https://dev.to/swirl/contribute-to-swirl-this-hacktoberfest-win-swags-up-to-100-40ii)
+- [Spamtoberfest 2023](https://furtidev.github.io/blog/spamtoberfest/)
 
 That concludes my Hacktoberfest 2023 journey. If I've forgotten anything, please comment below, and I will update my blog. Thank you for reading, and good luck with your Hacktoberfest 🎃.
 
