@@ -134,6 +134,7 @@ Here are some key points to keep in mind:
 Hacktoberfest is a fantastic event that provides valuable experience in open-source. The open-source community will help you enhance your software development skills in a fun and accessible way. Don't miss this opportunity.
 
 ## Reference blogs
+- [Step by Step Guide on How You Can Contribute to Open Source this HacktoberFest!](https://twitter.com/thenabinbhatt/status/1712082660171079727?t=ejl8iejYqqGjJjHK8VBiZg&s=19)
 - [Hacktoberfest 2023: A Beginner’s Journey into Open Source](https://dev.to/nabinbhatt/hacktoberfest-2023-a-beginners-journey-into-open-source-1fi1)
 - [Beyond Hacktoberfest🚀](https://dev.to/siren/beyond-hacktoberfest-4815)
 - [My Hacktoberfest 2023 Experience with Trigger.dev](https://dev.to/shelar1423/my-hacktoberfest-2023-experience-with-triggerdev-lce)
