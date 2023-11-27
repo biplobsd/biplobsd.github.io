@@ -2,6 +2,8 @@
 logoUrl: https://user-images.githubusercontent.com/43641536/284902867-e3deed55-aee7-4333-847c-8cd032327eea.png
 title: "YGPT: YouTube GPT"
 category: Tools
+p_name_1: Chrome Web Store
+p_link_1: https://chrome.google.com/webstore/detail/ckkahgcopajmaohkdnijmmmlhjddeoan
 img_1: https://github.com/biplobsd/biplobsd.github.io/assets/43641536/39820c28-6399-464c-a5ad-93c6a30317fa
 img_2: https://github.com/biplobsd/biplobsd.github.io/assets/43641536/ac3f04e9-48b1-4df5-a78b-e8d96290bb2f
 ---
