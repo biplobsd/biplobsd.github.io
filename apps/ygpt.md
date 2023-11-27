@@ -6,6 +6,10 @@ img_1: https://github.com/biplobsd/biplobsd.github.io/assets/43641536/39820c28-6
 img_2: https://github.com/biplobsd/biplobsd.github.io/assets/43641536/ac3f04e9-48b1-4df5-a78b-e8d96290bb2f
 ---
 
+| Enable/Disable - Difference |
+| :--: |
+| <div class="diff rounded-btn aspect-[16/9]"><div class="diff-item-1"><center><img alt="Normal screen" src="https://github.com/biplobsd/biplobsd.github.io/assets/43641536/31f67f13-aebf-44bc-9b62-15492c1efdba"></center></div><div class="diff-item-2"><center><img alt="Labeled video titles" src="https://github.com/biplobsd/biplobsd.github.io/assets/43641536/0e3f0888-af1e-4c25-ac30-ebebac2962d1"></center></div><div class="diff-resizer"></div></div> |
+
 Using OpenAI GPT to check whether YouTube videos are `watch` or `ignore`, based on your given prompt.
 
 ## Features
