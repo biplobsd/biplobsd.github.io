@@ -89,9 +89,20 @@ The Fetch Update button will manually trigger the fetch request.
 
 Before reporting, please add a proper description and screenshots to help fix the problem. Report on Github issue tab - [github.com/biplobsd/ygpt/issues](https://github.com/biplobsd/ygpt/issues)
 
+## Thanks
+- [NekitCorp/chrome-extension-svelte-typescript-boilerplate](https://github.com/NekitCorp/chrome-extension-svelte-typescript-boilerplate)
+- [color-picker-svelte](https://github.com/probablykasper/color-picker-svelte)
+- [daisyUI](https://github.com/saadeghi/daisyui)
+- [lucide-svelte](https://github.com/lucide-icons/lucide)
+- [normalize-text](https://github.com/VitorLuizC/normalize-text)
+- [openai](https://github.com/openai/openai-node)
+- [svelte](https://github.com/sveltejs/svelte)
+- [svelte-french-toast](https://github.com/kbrgl/svelte-french-toast)
+- [tailwind-modern-scroll](https://github.com/ismailceylan/tailwind-modern-scroll)
+- Typescript, Zod, Tailwind CSS and all...
+
 ## Donation
 
 If this app has been helpful to you, consider [buying me a ☕coffee](https://www.buymeacoffee.com/biplobsd). It would make me very happy 😃
 
-<a href="https://www.buymeacoffee.com/biplobsd" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
+<a href="https://www.buymeacoffee.com/biplobsd" target="_blank"><img class="!w-[60px] !h-[217px]" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;"></a>
