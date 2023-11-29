@@ -105,4 +105,4 @@ Before reporting, please add a proper description and screenshots to help fix th
 
 If this app has been helpful to you, consider [buying me a ☕coffee](https://www.buymeacoffee.com/biplobsd). It would make me very happy 😃
 
-<a href="https://www.buymeacoffee.com/biplobsd" target="_blank"><img class="!w-[60px] !h-[217px]" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;"></a>
+<a href="https://www.buymeacoffee.com/biplobsd" target="_blank"><img src="https://github.com/biplobsd/biplobsd.github.io/assets/43641536/cb94d402-6a4e-4f37-a58c-2a90c051abf2" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;"></a>
