@@ -91,6 +91,7 @@ Before reporting, please add a proper description and screenshots to help fix th
 
 ## Thanks
 - [NekitCorp/chrome-extension-svelte-typescript-boilerplate](https://github.com/NekitCorp/chrome-extension-svelte-typescript-boilerplate)
+- [svelte-persistent-store](https://github.com/MacFJA/svelte-persistent-store)
 - [color-picker-svelte](https://github.com/probablykasper/color-picker-svelte)
 - [daisyUI](https://github.com/saadeghi/daisyui)
 - [lucide-svelte](https://github.com/lucide-icons/lucide)
