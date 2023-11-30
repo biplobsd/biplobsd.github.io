@@ -48,6 +48,13 @@
       "position": "Research scholar",
       "text": "I just wanted to express my deep gratitude for the dedicated work of Biplob Sutradhar. He's a genius, he helped me in solving Colab related issues.",
       "link": "https://github.com/mikeje"
+    },
+    {
+      "imgUrl": "https://avatars.githubusercontent.com/u/8297864?v=4",
+      "fullName": "Dan Patel",
+      "position": "Founder @triggerdotdev / jsonhero.io",
+      "text": "Biplob was our number 1 contributor during Hacktoberfest, and really helped us build out our api reference repo!",
+      "link": "https://twitter.com/DKP__"
     }
   ]
 }
