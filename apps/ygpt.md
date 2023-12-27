@@ -25,6 +25,7 @@ Using OpenAI GPT to check whether YouTube videos are `watch` or `ignore`, based 
 - ⚙️ One-click AI toggle button for turning on/off
 - 🌗 Dark/light theme mode
 - 🛠️ Manually updating xpaths for future fixes.
+- 🧹 AI Tune - get away from not interested video from your homepage
 - 🎁 ...much more
 
 ## Usages
@@ -84,6 +85,13 @@ XPath is used for finding elements, like where is the video title, is that progr
 The XPaths auto-update when server workers receive ready messages from content scripts. You can disable this update by adding `REMOTE_DISABLE: true` to the JSON object. Then set your custom XPath value, now you will not lose your XPath.
 
 The Fetch Update button will manually trigger the fetch request.
+
+## AI Tune
+Send feedback to YouTube that you are not interested in, base on your prompt. `Ignore action` has two options `Not interested` and `Don't recommend channel`. When the video is ignore then feedbase will send this acton that you choose. `Tune times`  is how many times this feedback will be applied. After action applied then YGPT will click the YouTube logo for new videos. Here's a quick demo video -
+
+<video width="100%" height="100%" autoplay muted loop>
+  <source src="https://github.com/biplobsd/biplobsd.github.io/assets/43641536/b42d4307-aa5e-4b69-a22b-030ec7c27776" type="video/mp4">
+</video>
 
 ## Bug, issues & request feature
 
