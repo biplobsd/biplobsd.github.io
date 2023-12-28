@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[86],{20086:function(e,n,t){t.r(n),t.d(n,{default:function(){return ThumTime}});var u=t(85893);function ThumTime(e){let{date:n}=e;return(0,u.jsx)("div",{children:new Date(n).toLocaleString("en-US",{month:"short",day:"numeric",year:"numeric"})})}}}]);
