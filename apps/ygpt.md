@@ -6,13 +6,13 @@ p_name_1: Chrome Web Store
 p_link_1: https://chrome.google.com/webstore/detail/ckkahgcopajmaohkdnijmmmlhjddeoan
 p_name_2: Edge Add-ons
 p_link_2: https://microsoftedge.microsoft.com/addons/detail/ijkiklmaokjhjcbnipjdhcajanbikhmg
-img_1: https://github.com/biplobsd/biplobsd.github.io/assets/43641536/8bdcdb37-09ca-4b4d-859c-6d3079fbbcbc
-img_2: https://github.com/biplobsd/biplobsd.github.io/assets/43641536/04ce47cc-ae07-423e-b2f9-f470745918fc
-img_3: https://github.com/biplobsd/biplobsd.github.io/assets/43641536/399228cd-1adb-4533-9cef-a0f43b46f029
-img_4: https://github.com/biplobsd/biplobsd.github.io/assets/43641536/3deb83b0-1001-4942-92af-0be086f8c8d4
-img_5: https://github.com/biplobsd/biplobsd.github.io/assets/43641536/97cca09c-71f5-4e11-9939-0627cd83f569
-img_6: https://github.com/biplobsd/biplobsd.github.io/assets/43641536/6671a098-2bbe-4b74-bf32-a325b6e04281
-img_7: https://github.com/biplobsd/biplobsd.github.io/assets/43641536/6d454af3-8d08-4787-a3cd-2630921bd1e8
+img_1: https://github.com/biplobsd/biplobsd.github.io/assets/43641536/a8372163-3dac-4867-a0f3-43ef13ba13e1
+img_2: https://github.com/biplobsd/biplobsd.github.io/assets/43641536/2822822b-1963-49b4-8fd1-9ab19638ac24
+img_3: https://github.com/biplobsd/biplobsd.github.io/assets/43641536/f578b090-aded-4d8f-a73a-23fb5e5ff134
+img_4: https://github.com/biplobsd/biplobsd.github.io/assets/43641536/9481d42f-c29e-4a32-81d7-2e2f8921dec5
+img_5: https://github.com/biplobsd/biplobsd.github.io/assets/43641536/e8fd1d77-41e9-4103-b030-77fb5b05f921
+img_6: https://github.com/biplobsd/biplobsd.github.io/assets/43641536/f7f81c17-c2c3-41f4-9328-ad2b20fa148c
+img_7: https://github.com/biplobsd/biplobsd.github.io/assets/43641536/6752188c-3391-4abe-a3ab-713d7e88aa26
 ---
 
 | Enable/Disable - Difference |
