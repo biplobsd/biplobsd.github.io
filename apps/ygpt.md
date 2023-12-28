@@ -6,8 +6,13 @@ p_name_1: Chrome Web Store
 p_link_1: https://chrome.google.com/webstore/detail/ckkahgcopajmaohkdnijmmmlhjddeoan
 p_name_2: Edge Add-ons
 p_link_2: https://microsoftedge.microsoft.com/addons/detail/ijkiklmaokjhjcbnipjdhcajanbikhmg
-img_1: https://github.com/biplobsd/biplobsd.github.io/assets/43641536/5985e9c8-ea85-4d06-848d-b084db7e6a07
-img_2: https://github.com/biplobsd/biplobsd.github.io/assets/43641536/cc32e4a9-af51-432c-afa9-b835da7efccb
+img_1: https://github.com/biplobsd/biplobsd.github.io/assets/43641536/8bdcdb37-09ca-4b4d-859c-6d3079fbbcbc
+img_2: https://github.com/biplobsd/biplobsd.github.io/assets/43641536/04ce47cc-ae07-423e-b2f9-f470745918fc
+img_3: https://github.com/biplobsd/biplobsd.github.io/assets/43641536/399228cd-1adb-4533-9cef-a0f43b46f029
+img_4: https://github.com/biplobsd/biplobsd.github.io/assets/43641536/3deb83b0-1001-4942-92af-0be086f8c8d4
+img_5: https://github.com/biplobsd/biplobsd.github.io/assets/43641536/97cca09c-71f5-4e11-9939-0627cd83f569
+img_6: https://github.com/biplobsd/biplobsd.github.io/assets/43641536/6671a098-2bbe-4b74-bf32-a325b6e04281
+img_7: https://github.com/biplobsd/biplobsd.github.io/assets/43641536/6d454af3-8d08-4787-a3cd-2630921bd1e8
 ---
 
 | Enable/Disable - Difference |
@@ -98,6 +103,7 @@ Send feedback to YouTube that you are not interested in, base on your prompt. `I
 Before reporting, please add a proper description and screenshots to help fix the problem. Report on Github issue tab - [github.com/biplobsd/ygpt/issues](https://github.com/biplobsd/ygpt/issues)
 
 ## Thanks
+- [Nabin Bhatt](https://github.com/nabinbhatt)
 - [NekitCorp/chrome-extension-svelte-typescript-boilerplate](https://github.com/NekitCorp/chrome-extension-svelte-typescript-boilerplate)
 - [svelte-persistent-store](https://github.com/MacFJA/svelte-persistent-store)
 - [color-picker-svelte](https://github.com/probablykasper/color-picker-svelte)
