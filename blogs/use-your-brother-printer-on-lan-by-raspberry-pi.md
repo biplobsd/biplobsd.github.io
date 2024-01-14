@@ -38,7 +38,7 @@ You need to just edit `/etc/ipp-usb/ipp-usb.conf` on the network interface to al
 Then restart the Raspberry PI, and you should see your printer on the LAN.
 
 ## Output
-<video width="100%" height="100%" autoplay loop>
+<video width="100%" height="100%" autoplay muted loop>
   <source src="https://github.com/biplobsd/biplobsd.github.io/assets/43641536/cdad5fbf-16b9-47d5-85ef-325d7c4b1005" type="video/mp4">
 </video>
 
