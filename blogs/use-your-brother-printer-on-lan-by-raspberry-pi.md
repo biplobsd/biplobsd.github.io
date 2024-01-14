@@ -31,7 +31,7 @@ Now test a print. Done.
 I found this solution on the sane-airscan discussion. https://github.com/alexpevzner/sane-airscan/discussions/115#discussioncomment-290472
 You need to just edit `/etc/ipp-usb/ipp-usb.conf` on the network interface to all.
 
-```
+```ini
 [network]
   interface = all
 ```
