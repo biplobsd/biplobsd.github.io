@@ -1,0 +1,88 @@
+---
+appName: SkillSynth
+appLogo: https://raw.githubusercontent.com/SpeedOut-Source/ss/refs/heads/main/public/logo.png
+companyName: Defence Project @ DIU
+companyLogo: https://github.com/user-attachments/assets/1c8f96c0-9265-45cd-b9b4-051d7c9ace5c
+imgUrl: https://github.com/user-attachments/assets/a9dee2e7-a2f6-41b3-95e0-51b727b8c641
+whatText: AI-driven educational platform that simplifies course creation and enhances learning experiences.
+result: Streamlines course creation for educators and provides personalized, interactive learning experiences for students.
+---
+
+<video width="100%" height="100%" autoplay muted loop>
+  <source src="https://github.com/user-attachments/assets/7ce46a79-4fc8-456a-9a1f-ed94fae5a5c5" type="video/mp4">
+</video>
+
+# SkillSynth: AI driven, Interactive personalized education platform
+
+![Logo SkillSynth](https://raw.githubusercontent.com/SpeedOut-Source/ss/refs/heads/main/public/logo.png)
+
+**Authors**: Biplob Kumar Sutradhar and Md. Zonaid  
+**Institution**: Daffodil International University, Dhaka, Bangladesh  
+**Supervisor**: Dr. S. M. Aminul Haque  
+**Co-Supervisor**: Mr. Amir Sohel
+
+<a class="btn" href="https://internship.daffodilvarsity.edu.bd/?app=home&cmd=reportsViewPDFskin&project_number=27921">View the full SkillSynth paper published at internship.daffodilvarsity.edu.bd</a>
+
+<a class="btn" href="https://github.com/SpeedOut-Source/ss">View source code at github.com/SpeedOut-Source/ss</a>
+
+## Introduction
+
+![Introduction slide](https://github.com/user-attachments/assets/8c5fa4c8-dde8-4d01-99da-0e2bc07c0ee8)
+
+SkillSynth is an innovative AI-driven education platform designed to enhance the online learning experience through personalized and interactive tools. By integrating advanced AI technologies, SkillSynth offers both content creation and tailored learning paths for users. The platform uses the OpenAI API to generate comprehensive course materials from simple prompts, including descriptions, chapter outlines, and interactive quizzes. It stands out by combining dynamic AI-generated content with interactive learning experiences to foster a more engaging online educational environment.
+
+## The Problem & Objective
+
+![Objective slide](https://github.com/user-attachments/assets/469f89ec-b9e9-4717-969f-0ed7fda91918)
+
+Despite the availability of various online learning platforms, many still struggle with user engagement, interactivity, and personalized content delivery. Current platforms like Coursera and Udemy provide structured courses but lack adaptive learning pathways. Datacamp and Brilliant offer interactive learning experiences but can be overly challenging or heavily reliant on text-based content. This leaves a gap in the market for a platform that combines the best of these features with advanced AI capabilities.
+
+## Related Works
+
+![Related Works slide](https://github.com/user-attachments/assets/8422c78f-3087-475d-b55c-53238dd60a5f)
+
+The Related Works section examines existing online learning platforms like Coursera, Brilliant, and Datacamp, highlighting their strengths and limitations in providing personalized and interactive education. It identifies gaps such as lack of adaptive learning, limited interactivity, and the need for more efficient course creation tools, which SkillSynth aims to address with its AI-driven approach.
+
+## The Solution
+
+SkillSynth addresses these issues by leveraging AI to create a comprehensive and interactive educational experience. Key features include:
+
+- **AI-Assisted Course Creation**: The platform simplifies content creation by allowing educators to generate entire courses with detailed outlines, chapters, and interactive quizzes using AI prompts.
+- **Personalized Learning Paths**: SkillSynth uses machine learning algorithms to customize the learning journey for each user, adjusting content based on individual progress and performance.
+- **Real-Time AI Support**: An AI-assisted support feature provides learners with on-demand guidance, ensuring they receive help when needed.
+
+## Design and Implementation
+
+![Backend architecture](https://github.com/user-attachments/assets/445476f7-8160-4d00-989f-d259bec0ff90)
+
+The design of SkillSynth was guided by the principles of accessibility, interactivity, and personalization. The front-end is built with Next.js and Tailwind CSS, offering a modern, responsive interface. Firebase Firestore serves as the database, while AWS Amplify handles backend services.
+
+## Course Generation Flow
+![Course generation flow](https://github.com/user-attachments/assets/6ca0a798-b606-44e0-9d26-9cd53c1f7b4d)
+
+## Technology Stack
+
+- Front-End Technologies: HTML, CSS, JavaScript, TypeScript, React.js
+  - Component Libraries: Shadcn/ui, DaisyUI
+  - State Management Library: Zustand
+- Back-End Technologies: Next.js
+  - Database Management System: MySQL
+- AI Integration: OpenAI
+- Tools and Utilities: Git, Github, Visual Studio Code
+- Deploy test on : Vercel, AWS Amplify
+- Real-time Collaboration and Communication Tools: Trello, Telegram
+
+## Features
+
+- **Interactive Learning Tools**: Includes quizzes, coding challenges, and multimedia prompts to engage users.
+- **Personalized Recommendations**: Adaptive algorithms suggest courses and content tailored to user preferences and progress.
+- **Collaborative Learning Environment**: Promotes peer-to-peer interaction and knowledge sharing among users.
+- **Scalable Architecture**: Designed to handle growing user bases and content volumes without compromising performance.
+
+## Impact and Future Work
+
+SkillSynth aims to revolutionize online education by making it more engaging, personalized, and accessible. The platform's innovative use of AI not only simplifies course creation but also enhances the learning experience through tailored content and real-time support. Future developments may include expanding the range of supported subjects, enhancing AI capabilities for even more personalized learning paths, and integrating advanced analytics to further improve user engagement and retention.
+
+## Conclusion
+
+SkillSynth represents a significant step forward in the realm of online education. By harnessing the power of AI, it offers a unique solution to the challenges of engagement and personalization that have long plagued digital learning platforms. With its robust feature set and user-friendly design, SkillSynth is poised to set new standards in the field of e-learning.
