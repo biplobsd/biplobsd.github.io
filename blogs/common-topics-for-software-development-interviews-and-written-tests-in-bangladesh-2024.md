@@ -1,3 +1,6 @@
+
+![DALL·E 2024-10-29 00 20 33 - A modern thumbnail for a blog post on common software development interview topics in Bangladesh, 2024  The image should feature a clean, professional](https://github.com/user-attachments/assets/d00d2761-f93d-4681-88cc-9c1fc81cd4d2)
+
 # Common Topics for Software Development Interviews and Written Tests in Bangladesh, 2024
 
 I recently applied for some entry-level or mid-level software development positions in October 2024 and had several interviews. In my experience, they usually begin by asking questions on fundamental CSE topics. These topics are also commonly covered in the written exams and include questions relevant to the job post.
