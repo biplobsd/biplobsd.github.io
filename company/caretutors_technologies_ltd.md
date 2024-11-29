@@ -1,6 +1,6 @@
 ---
-title: Caretutors Technologies Ltd
-logoUrl: https://caretutor-space-file.nyc3.cdn.digitaloceanspaces.com/assets/img/home_logo.svg
+title: Caretutors
+logoUrl: https://github.com/user-attachments/assets/b877c4ae-0c11-481e-8082-feee447af51e
 homePage: https://caretutors.com/
 start: 1730430000000
 date: 1732863808081
