@@ -4,6 +4,9 @@ desc: YouTube Subscriptions Transfer is a browser extension that allows you to t
 imgUrl: https://user-images.githubusercontent.com/43641536/225968066-01278b17-4ea8-4fd5-954c-525c2a8cc0bd.png
 date: 1680629480129
 readTime: 4
+tags:
+  - Chrome Extension
+  - Youtube
 ---
 
 # Youtube Subscriptions Transfer

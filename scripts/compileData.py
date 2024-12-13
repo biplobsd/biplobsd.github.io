@@ -2,12 +2,12 @@ import os
 import sys
 import re
 import json
+import time
 import subprocess
 import frontmatter
 from bs4 import BeautifulSoup
 from markdown import markdown
 from dotenv import load_dotenv
-
 
 def replaceImgRelativePath(data, wPath):
     imgPattern = r"\.\.\/images\/"
@@ -32,8 +32,8 @@ def replaceImgRelativePath(data, wPath):
     return data
 
 
-def updateConfig(key, value):
-    configPath = os.path.join('db', 'configs.json')
+def updateConfig(key, value, path="db"):
+    configPath = os.path.join(path, 'configs.json')
 
     if os.path.exists(configPath):
         with open(configPath, 'r') as f:
@@ -196,6 +196,8 @@ def projectCompile():
 
     sorted_projects = sorted(
         projects_list, key=lambda x: x['date'], reverse=True)
+    
+    tag_process(sorted_projects, "project")
 
     output_dict = {"projects": sorted_projects}
 
@@ -204,6 +206,68 @@ def projectCompile():
 
     updateConfig('projectTotal', len(sorted_projects))
 
+
+def make_hashable(d):
+    return {
+        k: tuple(v) if isinstance(v, list) else make_hashable(v) if isinstance(v, dict) else v
+        for k, v in d.items()
+    }
+
+def process_tags(tags, date, tagsList):
+    for tag in tags:
+        tag_lower = tag.lower()
+        existing_tag = next((t for t in tagsList if t['tag'] == tag_lower), None)
+
+        if existing_tag:
+            if date > existing_tag['date']:
+                existing_tag['date'] = date
+        else:
+            tagsList.append({"tag": tag_lower, "date": date})
+
+    return tagsList
+
+def tag_process(sortedData:list, nameRaw ="blog"):
+    if nameRaw == "company":
+        name = nameRaw
+    else:
+        name = nameRaw+"s"
+    tagsPath = f"db/tags/{name}/"
+    tagsSet = []
+
+    for i in sortedData:
+        tags = i.get('tags', [])
+        date = i.get('date', int(time.time()))
+        tagsSet = process_tags(tags, date, tagsSet)
+
+        for t in tags:
+            tagPath = os.path.join(tagsPath, t.lower())
+            path = os.path.join(tagPath, "data.json")
+            os.makedirs(tagPath, exist_ok=True)
+
+            dataObj = {name: []}
+
+            if os.path.exists(path):
+                try:
+                    with open(path, 'r') as f:
+                        dataObj = json.load(f)
+                except (json.JSONDecodeError, FileNotFoundError):
+                    print(f"Error reading {path}, using an empty list.")
+
+            dataList = dataObj.get(name, [])
+            dataList.append(i)
+            dict_set = {frozenset(make_hashable(d).items()) for d in dataList}
+            unique_dict_list = [dict(fs) for fs in dict_set]
+            sorted_unique_dict_list = sorted(
+                unique_dict_list, key=lambda x: x['date'], reverse=True)
+
+            dict_tag = {name: sorted_unique_dict_list}
+            with open(path, "w") as f:
+                json.dump(dict_tag, f)
+
+            updateConfig(f'{nameRaw}Total', len(unique_dict_list), tagPath)
+
+    os.makedirs(tagsPath, exist_ok=True)
+    updateConfig('tags', tagsSet, tagsPath)
 
 def blogsCompile():
 
@@ -233,19 +297,24 @@ def blogsCompile():
             read_time = extractReadTime(post.content)
             img_url = post.get('imgUrl', get_image_from_content(post.content))
 
+            tags = post.get('tags', [])
+
             blog_dict = {
                 "imgUrl": img_url,
                 "title": title,
                 "desc": desc,
                 "date": date,
                 "readTime": read_time,
-                "fileName": filename
+                "fileName": filename, 
+                "tags": tags
             }
 
             blogs_list.append(blog_dict)
 
     sorted_blogs = sorted(
         blogs_list, key=lambda x: x['date'], reverse=True)
+
+    tag_process(sorted_blogs, "blog")
 
     output_dict = {"blogs": sorted_blogs}
 
@@ -254,6 +323,65 @@ def blogsCompile():
 
     updateConfig('blogTotal', len(sorted_blogs))
 
+
+def load_config(path):
+    if os.path.exists(path):
+        with open(path, 'r') as f:
+            return json.load(f)
+    return {}
+
+def tagCompile():
+    COMPANY_TYPE = "company"
+    tagsPathBase = os.path.join("db", "tags")
+    types = ["project", "blog", "company", "app"]
+    final_tags_dict = {}
+
+    # Helper to process tags and add to final_tags_dict
+    def process_tags(tags, type, typeFolder, tagsPath):
+        for tag in tags:
+            tag_path = os.path.join(tagsPath, tag['tag'], 'configs.json')
+            print(tag_path)
+            db_configs = load_config(tag_path)
+            print(db_configs)
+            total = db_configs.get(f'{type}Total', 0)
+
+            if tag['tag'] not in final_tags_dict:
+                final_tags_dict[tag['tag']] = {
+                    "tag": tag['tag'],
+                    "exist": [{
+                        "type": typeFolder,
+                        "total": total,
+                        "date": tag['date'],
+                    }],
+                    "latest_date": tag['date'],
+                    "total": total,
+                }
+            else:
+                final_tags_dict[tag['tag']]['total'] += total
+                final_tags_dict[tag['tag']]['exist'].append({
+                    "type": typeFolder,
+                    "total": total,
+                    "date": tag['date'],
+                })
+                latest_date = final_tags_dict[tag['tag']]['latest_date']
+                if tag['date'] > latest_date:
+                    final_tags_dict[tag['tag']]['latest_date'] = tag['date']
+
+    for type in types:
+        typeFolder = type if type == COMPANY_TYPE else type + "s"
+        tagsPath = os.path.join(tagsPathBase, typeFolder)
+
+        if not os.path.exists(tagsPath):
+            print(f'Error not found directory: {tagsPath}')
+            return
+
+        configsPath = os.path.join(tagsPath, "configs.json")
+        db_configs = load_config(configsPath)
+        tags = db_configs.get('tags', [])
+        process_tags(tags, type, typeFolder, tagsPath)
+
+    sorted_tags = sorted(final_tags_dict.values(), key=lambda x: x['latest_date'], reverse=True)
+    updateConfig('tags', sorted_tags, "db/tags")
 
 def appsCompile():
 
@@ -300,6 +428,8 @@ def appsCompile():
 
     sorted_apps = sorted(
         apps_list, key=lambda x: x['date'], reverse=True)
+    
+    tag_process(sorted_apps, "app")
 
     output_dict = {"apps": sorted_apps}
 
@@ -355,8 +485,10 @@ def companyCompile():
     sorted_company = sorted(
         company_list, key=lambda x: x['date'], reverse=True)
 
-    output_dict = {"company": sorted_company}
+    tag_process(sorted_company, "company")
 
+    output_dict = {"company": sorted_company}
+    
     with open("db/workInfo.json", "w") as f:
         json.dump(output_dict, f)
 
@@ -383,3 +515,9 @@ if __name__ == '__main__':
     print('👔 Parsing workInfo')
     companyCompile()
     print('✅ WorkInfo parse done')
+
+    print(f"🚀 Parsing tags")
+    tagCompile()
+    print("✅ Tags parse done")
+
+
