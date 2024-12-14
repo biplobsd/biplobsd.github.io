@@ -212,6 +212,13 @@ def make_hashable(d):
         k: tuple(v) if isinstance(v, list) else make_hashable(v) if isinstance(v, dict) else v
         for k, v in d.items()
     }
+    
+def make_hashable(obj):
+    if isinstance(obj, list):
+        return tuple(make_hashable(item) for item in obj)
+    elif isinstance(obj, dict):
+        return tuple(sorted((k, make_hashable(v)) for k, v in obj.items()))
+    return obj
 
 def process_tags(tags, date, tagsList):
     for tag in tags:
@@ -255,8 +262,7 @@ def tag_process(sortedData:list, nameRaw ="blog"):
 
             dataList = dataObj.get(name, [])
             dataList.append(i)
-            dict_set = {frozenset(make_hashable(d).items()) for d in dataList}
-            unique_dict_list = [dict(fs) for fs in dict_set]
+            unique_dict_list = [dict(t) for t in {make_hashable(d) for d in dataList}]
             sorted_unique_dict_list = sorted(
                 unique_dict_list, key=lambda x: x['date'], reverse=True)
 
@@ -305,8 +311,8 @@ def blogsCompile():
                 "desc": desc,
                 "date": date,
                 "readTime": read_time,
-                "fileName": filename, 
-                "tags": tags
+                "fileName": filename,
+                "tags": list(map(str.lower, tags))
             }
 
             blogs_list.append(blog_dict)
@@ -336,13 +342,10 @@ def tagCompile():
     types = ["project", "blog", "company", "app"]
     final_tags_dict = {}
 
-    # Helper to process tags and add to final_tags_dict
     def process_tags(tags, type, typeFolder, tagsPath):
         for tag in tags:
             tag_path = os.path.join(tagsPath, tag['tag'], 'configs.json')
-            print(tag_path)
             db_configs = load_config(tag_path)
-            print(db_configs)
             total = db_configs.get(f'{type}Total', 0)
 
             if tag['tag'] not in final_tags_dict:
@@ -414,6 +417,8 @@ def appsCompile():
             platforms = parsePlatforms(post)
             imgs = parseImgs(post)
 
+            tags = post.get('tags', [])
+
             app_dict = {
                 "imgUrl": logoUrl,
                 "title": title,
@@ -421,14 +426,15 @@ def appsCompile():
                 "date": date,
                 "fileName": filename,
                 "imgs": imgs,
-                "platforms": platforms
+                "platforms": platforms,
+                "tags": list(map(str.lower, tags))
             }
 
             apps_list.append(app_dict)
 
     sorted_apps = sorted(
         apps_list, key=lambda x: x['date'], reverse=True)
-    
+
     tag_process(sorted_apps, "app")
 
     output_dict = {"apps": sorted_apps}

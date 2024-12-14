@@ -15,6 +15,11 @@ img_6: https://store-images.s-microsoft.com/image/apps.49109.14406779376951763.e
 img_7: https://store-images.s-microsoft.com/image/apps.45607.14406779376951763.e0d67b06-ed0d-4d66-94fd-9a4cfade378d.d6aa8ce5-9b10-4806-a60f-b0f3038f3bf6
 img_8: https://store-images.s-microsoft.com/image/apps.34709.14406779376951763.e0d67b06-ed0d-4d66-94fd-9a4cfade378d.0bebbe3d-9d54-49c7-8731-6feedd478ae5
 img_9: https://store-images.s-microsoft.com/image/apps.58406.14406779376951763.e0d67b06-ed0d-4d66-94fd-9a4cfade378d.61716559-7a49-4983-b5f1-1b6e0c0ebc8b
+date: 1681337858000
+tags:
+  - Flutter
+  - Bloc
+  - Android
 ---
 
 This tools will resize your animated gif apng webp and save to your stroage.

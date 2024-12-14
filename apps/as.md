@@ -9,6 +9,12 @@ p_link_2: https://chrome.google.com/webstore/detail/gcfbgldheflkffckpodpmkjlkbap
 p_name_3: Github release
 p_link_3: https://github.com/biplobsd/as/releases/latest
 img_1: https://github.com/biplobsd/as/assets/43641536/be8cfb52-bb45-4ce3-8855-59e2e5e1bd49
+date: 1690956494000
+tags:
+  - Chrome Extension
+  - Svelte
+  - TypeScript
+  - Tailwind
 ---
 
 <center>

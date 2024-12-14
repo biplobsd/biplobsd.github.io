@@ -13,7 +13,11 @@ img_4: https://play-lh.googleusercontent.com/Y39Tv2LbrsTAro2wjVKuO8ML4X-xWKFaHNZ
 img_5: https://play-lh.googleusercontent.com/2gZgOCvpT3772MJcFBdBhHC7CPHeKjzgy7kE8Ayv7hBlr2YrFT4q-6aFXRRZ-jkXFjAy=w2560-h1440-rw
 img_6: https://play-lh.googleusercontent.com/5HOzSjUhUCkXLI2jEJwOZrFmN20boWWEUP-jAgPcsqfetnwzCeB9fcXH92plPyp8HQ=w2560-h1440-rw
 img_7: https://play-lh.googleusercontent.com/AtH2xktUaEInFxwDKb1jApHSrFcHwlXR6HqSO5ATRjKxc3SD5yeMt3vzkmkzPgwJQ7k=w2560-h1440-rw
-img_8: https://play-lh.googleusercontent.com/T5BMIOu85CP43dojkmnI1FCUpTfbSaWAIN0FyMFDz3AfEjNtO8HYEtoTQuJvJY804g=w2560-h1440-rw
+img_8: https://play-lh.googleusercontent.com/T5BMIOu85CP43dojkmnI1FCUpTfbSaWAIN0FyMFDz3AfEjNtO8HYEtoTQuJvJY804g=w2560-h1440-
+date: 1681664615000
+tags:
+  - Android
+  - Kivy
 ---
 
 This app scan and test your proxy IP list and find you a fastest IP in a some minutes.

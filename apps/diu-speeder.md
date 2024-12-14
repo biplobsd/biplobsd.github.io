@@ -12,6 +12,12 @@ img_3: https://play-lh.googleusercontent.com/5a1eZbnqz82zJNYJjg9O6rVbAJNL3h3bF8c
 img_4: https://play-lh.googleusercontent.com/Aa0AWIaXuwTfXlyx_f6CynGGhPXhfYQDo5JBQmamQav4c4UGb0V2QvnmImo95cPLaQ=w2560-h1440-rw
 img_5: https://play-lh.googleusercontent.com/gLQmUKKB5UL8LHnGVudbhibvDsw4lCFXh2QQV6WACcjgLXTGki9NNRuvMbffrGeE-w=w2560-h1440-rw
 img_6: https://play-lh.googleusercontent.com/WGlKezmJDsfNbcI_cU2bSe3W0jsYNnmM0AWH-M7KE7N4zWB9orI6ZEXIhswFidcKHQ=w2560-h1440-rw
+date: 1681397658000
+tags:
+  - Flutter
+  - Dart
+  - Bloc
+  - Android
 ---
 
 DIU Speeder app is open-source project. It is help you to access fast BLC and DIU online options.
