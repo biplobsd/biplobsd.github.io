@@ -1,3 +1,10 @@
+---
+date: 1696599145000
+tags:
+  - Google Colab
+  - open-source
+---
+
 ![Swirl-Preview](https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/swirl/swirl-preview.gif)
 
 # Running Swirl in Google Colab

@@ -1,5 +1,9 @@
 ---
 imgUrl: https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/reading-progressbar/preview.png
+date: 1687780096000
+tags:
+  - nextjs
+  - typescript
 ---
 
 ![preview-reading-progressbar](https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/reading-progressbar/previewPointing.png)

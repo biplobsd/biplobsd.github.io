@@ -1,3 +1,10 @@
+---
+date: 1705251447000
+tags:
+  - raspberrypi
+  - linux
+---
+
 ![preview](https://github.com/biplobsd/biplobsd.github.io/assets/43641536/8963ee06-4ca9-4a56-b793-4be980322539)
 
 # Use Your Brother Printer on LAN by Raspberry PI

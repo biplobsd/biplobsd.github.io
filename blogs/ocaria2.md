@@ -1,3 +1,10 @@
+---
+date: 1680975232000
+tags:
+  - python
+  - github action
+---
+
 # Run aria2c and AriaNgWke together with one click
 
 Run aria2c and AriaNgWke with one click. `ocaria2` will automatically get the trackers list and optimize the configurations for downloading any file via aria2c.

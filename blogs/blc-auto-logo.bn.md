@@ -1,6 +1,9 @@
 ---
 title: BLC(Blended Learning Center) তে কিছু সময় পরপর logout হয়ে যাচ্ছে? অথবা কিছু দিন পরে BLC তে visit করলে আবার login করা লাগছে?
 imgUrl: https://user-images.githubusercontent.com/43641536/227714912-f2fb693d-8b4d-4f26-8013-15a9eddb2203.gif
+date: 1683225317000
+tags:
+  - Chrome Extension
 ---
 
 ## BLC(Blended Learning Center) তে কিছু সময় পরপর logout হয়ে যাচ্ছে? অথবা কিছু দিন পরে BLC তে visit করলে আবার login করা লাগছে?

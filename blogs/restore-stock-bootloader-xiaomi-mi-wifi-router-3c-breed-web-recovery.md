@@ -1,3 +1,9 @@
+---
+date: 1693889578000
+tags:
+  - openwrt
+---
+
 ![Thumbnail](https://github.com/biplobsd/biplobsd.github.io/assets/43641536/7b2f8f6b-0913-4507-89dd-819941243b40)
 
 # Restore the stock bootloader on the Xiaomi Mi WiFi Router 3C from Breed Web recovery

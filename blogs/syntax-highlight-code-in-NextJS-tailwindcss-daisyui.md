@@ -1,3 +1,10 @@
+---
+date: 1688040173000
+tags:
+  - Nextjs
+  - react
+---
+
 ![preview](https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/syntax-highlight-code-in-NextJS-tailwindcss-daisyui/preview-code-syntax-highlighter.gif)
 
 # Syntax Highlight Code in NextJS TailwindCSS DaisyUI

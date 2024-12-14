@@ -5,7 +5,6 @@ imgUrl: https://user-images.githubusercontent.com/43641536/227714912-f2fb693d-8b
 date: 1680628465043
 readTime: 5
 tags:
-  - DIU
   - Chrome Extension
 ---
 

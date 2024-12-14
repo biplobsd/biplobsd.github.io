@@ -500,8 +500,23 @@ def companyCompile():
 
     updateConfig('companyTotal', len(sorted_company))
 
+def clean_directory(directory):
+    if not os.path.exists(directory):
+        print(f"Directory '{directory}' does not exist.")
+        return
+
+    for root, _, files in os.walk(directory):
+        for file in files:
+            file_path = os.path.join(root, file)
+            os.remove(file_path)
+            print(f"Deleted file: {file_path}")
 
 if __name__ == '__main__':
+    
+    print("🧹 Starting directory cleanup... 🧹")
+    clean_directory("db/tags/")
+    print("✅ Directory cleanup completed! ✅")
+
     load_dotenv(".env.local")
     if not os.path.exists('db'):
         os.makedirs("db", exist_ok=True)

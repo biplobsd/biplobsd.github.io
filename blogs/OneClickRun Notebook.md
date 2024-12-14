@@ -2,6 +2,12 @@
 title: OneClickRun Notebook
 desc: If you need to download a file then move it to your Google drive, but you don't want to download on your pc, you can solve that problem with payload tool on this notebook.
 imgUrl: https://raw.githubusercontent.com/biplobsd/OneClickRun/master/img/preview.gif
+date: 1680814136000
+tags:
+  - Python
+  - Google Colab
+  - Linux
+  - Open-Source
 ---
 
 ![preview](https://raw.githubusercontent.com/biplobsd/OneClickRun/master/img/preview.gif)
