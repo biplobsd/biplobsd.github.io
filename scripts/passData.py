@@ -20,7 +20,7 @@ def transfererImages():
     print("🚀 Executing transferer images...")
     shutil.copytree(
         f"{DATA_PATH}/images",
-        f"{PROJECT_PATH}/images",
+        f"{PROJECT_PATH}/public/images",
         dirs_exist_ok=True
     )
     print("✅ transferer images executed successfully!")
