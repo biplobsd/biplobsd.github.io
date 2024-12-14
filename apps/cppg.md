@@ -9,6 +9,11 @@ p_link_2: https://play.google.com/store/apps/details?id=com.speedout.cppg
 p_name_3: Web
 p_link_3: https://croppixel.web.app
 img_1: https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/cpp-preview.gif
+date: 1681329499000
+tags:
+  - Flutter
+  - Bloc
+  - Android
 ---
 
 Crop Pixel Playground is an app that allows you to crop an image into blocks of small images. It generates multiple chunks of small images from the given image, and all the processing is performed on your device without using any API. This app is free to use and is supported on Android, Windows, and the web.

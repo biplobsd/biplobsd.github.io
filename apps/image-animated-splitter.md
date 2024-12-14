@@ -17,6 +17,11 @@ img_6: https://store-images.s-microsoft.com/image/apps.45994.14291781097012336.a
 img_7: https://store-images.s-microsoft.com/image/apps.56721.14291781097012336.a6a58d34-b5a1-4a19-9a12-0d15918ca04f.0bf86d43-eeff-4d62-b26e-4c758a32e8b6?h=1080
 img_8: https://store-images.s-microsoft.com/image/apps.3582.14291781097012336.a6a58d34-b5a1-4a19-9a12-0d15918ca04f.7a32c9bb-0ba0-43ab-855c-0671702a4a56?h=1080
 img_9: https://store-images.s-microsoft.com/image/apps.22518.14291781097012336.a6a58d34-b5a1-4a19-9a12-0d15918ca04f.7fcdd249-bf14-4f48-882f-37407785e4d3?h=1080
+date: 1681397107000
+tags:
+  - Flutter
+  - Bloc
+  - Android
 ---
 
 Split your animated images into frames. Then share or save in internal storages.

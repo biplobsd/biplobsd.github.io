@@ -9,6 +9,15 @@ p_link_2: https://chrome.google.com/webstore/detail/fanknehiohibiphenfaigbmefncb
 p_name_3: Github release
 p_link_3: https://github.com/biplobsd/yst/releases/latest
 img_1: https://store-images.s-microsoft.com/image/apps.51655.14126c4b-9afb-4159-8ccd-5fe418b8be0f.9607b2ca-ccb4-4bfe-83ce-412395cf4b6a.d2d7a2b4-80d7-43c2-b86e-1831535622f5
+date: 1689418076000
+tags:
+  - Chrome Extension
+  - Svelte
+  - TypeScript
+  - daisyUI
+  - Tailwind
+  - YouTube API
+  - Open-Source
 ---
 
 <center>
