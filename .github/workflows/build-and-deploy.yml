@@ -35,10 +35,12 @@ jobs:
       - name: 📥 Checkout repository PNP
         uses: actions/checkout@v3
         with:
-          repository: biplobsd/portfolio
-          ref: "main"
+          repository: SpeedOut-Source/pnp
+          ref: "nextjs15-experimental"
           path: "buildEnv/main"
-          token: ${{ secrets.PAT }}
+      - name: 🔗 Create symbolic link
+        run: |
+          ln -s "$(pwd)/buildEnv/pnp-data" "$(pwd)/buildEnv/main/pnp-data"
       - name: 🔒 Secret env pass
         run: |
           printf "\nALGOLIA_SEARCH_ADMIN_KEY=${{ secrets.ALGOLIA_SEARCH_ADMIN_KEY }}" >> buildEnv/pnp-data/.env.local
