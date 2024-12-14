@@ -8,13 +8,22 @@ META_TAG_CHANGE_KEY = r"{/* ADD-META-TAGS */}"
 
 
 def transfererPublic():
-    print("🚀 Executing transfererPublic...")
+    print("🚀 Executing transferer Public...")
     shutil.copytree(
         f"{DATA_PATH}/public",
         f"{PROJECT_PATH}/public",
         dirs_exist_ok=True
     )
     print("✅ transfererPublic executed successfully!")
+
+def transfererImages():
+    print("🚀 Executing transferer images...")
+    shutil.copytree(
+        f"{DATA_PATH}/images",
+        f"{PROJECT_PATH}/images",
+        dirs_exist_ok=True
+    )
+    print("✅ transferer images executed successfully!")
 
 
 def transfererEnv():
@@ -50,5 +59,6 @@ if __name__ == '__main__':
         sys.exit(1)
 
     transfererPublic()
+    transfererImages()
     transfererEnv()
     # transfererMetaTags()
