@@ -23,6 +23,11 @@ Whenever I make changes to the data repository where my website’s content is s
 You can view my GitHub Actions workflow [here](https://github.com/biplobsd/biplobsd.github.io/blob/data/.github/workflows/build-and-deploy.yml
 ).
 
+Here are my repository
+- Data: https://github.com/biplobsd/biplobsd.github.io
+- Nextjs Template: https://github.com/SpeedOut-Source/pnp
+
+
 ## Benefits of the Upgrade
 
 ### Before
@@ -98,6 +103,58 @@ export async function generateMetadata() {
   };
 }
 ```
+
+## Bug Faced During Migration
+
+While working on the migration, I encountered a Next.js 15 Turbo dev bug. When running `npm run dev` with `--turbo`, I received the following error when visiting the `/resume` page. This issue occurred because the `/resume` page uses `react-pdf`, which internally requires the `canvas` module. However, Next.js Turbo did not correctly detect that `canvas` should only be used on the client side.
+
+```typescript
+Error: ./node_modules/.pnpm/pdfjs-dist@2.15.349/node_modules/pdfjs-dist/build/pdf.js:10926:20
+Module not found: Can't resolve 'canvas'
+  10924 | class NodeCanvasFactory extends _base_factory.BaseCanvasFactory {
+  10925 |   _createCanvas(width, height) {
+> 10926 |     const Canvas = require("canvas");
+        |                    ^^^^^^^^^^^^^^^^^
+  10927 |
+  10928 |     return Canvas.createCanvas(width, height);
+  10929 |   }
+```
+
+After extensive research, I found a working solution. To fix this bug, update the `next.config.mjs` file as follows (source: [react-pdf GitHub](https://github.com/wojtekmaj/react-pdf?tab=readme-ov-file#nextjs)):
+
+```typescript
+const config = {
+  // Rest of the code
+  webpack: (config, { isServer }) => {
+    if (isServer) {
+      // Fix react-pdf referencing canvas in SSR
+      // eslint-disable-next-line @typescript-eslint/no-unsafe-member-access
+      config.resolve.alias.canvas = false;
+    }
+    // eslint-disable-next-line @typescript-eslint/no-unsafe-member-access
+    config.resolve.alias.encoding = false;
+    // eslint-disable-next-line @typescript-eslint/no-unsafe-return
+    return config;
+  },
+  experimental: {
+    turbo: {
+      resolveAlias: {
+        canvas: "./empty-module.ts",
+      },
+    },
+  },
+};
+```
+
+Additionally, create an `empty-module.ts` file in the root of the project:
+
+```typescript
+// empty-module.ts
+export default {};
+```
+
+This resolved the issue and allowed the `/resume` page to function as expected.
+
 
 ## New Features and Improvements of My Site
 
