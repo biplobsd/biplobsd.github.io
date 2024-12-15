@@ -1,4 +1,9 @@
-![AI-preview](https://github.com/user-attachments/assets/0a379c1b-37be-4257-8414-3670d46c496f)
+---
+tags:
+  - nextjs
+---
+
+![AI-preview](https://github.com/user-attachments/assets/743692de-8ab9-4e4a-9806-f94f645a4a88)
 
 # Migrating from Next.js 13 Page Router to Next.js 15 App Router
 
