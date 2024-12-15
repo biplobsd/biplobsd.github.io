@@ -8,6 +8,10 @@ readTime: 2
 imgUrl: https://user-images.githubusercontent.com/43641536/230180140-a0552cd5-3823-409e-92a9-fe33d5082d13.gif
 whatText: Stellar Account Checker and Asset Holder Limit Tool.
 result: This tool was well-received by users and delivered a native app experience, meeting the client's requirements.
+tags:
+  - Flutter
+  - Bloc
+  - Stellar.org
 ---
 
 ![preview gif](https://user-images.githubusercontent.com/43641536/230180140-a0552cd5-3823-409e-92a9-fe33d5082d13.gif)

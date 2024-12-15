@@ -5,6 +5,12 @@ homePage: https://www.action-tokens.com
 start: 1654794960000
 end: 1696010400000
 date: 1681925685174
+tags:
+  - Nextjs
+  - Typescript
+  - Amazon Amplify
+  - Firebase
+  - 
 ---
 
 I am working as Full stack web developer (Remote - part time).

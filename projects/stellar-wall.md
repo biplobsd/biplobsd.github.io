@@ -2,10 +2,14 @@
 appName: Stellar Wall
 appLogo: https://user-images.githubusercontent.com/43641536/232205018-85cb74eb-e216-43ee-be64-fc06130057a5.png
 companyName: Nuna Project Art
-companyLogo: https://nunaproject.art/assets/img/logo/logo.png
+companyLogo: https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/logos/nuna.png
 imgUrl: https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/stellar-wall-preview.png
 whatText: Stellar Wall is a 100x100 pixels online billboard that offers advertise your projects.
 result: User able to share to their NFT collections, assets, projects by showing any picture on their pixels.
+date: 1681635550000
+tags:
+  - Flutter
+  - Bloc
 ---
 
 ![preview](https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/stellar-wall-preview.png)

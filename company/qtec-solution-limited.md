@@ -5,6 +5,10 @@ homePage: https://www.qtecsolution.com
 start: 1651341600000
 end: 1659290400000
 date: 1659204000000
+tags:
+  - Flutter
+  - Dart
+  - REST API
 ---
 
 Working as Junior Software Developers (Remote).

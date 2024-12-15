@@ -6,6 +6,13 @@ companyLogo: https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/
 imgUrl: https://user-images.githubusercontent.com/43641536/232020542-503e6a6d-16da-4a3e-bfc1-7e10e5c5237a.png
 whatText: Action Token Collections is an image and audio sharing website that stellar integrated.
 result: With help of Albedo, Wallet Connect, Freighter and other user no need to create account
+date: 1695802208000
+tags:
+  - Nextjs
+  - Typescript
+  - Amazon Amplify
+  - Stellar.org
+  - Firebase
 ---
 
 ![preview gif](https://user-images.githubusercontent.com/43641536/232020542-503e6a6d-16da-4a3e-bfc1-7e10e5c5237a.png)

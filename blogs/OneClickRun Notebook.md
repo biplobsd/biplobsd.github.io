@@ -25,4 +25,4 @@ Click on the "Open in Colab" button.
 
 ### Our telegram group
 
-<center><a href="https://t.me/torrentToGM"><img src='https://camo.githubusercontent.com/706fbfee036d8cc034cd30ec8b24959145cdedfb7e763797dbfb6ed196756dda/68747470733a2f2f692e696d6775722e636f6d2f434c6736626c4f2e706e67' height="70" alt="Telegram Group"/></a></center>
+<center><a href="https://t.me/torrentToGM"><img src='https://github.com/user-attachments/assets/be53c8fd-9702-41c1-b2c1-9c4535e3db12' height="70" alt="Telegram Group"/></a></center>

@@ -17,7 +17,7 @@ I have created a Google Colab notebook to run Swirl without setting it up on you
  
 It provides AI-ranked results and supports Generative AI Models like ChatGPT for answering questions based on the search results. All while maintaining ease of use and not requiring any data re-indexing.
 
-[![Swirl-Homepage](https://res.cloudinary.com/practicaldev/image/fetch/s--X-rNMgzW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x9ontxlnwqgllg71nm3t.png)](https://swirl.today/)
+[![Swirl-Homepage](https://i.ibb.co/SfTMxTM/SWIRL-website.jpg)](https://swirl.today/)
 
 
 Here are the instructions on running this notebook in Google Colab. _Let's get started._ 😃

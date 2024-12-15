@@ -6,6 +6,15 @@ companyLogo: https://github.com/user-attachments/assets/1c8f96c0-9265-45cd-b9b4-
 imgUrl: https://github.com/user-attachments/assets/a9dee2e7-a2f6-41b3-95e0-51b727b8c641
 whatText: AI-driven educational platform that simplifies course creation and enhances learning experiences.
 result: Streamlines course creation for educators and provides personalized, interactive learning experiences for students.
+date: 1727088237000
+tags:
+  - Nextjs
+  - Typescript
+  - Amazon Amplify
+  - MySQL
+  - OpenAI
+  - Vercel
+  - Zustand
 ---
 
 <video width="100%" height="100%" autoplay muted loop>

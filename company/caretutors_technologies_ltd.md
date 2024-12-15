@@ -4,6 +4,10 @@ logoUrl: https://github.com/user-attachments/assets/b877c4ae-0c11-481e-8082-feee
 homePage: https://caretutors.com/
 start: 1730430000000
 date: 1732863808081
+tags:
+  - Flutter
+  - Firebase
+  - Android
 ---
 
 Currently working as a Junior Software Developer (Full-time) at Caretutors Technologies Ltd. In my first month, I have been actively developing mobile applications using Flutter, focusing on implementing innovative features, conducting thorough testing, and continuously expanding my technical skills in mobile development, AI integration, and user experience optimization.

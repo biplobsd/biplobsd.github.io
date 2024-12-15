@@ -5,6 +5,9 @@ homePage: https://nunaproject.art
 start: 1654020000000
 end: 1667152800000
 date: 1681925671390
+tags:
+  - Flutter
+  - Firebase
 ---
 
 Working as frontend web developer (Remote).

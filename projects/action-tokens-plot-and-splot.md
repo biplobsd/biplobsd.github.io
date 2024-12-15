@@ -6,6 +6,14 @@ companyLogo: https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/
 imgUrl: https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/action-tokens/preview_www.map.action-tokens.com.jpeg
 whatText: Grid for placing images into blocks that stellar integrated.
 result: Action Tokens users can easily visualize their plots and SPlots on their screens and upload images, edit information, and showcase their plots to the world
+date: 1695814822000
+tags:
+  - Nextjs
+  - Typescript
+  - Amazon Amplify
+  - Stellar.org
+  - Firebase
+  - Zustand
 ---
 
 <video width="100%" height="100%" autoplay muted loop>
