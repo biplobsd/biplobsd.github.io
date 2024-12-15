@@ -36,7 +36,7 @@ jobs:
         uses: actions/checkout@v3
         with:
           repository: SpeedOut-Source/pnp
-          ref: "nextjs15-experimental"
+          ref: "main"
           path: "buildEnv/main"
       - name: 🔗 Create symbolic link
         run: |
