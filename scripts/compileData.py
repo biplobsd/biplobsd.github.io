@@ -180,6 +180,7 @@ def projectCompile():
                 'imgUrl', get_image_from_content(post.content))
             what_text = post.get('whatText', '')
             result = post.get('result', '')
+            tags = post.get('tags', [])
 
             project_dict = {
                 "imgUrl": img_url,
@@ -189,7 +190,8 @@ def projectCompile():
                 "result": result,
                 "date": date,
                 "readTime": read_time,
-                "fileName": filename
+                "fileName": filename,
+                "tags": list(map(str.lower, tags))
             }
 
             projects_list.append(project_dict)
@@ -474,6 +476,7 @@ def companyCompile():
             start = post.get('start', -1)
             end = post.get('end', -1)
             read_time = extractReadTime(post.content)
+            tags = post.get('tags', [])
 
             company_dict = {
                 "imgUrl": logoUrl,
@@ -483,7 +486,8 @@ def companyCompile():
                 "start": start,
                 "end": end,
                 "readTime": read_time,
-                "fileName": filename
+                "fileName": filename,
+                "tags": list(map(str.lower, tags))
             }
 
             company_list.append(company_dict)

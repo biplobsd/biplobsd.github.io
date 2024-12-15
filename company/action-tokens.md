@@ -10,7 +10,6 @@ tags:
   - Typescript
   - Amazon Amplify
   - Firebase
-  - 
 ---
 
 I am working as Full stack web developer (Remote - part time).
