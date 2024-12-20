@@ -3,7 +3,7 @@ tags:
  - flutter
 ---
 
-![DALL·E 2024-12-20 23.13.20 - A creative and modern depiction of debugging a Flutter app. The setup features a high-resolution monitor displaying an app UI preview, code editor wit](https://github.com/user-attachments/assets/bf874dd9-b041-46c2-ab1b-9c139bf876e0)
+![reproducing-and-fixing-bugs-in-flutter-projects.jpg](https://github.com/user-attachments/assets/9bcb582d-2d61-45d3-9bbe-66dcfc570d58)
 
 # Reproducing and Fixing Bugs in Flutter Projects
 
