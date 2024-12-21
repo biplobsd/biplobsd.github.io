@@ -1,2 +1,0 @@
-## Repo data path
-https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/
