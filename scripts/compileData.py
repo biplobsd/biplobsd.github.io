@@ -214,13 +214,6 @@ def make_hashable(d):
         k: tuple(v) if isinstance(v, list) else make_hashable(v) if isinstance(v, dict) else v
         for k, v in d.items()
     }
-    
-def make_hashable(obj):
-    if isinstance(obj, list):
-        return tuple(make_hashable(item) for item in obj)
-    elif isinstance(obj, dict):
-        return tuple(sorted((k, make_hashable(v)) for k, v in obj.items()))
-    return obj
 
 def process_tags(tags, date, tagsList):
     for tag in tags:
@@ -264,15 +257,14 @@ def tag_process(sortedData:list, nameRaw ="blog"):
 
             dataList = dataObj.get(name, [])
             dataList.append(i)
-            unique_dict_list = [dict(t) for t in {make_hashable(d) for d in dataList}]
             sorted_unique_dict_list = sorted(
-                unique_dict_list, key=lambda x: x['date'], reverse=True)
+                dataList, key=lambda x: x['date'], reverse=True)
 
             dict_tag = {name: sorted_unique_dict_list}
             with open(path, "w") as f:
                 json.dump(dict_tag, f)
 
-            updateConfig(f'{nameRaw}Total', len(unique_dict_list), tagPath)
+            updateConfig(f'{nameRaw}Total', len(dataList), tagPath)
 
     os.makedirs(tagsPath, exist_ok=True)
     updateConfig('tags', tagsSet, tagsPath)
