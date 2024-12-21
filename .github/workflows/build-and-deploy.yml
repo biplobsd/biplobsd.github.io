@@ -16,6 +16,17 @@ jobs:
         run: |
           pip install -r scripts/requirements.txt
           python scripts/compileData.py
+      - name: 💾 Commit files
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add .
+          git diff --quiet && git diff --staged --quiet || git commit -m "${{ github.event.head_commit.message }}"
+          git status
+      - name: 📤 Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          branch: "data"
       - name: 📂 Structure directory
         run: |
           mkdir -p buildEnv/pnp-data
@@ -54,17 +65,6 @@ jobs:
           cd buildEnv/main
           npm ci
           npm run export
-      - name: 💾 Commit files
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add .
-          git diff --quiet && git diff --staged --quiet || git commit -m "${{ github.event.head_commit.message }}"
-          git status
-      - name: 📤 Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          branch: "data"
       - name: 🚀 Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
