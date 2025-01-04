@@ -58,7 +58,7 @@ Input your super key for security, then run the cell to patch your boot.img. Aft
 ## Flashing boot.img
 Use the following commands to flash the patched boot.img to your phone via fastboot:
 
-```
+``` bash
 fastboot flash boot_a new-boot.img
 fastboot flash boot_b new-boot.img
 ```
