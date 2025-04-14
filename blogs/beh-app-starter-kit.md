@@ -1,0 +1,588 @@
+---
+tags:
+  - Flutter
+  - Supabase
+  - Riverpod
+---
+
+![Bannar](https://github.com/user-attachments/assets/696fcf05-a948-40aa-ab35-4d708ebd6259)
+
+
+# BEH App Starter Kit - Build Fast Flutter Template
+
+**⏱️ Time saved: 200+ hours (even more with AI assistance!)**
+
+A premium Flutter starter kit implementing **MVVM architecture** with **Riverpod state management** and **Supabase backend**. This template provides a solid foundation for developing your own business management solution with features like sales tracking, customer management, and PDF invoice generator.
+
+<div class="price-tag" style="margin-bottom: 15px; font-size: 1.2em; font-weight: bold;">💰 One-time purchase: $39 USD</div>
+
+<div class="collapse collapse-arrow bg-base-100 border border-base-300 mb-10">
+  <input type="checkbox" class="peer" /> 
+  <div class="collapse-title font-semibold btn btn-lg btn-primary group shrink-0 xl:px-10">
+    🚀 Buy Now & Start Building! <span class="flex gap-2"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="hidden size-6 transition-transform duration-300 group-hover:translate-x-1 md:inline-block"><path stroke-linecap="round" stroke-linejoin="round" d="M17.25 8.25L21 12m0 0l-3.75 3.75M21 12H3"></path></svg></span>
+  </div>
+  <div class="collapse-content peer-checked:bg-base-200 peer-checked:pt-4"> 
+    <h3 class="font-bold text-lg mb-2">How to Purchase:</h3>
+    <ol class="list-decimal list-inside space-y-2">
+      <li>Send an email to <a href="mailto:biplobsd11@gmail.com" class="text-primary font-semibold">biplobsd11@gmail.com</a> with subject line "BEH App Starter Kit Purchase"</li>
+      <li>Include your name and preferred payment method (PayPal/Stripe/Bank Transfer)</li>
+      <li>We'll respond within 24 hours with payment instructions</li>
+      <li>After payment confirmation, you'll receive download links</li>
+      <li>Download and enjoy building your app with 200+ hours saved!</li>
+    </ol>
+  </div>
+</div>
+
+## 📦 What's Included in Your Purchase:
+
+### 💻 Source Code & Project Files
+- ✅ Complete **Flutter** project implementing **MVVM architecture**
+- ✅ **Riverpod** state management with code generator
+- ✅ **Supabase** backend integration for authentication
+- ✅ Pre-configured `flutter_screenutil`, `gap`, `go_router`, `shorebird_code_push` and more 
+- ✅ Custom theme with light/dark mode support
+
+### 🗃️ Database Resources
+- ✅ Ready-to-import SQL schema files:
+    - `roles.sql` - Database role definitions
+    - `schema.sql` - Complete table structure and relationships
+
+### 🧩 Feature Modules
+- ✅ **Sales Management** system with detailed tracking
+- ✅ **Purchase Recording** with product breakdowns
+- ✅ **Customer Database** with balances and history
+- ✅ **PDF Invoice Generator** with Bangla text support
+- ✅ **Multi-language Support** (English & Bangla)
+
+### 🎓 Learning Resources
+- ✅ Video tutorials for setup and configuration
+- ✅ Comprehensive README with step-by-step guides
+
+## 💯 Why Choose This Kit?
+Save weeks of development time with a production-ready foundation built following best practices. Perfect for developers looking to quickly launch professional business management apps.
+
+### ⏱️ Time Savings Breakdown:
+- **Architecture Setup**: 40-60 hours saved
+- **UI Components & Theming**: 30-40 hours saved
+- **Authentication System**: 20-30 hours saved
+- **Feature Implementation**: 80-100 hours saved
+- **Database Schema**: 20-30 hours saved
+- **Testing & Debugging**: 30-40 hours saved
+- **Total**: **200+ hours** (4-6 weeks) of development time saved!
+- **With AI Assistance**: Reduce remaining customization time by up to 70%
+
+## 1. Acknowledge
+
+This project was inspired by the [Flutter App Architecture Guide](https://docs.flutter.dev/app-architecture/guide), the [Starter Architecture for Flutter & Firebase](https://github.com/bizz84/starter_architecture_flutter_firebase), and the [Flutter MVVM Riverpod Starter](https://github.com/namanh11611/flutter_mvvm_riverpod)
+
+## 2. Architecture Overview
+
+This starter kit follows the **Model-View-ViewModel (MVVM)** architecture pattern:
+
+- **Model**: Represents the data and business logic of the application
+- **View**: UI components that display data and send user actions to the ViewModel
+- **ViewModel**: Manages UI state and connects the View with the Model
+
+### 2.1. Key architectural principles:
+
+1. **Separation of Concerns**: Each layer has a specific responsibility
+2. **Testability**: Business logic is separated from UI for easier testing
+3. **Maintainability**: Modular architecture makes code easier to maintain
+4. **Reusability**: Components can be reused across different parts of the app
+
+## 3. Tech Stack
+
+- **Framework**: Flutter for cross-platform mobile development
+- **State Management**: Riverpod with code generator
+- **Architecture**: MVVM (Model-View-ViewModel)
+- **Backend**: Supabase for database, authentication, and real-time updates
+- **PDF Generator**: Flutter PDF library with Bangla text support
+- **Language Support**: Easy Localization for multiple languages
+- **Routing**: Go Router for declarative routing
+- **UI Components**: Custom responsive widgets with Flutter ScreenUtil
+
+## 4. Core Dependencies
+
+- `flutter_riverpod` & `riverpod_annotation`: Reactive state management
+- `supabase_flutter`: Backend services, auth, and real-time database
+- `pdf`: PDF document generator
+- `bijoy_helper`: Bangla text support for PDF generator
+- `easy_localization`: Internationalization and multiple language support
+- `go_router`: Navigation and routing
+- `flutter_screenutil`: Responsive UI scaling
+- `envied`: Secure environment variable management
+- `freezed`: Immutable state models
+- `intl`: Date formatting and localization
+- `share_plus`: Sharing PDFs and reports
+
+## 5. Project Structure
+
+```bash
+lib/
+├── constants/           # App constants and configurations
+├── environment/         # Environment configuration for dev/prod
+├── extensions/          # Extension methods and custom extensions
+├── features/            # Feature modules
+│   ├── about/           # About screen and information
+│   ├── authentication/  # Login, registration and auth services
+│   ├── buy/             # Purchase management module
+│   ├── common/          # Shared UI components and widgets
+│   ├── customer/        # Customer management 
+│   ├── home/            # Home dashboard and analytics
+│   ├── home_layout/     # Main app layout and navigation
+│   ├── onboarding/      # User onboarding flows
+│   ├── pdf_generator/   # Invoice and document generator
+│   ├── profile/         # User profile management
+├── icons/               # Custom icon definitions
+├── routing/             # Route configurations and navigation
+├── theme/               # Theme configurations and styling
+├── translations/        # Localization files and translations
+└── utils/               # Utility functions and helpers
+```
+
+## 6. Code Organization
+
+Each feature module follows this structure:
+
+```bash
+feature_name/
+├── model/              # Data models for the feature
+├── repository/         # Data sources and repositories
+└── ui/                 # UI components
+    ├── view_models/    # Riverpod providers and state management
+    ├── state/          # State classes for the feature
+    ├── widgets/        # Reusable UI components specific to the feature
+    └── *_screen.dart   # Screen widgets
+```
+
+This structure follows the MVVM pattern where:
+- Models (M): Defined in the `model/` directory
+- Views (V): Implemented in UI screens and widgets
+- ViewModels (VM): Located in the `ui/view_models/` directory to connect models with views
+
+## 7. Getting Started
+
+### 7.1. Prerequisites
+
+- Flutter SDK 3.29.2 or higher
+- Docker Desktop (for Supabase database restoration)
+- PostgreSQL and psql (for database operations)
+- Supabase CLI
+- Git (for version control)
+- Android Studio or VS Code with Flutter extensions
+
+### 7.2. Supabase Setup
+
+First, set up your Supabase environment following the official guide from [Supabase Backup and Restore](https://supabase.com/docs/guides/platform/migrating-within-supabase/backup-restore):
+
+1. Create a new Supabase project at [supabase.com](https://supabase.com)
+2. Install the Supabase CLI:
+   ```bash
+   # Using npm
+   npm install -g supabase
+   
+   # Using Homebrew (macOS)
+   brew install supabase/tap/supabase
+   ```
+
+3. Install Docker Desktop for your platform from [docker.com](https://www.docker.com/products/docker-desktop/) or [https://docs.docker.com/desktop/](https://docs.docker.com/desktop/)
+
+4. Get the new database connection string from your Supabase project:
+    - Go to your project dashboard
+    - Click on "Project Settings" > "Database"
+    - Click the "Connection string" button and select "URI"
+    - Copy the connection string (will look like
+      `postgresql://postgres.[PROJECT-REF]:[YOUR-PASSWORD]@aws-0-us-east-1.pooler.supabase.com:5432/postgres`)
+    - Replace `[YOUR-PASSWORD]` with your database password
+
+5. Restore the database using the provided SQL files:
+   ```bash
+   # Restore the database (using the files provided with your purchase in the database directory)
+   psql --single-transaction --variable ON_ERROR_STOP=1 --file roles.sql --file schema.sql --command "SET session_replication_role = replica" --dbname [CONNECTION_STRING]
+   ```
+
+6. Disable email confirmation in Supabase:
+    - Log in to your Supabase dashboard at [supabase.com](https://supabase.com)
+    - Navigate to "Authentication" in the left sidebar
+    - Select "Providers" tab
+    - Find "Email" provider and click on it
+    - Turn OFF the "Confirm email" toggle
+    - Save your changes
+    - This allows users to sign up without requiring email verification
+
+### 7.3. App Setup and Configuration
+
+1. Download and extract the starter kit from your Buy Me A Coffee purchase email
+   - Once extracted, you'll find three main directories:
+     - **behask/**: The complete Flutter project with source code and assets
+     - **database/**: SQL files (`roles.sql` and `schema.sql`) for Supabase setup
+     - **videos/**: Setup tutorials and guidance for configuration
+
+2. Install dependencies
+   ```bash
+   flutter pub get
+   ```
+
+3. Modify environment files for Supabase configuration
+   ```bash
+   # .env.dev file for development
+   SUPABASE_URL=your_supabase_url
+   SUPABASE_ANON_KEY=your_supabase_anon_key
+
+   # .env.prod file for production
+   SUPABASE_URL=your_supabase_url
+   SUPABASE_ANON_KEY=your_supabase_anon_key
+   ```
+
+4. Generate necessary code
+   ```bash
+   dart run build_runner build --delete-conflicting-outputs
+   ```
+
+5. Change the app information
+    - To change the app package name, run the following command:
+   ```bash
+   dart run change_app_package_name:main com.your.package.name
+   ```
+    - To change the Android app name, open the `android/app/src/main/AndroidManifest.xml` file,
+      change the `android:label="Your App Name"`
+    - To change the iOS app name, open the `ios/Runner/Info.plist` file, change the
+      `CFBundleDisplayName` to `Your App Name`
+    - To change the iOS bundle name, open the `ios/Runner/Info.plist` file, change the
+      `CFBundleName` to `your_bundle_name`
+
+6. Update your app icons
+    - The project is already set up with the `flutter_launcher_icons` package
+    - Replace the image at `assets/images/logo_fill.png` with your own logo (recommended size
+      1024x1024px)
+    - Run the following command to generate icons for both Android and iOS:
+   ```bash
+   flutter pub run flutter_launcher_icons
+   ```
+
+7. Run the app
+   ```bash
+   flutter run
+   ```
+
+### 7.4. Managing Database Changes with pgAdmin
+
+For database management and schema changes, you can use pgAdmin as described in the [Supabase pgAdmin guide](https://supabase.com/docs/guides/database/pgadmin):
+
+1. Download and install pgAdmin from [pgadmin.org](https://www.pgadmin.org/download/)
+
+2. Register a new Postgres server:
+    - Right-click on "Servers" in the pgAdmin browser and select "Register" > "Server..."
+    - In the "General" tab, name your server (e.g., "BEH Supabase")
+    - In the "Connection" tab:
+        - Enter the Host name/address from your Supabase connection string
+        - Enter "5432" as the port
+        - Enter "postgres" as the maintenance database
+        - Enter "postgres" as the username
+        - Enter your database password
+    - In the "SSL" tab:
+        - Set "SSL mode" to "Require"
+        - Download your SSL certificate from the Supabase Dashboard's Database Settings
+        - Set the "Root certificate" field to the path of the downloaded certificate
+
+3. For comparing and synchronizing schema changes between development and production:
+    - Right-click on your database in pgAdmin
+    - Select "Compare" > "Schema Comparison"
+    - Select your source and target databases
+    - Select the schemas to compare
+    - Click "Compare" to see the differences
+    - Click "Generate Script" to create a SQL script of the changes
+    - Review and run the script on your target database
+
+## 8. Deployment Guide
+
+### 8.1. Code Generation and Cleanup
+Before building for production, clean up generated files and regenerate them:
+
+#### 8.1.1. For Windows (PowerShell)
+```bash
+# Remove all generated files
+Get-ChildItem -Path .\lib -Recurse -Include *.freezed.dart,*.g.dart | Remove-Item -Force
+
+# Clean the project
+flutter clean
+
+# Get dependencies
+flutter pub get
+
+# Clean and regenerate code
+dart run build_runner clean
+dart run build_runner build --delete-conflicting-outputs
+```
+
+#### 8.1.2. For Mac/Linux (Bash/Shell)
+```bash
+# Remove all generated files
+find lib -name "*.freezed.dart" -o -name "*.g.dart" | xargs rm -f
+
+# Clean the project
+flutter clean
+
+# Get dependencies
+flutter pub get
+
+# Clean and regenerate code
+dart run build_runner clean
+dart run build_runner build --delete-conflicting-outputs
+```
+
+### 8.2. Building Optimized APK
+For the smallest possible APK:
+```bash
+flutter build apk --release --target-platform android-arm,android-arm64 --obfuscate --split-debug-info=debug-info
+```
+
+### 8.3. Using Shorebird for Updates (Optional)
+This project is configured for [Shorebird](https://shorebird.dev/), which enables over-the-air code updates:
+
+1. Install Shorebird CLI and authenticate
+2. Configure your `shorebird.yaml` file with your app details:
+   ```yaml
+   # Example shorebird.yaml configuration
+   app_id: your-shorebird-app-id
+   auto_update: false
+   ```
+
+3. Release a new version:
+   ```bash
+   shorebird release android --flutter-version=3.29.2 --artifact apk -- --split-debug-info=debug-info -- --obfuscate
+   ```
+
+4. Deploy a patch update:
+   ```bash
+   shorebird patch --platforms=android --release-version=1.0.0+1 -- --split-debug-info=debug-info -- --obfuscate
+   ```
+
+For more detailed instructions on using Shorebird, refer to the [official documentation](https://docs.shorebird.dev/).
+
+### 8.4. Android App Signing
+
+This project uses Kotlin DSL for Gradle build files (`build.gradle.kts`). To enable app signing for your release builds:
+
+1. Create a keystore file using the following command:
+   ```bash
+   keytool -genkey -v -keystore ~/key.jks -keyalg RSA -keysize 2048 -validity 10000 -alias upload
+   ```
+
+2. Create a `key.properties` file in the `android/` directory with the following content:
+   ```properties
+   storePassword=your_keystore_password
+   keyPassword=your_key_password
+   keyAlias=upload
+   storeFile=path_to_your_keystore_file
+   ```
+
+3. Configure signing in `android/app/build.gradle.kts`:
+   ```kotlin
+   // Add this at the top of the file, before the android block
+   val keystorePropertiesFile = rootProject.file("key.properties")
+   val keystoreProperties = java.util.Properties()
+   keystoreProperties.load(java.io.FileInputStream(keystorePropertiesFile))
+   
+   android {
+       // Existing configuration...
+       
+       signingConfigs {
+           create("release") {
+               keyAlias = keystoreProperties["keyAlias"] as String
+               keyPassword = keystoreProperties["keyPassword"] as String
+               storeFile = file(keystoreProperties["storeFile"] as String)
+               storePassword = keystoreProperties["storePassword"] as String
+           }
+       }
+       
+       buildTypes {
+           release {
+               // Update this line to use release signing config
+               signingConfig = signingConfigs.getByName("release")
+               // Other release settings like minifyEnabled, etc.
+           }
+       }
+   }
+   ```
+
+For more detailed information on Android app signing, refer to the [Flutter Android deployment documentation](https://docs.flutter.dev/deployment/android#sign-the-app).
+
+## 9. Customization Guide
+
+### 9.1. Branding
+1. Update app name in `pubspec.yaml`
+2. Replace logo and splash images in `assets/images/`
+3. Modify theme colors in `lib/theme/`
+
+### 9.2. Features
+1. Each feature is modular and located in the `lib/features/` directory
+2. Extend or modify features based on your business requirements
+3. Add new features by following the existing MVVM pattern
+
+## 10. Screenshots
+
+| Light Theme                                | Dark Theme                               |
+|--------------------------------------------|------------------------------------------|
+| ![Light Theme](https://github.com/user-attachments/assets/a66f72c2-0033-4316-8a90-32b05a43e5b9)    | ![Dark Theme](https://github.com/user-attachments/assets/8cec0cb1-d936-42ba-b148-df8da5fa5bb3)    |
+| ![Light Theme](https://github.com/user-attachments/assets/565a05b4-60e7-4e00-8b7c-ea8179b71378)    | ![Dark Theme](https://github.com/user-attachments/assets/f089cc82-e277-46cf-82d9-782f9e6ef252)    |
+
+## 11. Why Choose This Starter Kit?
+
+- **Save Development Time**: Skip weeks of setup and architecture decisions
+- **Production-Ready Code**: Follow best practices with clean architecture
+- **Easy Customization**: Modular design makes it easy to adapt to your needs
+- **Performance Optimized**: Built with performance in mind from the start
+- **Regular Updates**: Purchase includes access to future updates and improvements
+
+## 12. License
+
+This starter kit is licensed under a Commercial License that restricts usage to one commercial project per purchase. The license includes:
+- Permission to use for a single commercial project
+- Rights to modify the code for your specific project
+- Restrictions on redistribution and reselling
+
+See the LICENSE file for complete terms and conditions.
+
+## 13. Support
+
+After purchase, you'll receive:
+- Full source code access
+- Database schema scripts
+- Documentation and setup guide
+- 30 days of email support
+
+For questions or support, contact: [biplobsd11@gmail.com](mailto:biplobsd11@gmail.com)
+
+## 14. What's Included in Your Purchase
+
+When you purchase the BEH App Starter Kit, you'll receive a ZIP file containing:
+
+### 14.1. Source Code and Assets
+- Complete Flutter project with all source code
+- Pre-configured Android and iOS configurations
+- Asset files including images, icons, and animations
+- Theme configuration files
+
+### 14.2. Database Files
+- SQL schema files (located in the `database` directory):
+    - `roles.sql`: Database role definitions
+    - `schema.sql`: Complete database structure with tables and relationships
+
+### 14.3. Video Tutorials
+- Setup screencasts in the `video` directory
+- Database configuration tutorials
+- User interface walkthrough video
+
+### 14.4. Support Resources
+- Email support for 30 days post-purchase
+- Access to future updates and improvements
+- Troubleshooting guides
+
+## 15. Video Setup Instructions
+
+For detailed visual guidance on setting up and using this starter kit, please refer to the video screenrecords in the `video` folder. These recordings provide step-by-step instructions on:
+
+1. Supabase configuration and database setup
+2. Flutter project configuration
+3. Environment setup and API key integration
+4. Running the application for the first time
+
+Watch these instructional video for a comprehensive visual guide to get your application up and running quickly.
+
+## 16. Getting Started for Non-Technical Users
+
+If you're new to app development, this section will help you understand what you need to get started with this kit.
+
+### 16.1. What You Need to Learn
+
+1. **Basic Flutter Concepts**: Understanding how Flutter works, including widgets and basic UI building
+    - Resource: [Flutter Getting Started Guide](https://flutter.dev/docs/get-started)
+    - Time investment: 2-3 weeks of part-time learning
+
+2. **Riverpod Basics**: Learning the state management system used in this app
+    - Resource: [Riverpod Documentation](https://riverpod.dev/docs/getting_started)
+    - Time investment: 1 week
+
+3. **Supabase Fundamentals**: Understanding how to work with the backend
+    - Resource: [Supabase Quickstart](https://supabase.com/docs/guides/getting-started)
+    - Time investment: 1 week
+
+### 16.2. Tools You'll Need
+
+1. **Flutter SDK**: The software development kit for building the app
+    - Download from: [flutter.dev](https://flutter.dev/docs/get-started/install)
+
+2. **Visual Studio Code or Android Studio**: Code editor to work on the app
+    - VS Code: [code.visualstudio.com](https://code.visualstudio.com/)
+    - Android Studio: [developer.android.com/studio](https://developer.android.com/studio)
+
+3. **Git**: For version control and managing code changes
+    - Download from: [git-scm.com](https://git-scm.com/downloads)
+
+4. **Supabase Account**: For backend services like database and authentication
+    - Sign up at: [supabase.com](https://supabase.com/)
+
+### 16.3. Leveraging AI-Powered Code Editors
+
+As a non-technical person, modern AI-powered code editors can dramatically accelerate your learning journey and development capabilities:
+
+1. **Cursor AI Code Editor**: These AI-powered code editors can:
+    - Help you understand the codebase through intelligent explanations
+    - Generate code snippets based on your natural language descriptions
+    - Fix errors automatically when you encounter issues
+    - Provide real-time guidance as you modify the app
+    - Download from: [cursor.sh](https://cursor.sh/)
+
+By combining this starter kit with an AI code editor, you can:
+- **Reduce the Learning Curve**: Get explanations of complex code patterns in simple terms
+- **Accelerate Development**: Complete in days what might take weeks for a beginner
+- **Experience "Vibe Coding"**: Enjoy a more intuitive, conversation-based coding experience
+- **Gain Confidence**: Make changes with the safety net of AI assistance
+- **Learn Faster**: Understand best practices through AI explanations rather than trial and error
+
+This combination creates a powerful environment where even non-technical users can successfully modify and extend the application with minimal frustration.
+
+### 16.4. Simple Steps to Begin
+
+1. **Learn the basics**: Spend time with the learning resources mentioned above
+2. **Set up your development environment**: Install Flutter and a code editor
+3. **Watch the setup videos**: In the `videos` folder for visual guidance
+4. **Follow the setup instructions**: In the "Getting Started After Purchase" section
+5. **Experiment with small changes**: Start by making minor UI modifications
+6. **Join Flutter communities**: For help when you get stuck (Flutter Discord, Stack Overflow)
+
+Remember, app development is a learning journey. Start with small changes, gradually increase complexity, and don't hesitate to use the provided example code as a reference.
+
+## 17. What You'll Learn from This Project
+
+By studying and working with this starter kit, you'll gain valuable experience and knowledge in:
+
+1. **Production-Grade Flutter Architecture**: Understand how to structure large Flutter applications using MVVM architecture with clear separation of concerns.
+
+2. **Advanced State Management**: Master Riverpod's powerful state management techniques including providers, state notifiers, and code generator.
+
+3. **Backend Integration Best Practices**: Learn how to properly connect Flutter apps to Supabase backend services, including authentication, database operations, and real-time updates.
+
+4. **PDF Generator and Document Processing**: Explore techniques for creating professional documents directly from your app, with support for complex text including Bangla characters.
+
+5. **Proper Error Handling**: See examples of robust error handling patterns that improve app stability and user experience.
+
+6. **Multi-Language Support**: Understand internationalization implementation for supporting multiple languages in your app.
+
+7. **Theme Management**: Learn techniques for implementing and switching between light and dark themes while maintaining a consistent design language.
+
+8. **Responsive UI Design**: Gain insights into building interfaces that work across different screen sizes and orientations.
+
+9. **Data Modeling Techniques**: See how to create efficient, type-safe data models with Freezed for serialization and immutability.
+
+10. **Professional App Organization**: Experience a well-structured project that follows industry best practices for maintainability and scalability.
+
+These skills are highly transferable to other Flutter projects and will significantly improve your capabilities as a mobile app developer, regardless of your starting point.
+
+## 18. Developed By
+
+SpeedOut Source - A digital product studio specializing in Flutter development and business solutions.
+
+© 2025 [SpeedOut Source](https://beh.biplobsd.me) | All rights reserved
+
