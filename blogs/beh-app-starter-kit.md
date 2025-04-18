@@ -18,18 +18,17 @@ A premium Flutter starter kit implementing **MVVM architecture** with **Riverpod
 
 <div class="collapse collapse-arrow bg-base-100 border border-base-300 mb-10">
   <input type="checkbox" class="peer" /> 
-  <div class="collapse-title font-semibold btn btn-lg btn-primary group shrink-0 xl:px-10">
-    🚀 Buy Now & Start Building! <span class="flex gap-2"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="hidden size-6 transition-transform duration-300 group-hover:translate-x-1 md:inline-block"><path stroke-linecap="round" stroke-linejoin="round" d="M17.25 8.25L21 12m0 0l-3.75 3.75M21 12H3"></path></svg></span>
+  <div class="collapse-title font-semibold btn btn-lg btn-primary group shrink-0 xl:px-10 py-0">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGg5MTA5YXE0cXp3Z3M5cHA4bmthajI2YzQwbXZ1NXhmZ3E1cTYwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TDQOtnWgsBx99cNoyH/giphy.gif" alt="BMC animation" width="50" height="50">Buy Now & Start Building! <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="hidden size-6 transition-transform duration-300 group-hover:translate-x-1 md:inline-block"><path stroke-linecap="round" stroke-linejoin="round" d="M17.25 8.25L21 12m0 0l-3.75 3.75M21 12H3"></path></svg>
   </div>
   <div class="collapse-content peer-checked:bg-base-200 peer-checked:pt-4"> 
-    <h3 class="font-bold text-lg mb-2">How to Purchase:</h3>
-    <ol class="list-decimal list-inside space-y-2">
-      <li>Send an email to <a href="mailto:biplobsd11@gmail.com" class="text-primary font-semibold">biplobsd11@gmail.com</a> with subject line "BEH App Starter Kit Purchase"</li>
-      <li>Include your name and preferred payment method (PayPal/Stripe/Bank Transfer)</li>
-      <li>We'll respond within 24 hours with payment instructions</li>
-      <li>After payment confirmation, you'll receive download links</li>
-      <li>Download and enjoy building your app with 200+ hours saved!</li>
-    </ol>
+    <div class="space-y-1">
+      <p>Get instant access to the BEH App Starter Kit by purchasing through Buy Me a Coffee and don’t forget to use the coupon code for discount price! 😎</p>
+      <a href="https://buymeacoffee.com/biplobsd/e/397121" target="_blank" rel="noopener noreferrer"><span class="btn btn-warning btn-block">
+        Buy on Buy Me a Coffee Shop Page <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5 ml-1"><path stroke-linecap="round" stroke-linejoin="round" d="M13.5 6H5.25A2.25 2.25 0 003 8.25v10.5A2.25 2.25 0 005.25 21h10.5A2.25 2.25 0 0018 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25"></path></svg></span>
+      </a>
+      <p class="text-sm mt-2">After purchase, you'll receive immediate download access to a ZIP file.</p>
+    </div>
   </div>
 </div>
 
@@ -475,7 +474,6 @@ When you purchase the BEH App Starter Kit, you'll receive a ZIP file containing:
 - User interface walkthrough video
 
 ### 14.4. Support Resources
-- Email support for 30 days post-purchase
 - Access to future updates and improvements
 - Troubleshooting guides
 
