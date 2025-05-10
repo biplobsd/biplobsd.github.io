@@ -1,14 +1,18 @@
 ---
-logoUrl: https://store-images.s-microsoft.com/image/apps.11314.14126c4b-9afb-4159-8ccd-5fe418b8be0f.9607b2ca-ccb4-4bfe-83ce-412395cf4b6a.54e88b17-2718-4a8b-927c-b20174bcf8c8?mode=scale&h=100&q=90&w=100
+logoUrl: https://raw.githubusercontent.com/biplobsd/yst/refs/heads/main/src/assets/icons/icon128.png
 title: Youtube Subscriptions Transfer
 category: Productivity
 p_name_1: Edge Add-ons
 p_link_1: https://microsoftedge.microsoft.com/addons/detail/ojnekffpabpincdklmmmlnoanffkfahj
 p_name_2: Chrome Web Store
 p_link_2: https://chrome.google.com/webstore/detail/fanknehiohibiphenfaigbmefncbheaa
-p_name_3: Github release
-p_link_3: https://github.com/biplobsd/yst/releases/latest
-img_1: https://store-images.s-microsoft.com/image/apps.51655.14126c4b-9afb-4159-8ccd-5fe418b8be0f.9607b2ca-ccb4-4bfe-83ce-412395cf4b6a.d2d7a2b4-80d7-43c2-b86e-1831535622f5
+p_name_3: Firefox Add-ons
+p_link_3: https://addons.mozilla.org/addon/youtube-subscriptions-transfer/
+p_name_4: Github release
+p_link_4: https://github.com/biplobsd/yst/releases/latest
+img_1: https://raw.githubusercontent.com/biplobsd/yst/refs/heads/main/assets/yst_1400.jpg
+img_2: https://github.com/user-attachments/assets/c0877207-2f88-4985-b171-ef4e0e28f3d0
+img_3: https://github.com/user-attachments/assets/4466e22d-1c77-441b-9db5-2fea642a44e1
 date: 1689418076000
 tags:
   - Chrome Extension
@@ -21,7 +25,11 @@ tags:
 ---
 
 <center>
-<iframe class="w-full h-96" src="https://www.youtube.com/embed/EsouSNQOALQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="w-full h-96" src="https://www.youtube.com/embed/EsouSNQOALQ" title="Quick tutorial 60 second with the XPath mode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+<center>
+<iframe class="w-full h-96" src="https://www.youtube.com/embed/lLRLc2C7M8s" title="Long Tutorial (In French Language) by paradoxetemporel.fr" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 Transferring subscriptions from one YouTube account to another.
