@@ -48,9 +48,9 @@ jobs:
         run: |
           python buildEnv/pnp-data/scripts/passData.py
       - name: 💫 Setup node
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          node-version: 23.3.0
+          node-version: 24.4.1
           cache: npm
           cache-dependency-path: buildEnv/main/package-lock.json
       - name: 🔄 Restore cache
