@@ -1,6 +1,6 @@
 ---
 title: 6amTech
-logoUrl: https://github.com/user-attachments/assets/46626f8b-b81b-498d-9228-84cde2b876a8
+logoUrl: https://github.com/user-attachments/assets/9f578eb2-1271-44d4-9dec-b5f4d29f903c
 homePage: https://6amtech.com
 start: 1754190000000
 tags:
