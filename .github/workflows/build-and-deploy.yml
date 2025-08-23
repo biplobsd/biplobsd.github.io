@@ -1,5 +1,4 @@
 name: ✨ PNP Workflow
-
 on:
   push:
     branches: [data]
@@ -47,24 +46,26 @@ jobs:
       - name: 🛟 Passing data
         run: |
           python buildEnv/pnp-data/scripts/passData.py
-      - name: 💫 Setup node
-        uses: actions/setup-node@v4
+      - name: 🟡 Setup Bun
+        uses: oven-sh/setup-bun@v2
         with:
-          node-version: 24.4.1
-          cache: npm
-          cache-dependency-path: buildEnv/main/package-lock.json
+          bun-version: latest
       - name: 🔄 Restore cache
         uses: actions/cache@v3
         with:
-          path: buildEnv/main/.next/cache
-          key: ${{ runner.os }}-nextjs-${{ hashFiles('buildEnv/main/**/package-lock.json', 'buildEnv/main/**/yarn.lock') }}-${{ hashFiles('buildEnv/main/**.[jt]s', 'buildEnv/main/**.[jt]sx') }}
+          path: |
+            buildEnv/main/.next/cache
+            buildEnv/main/node_modules
+            ~/.bun/install/cache
+          key: ${{ runner.os }}-bun-${{ hashFiles('buildEnv/main/**/bun.lock') }}-${{ hashFiles('buildEnv/main/**.[jt]s', 'buildEnv/main/**.[jt]sx') }}
           restore-keys: |
-            ${{ runner.os }}-nextjs-${{ hashFiles('buildEnv/main/**/package-lock.json', 'buildEnv/main/**/yarn.lock') }}-
+            ${{ runner.os }}-bun-${{ hashFiles('buildEnv/main/**/bun.lock') }}-
+            ${{ runner.os }}-bun-
       - name: 🏗️ Build
         run: |
           cd buildEnv/main
-          npm ci
-          npm run export
+          bun install
+          bun run export
       - name: 🚀 Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
