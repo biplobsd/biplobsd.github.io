@@ -2,10 +2,12 @@
 logoUrl: https://raw.githubusercontent.com/biplobsd/running_services_monitor/refs/heads/main/assets/logo.png
 title: Running Services Monitor
 category: Productivity
-p_name_1: GitHub Release
-p_link_1: https://github.com/biplobsd/running_services_monitor/releases/latest
-p_name_2: Source Code
-p_link_2: https://github.com/biplobsd/running_services_monitor
+p_name_1: Android
+p_link_1: https://play.google.com/store/apps/details?id=me.biplobsd.rsm
+p_name_2: GitHub Release
+p_link_2: https://github.com/biplobsd/running_services_monitor/releases/latest
+p_name_3: Source Code
+p_link_3: https://github.com/biplobsd/running_services_monitor
 img_1: https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/rsm/banner.png
 img_2: https://raw.githubusercontent.com/biplobsd/running_services_monitor/refs/heads/main/screenshots/home.jpg
 img_3: https://raw.githubusercontent.com/biplobsd/running_services_monitor/refs/heads/main/screenshots/dark_home.jpg
