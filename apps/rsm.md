@@ -6,10 +6,12 @@ p_name_1: Android
 p_link_1: https://play.google.com/store/apps/details?id=me.biplobsd.rsm
 p_name_2: IzzyOnDroid
 p_link_2: https://apt.izzysoft.de/packages/me.biplobsd.rsm
-p_name_3: GitHub Release
-p_link_3: https://github.com/biplobsd/running_services_monitor/releases/latest
-p_name_4: Source Code
-p_link_4: https://github.com/biplobsd/running_services_monitor
+p_name_3: F-Droid
+p_link_3: https://f-droid.org/packages/me.biplobsd.rsm
+p_name_4: GitHub Release
+p_link_4: https://github.com/biplobsd/running_services_monitor/releases/latest
+p_name_5: Source Code
+p_link_5: https://github.com/biplobsd/running_services_monitor
 img_1: https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/rsm/banner.png
 img_2: https://raw.githubusercontent.com/biplobsd/running_services_monitor/refs/heads/main/screenshots/home.jpg
 img_3: https://raw.githubusercontent.com/biplobsd/running_services_monitor/refs/heads/main/screenshots/dark_home.jpg
