@@ -2,6 +2,7 @@ name: ✨ PNP Workflow
 on:
   push:
     branches: [data]
+  workflow_dispatch:
 jobs:
   build:
     runs-on: ubuntu-latest
