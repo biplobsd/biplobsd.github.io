@@ -1,0 +1,208 @@
+1:"$Sreact.fragment"
+2:I[63178,["/_next/static/chunks/df89af08f39a668e.js","/_next/static/chunks/d824e1165b6c2cbd.js","/_next/static/chunks/306ed2401499d3d9.js","/_next/static/chunks/2ccc973a4ca89d60.js","/_next/static/chunks/9305858cc4011782.js"],"ThemeProvider"]
+3:I[52157,["/_next/static/chunks/df89af08f39a668e.js","/_next/static/chunks/d824e1165b6c2cbd.js","/_next/static/chunks/306ed2401499d3d9.js","/_next/static/chunks/2ccc973a4ca89d60.js","/_next/static/chunks/9305858cc4011782.js"],"PreloadChunks"]
+4:I[6021,["/_next/static/chunks/df89af08f39a668e.js","/_next/static/chunks/d824e1165b6c2cbd.js","/_next/static/chunks/306ed2401499d3d9.js","/_next/static/chunks/2ccc973a4ca89d60.js","/_next/static/chunks/9305858cc4011782.js"],"default"]
+5:I[82815,["/_next/static/chunks/df89af08f39a668e.js","/_next/static/chunks/d824e1165b6c2cbd.js","/_next/static/chunks/306ed2401499d3d9.js","/_next/static/chunks/2ccc973a4ca89d60.js","/_next/static/chunks/9305858cc4011782.js"],"default"]
+6:I[39756,["/_next/static/chunks/208d109d56c94dec.js","/_next/static/chunks/b9df1088a5e002c8.js"],"default"]
+7:I[37457,["/_next/static/chunks/208d109d56c94dec.js","/_next/static/chunks/b9df1088a5e002c8.js"],"default"]
+8:I[75007,["/_next/static/chunks/df89af08f39a668e.js","/_next/static/chunks/d824e1165b6c2cbd.js","/_next/static/chunks/306ed2401499d3d9.js","/_next/static/chunks/2ccc973a4ca89d60.js","/_next/static/chunks/9305858cc4011782.js","/_next/static/chunks/c2fa84ca3b7efbb4.js"],"NotFoundRedirect"]
+9:I[22016,["/_next/static/chunks/df89af08f39a668e.js","/_next/static/chunks/d824e1165b6c2cbd.js","/_next/static/chunks/306ed2401499d3d9.js","/_next/static/chunks/2ccc973a4ca89d60.js","/_next/static/chunks/9305858cc4011782.js"],""]
+10:I[68027,["/_next/static/chunks/208d109d56c94dec.js","/_next/static/chunks/b9df1088a5e002c8.js"],"default"]
+:HL["/_next/static/chunks/ba1a6787ba195a3e.css","style"]
+:HL["/_next/static/chunks/b095a36addf1b84d.css","style"]
+:HL["/_next/static/media/fd3f2d7cff5f3729-s.p.6cff3a18.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"FV8kaFXDw6zXvFUAjtwc5","c":["","blogs","migrating-from-next.js-13-page-router-to-next.js-15-app-router"],"q":"","i":false,"f":[[["",{"children":[["category","blogs","d"],{"children":[["file_name","migrating-from-next.js-13-page-router-to-next.js-15-app-router","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/ba1a6787ba195a3e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/b095a36addf1b84d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/df89af08f39a668e.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/d824e1165b6c2cbd.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/306ed2401499d3d9.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/2ccc973a4ca89d60.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/9305858cc4011782.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"className":"scroll-smooth","lang":"en","data-scroll-behavior":"smooth","data-theme":"dark","suppressHydrationWarning":true,"children":["$","body",null,{"className":"scrollbar-style relative isolate","children":["$","$L2",null,{"enableSystem":false,"themes":["dark","winter"],"defaultTheme":"dark","children":[[["$","$L3",null,{"moduleIds":["3971526741515434858"]}],["$","$L4",null,{}]],[["$","$L3",null,{"moduleIds":["17713158809478910457"]}],["$","div",null,{"aria-hidden":"true","className":"pointer-events-none absolute inset-x-0 -top-80 -z-10 hidden transform-gpu overflow-hidden blur-3xl md:block","children":["$","div",null,{"style":{"clipPath":"polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)"},"className":"relative left-[calc(90%-20rem)] aspect-1155/678 w-[72.1875rem] -translate-x-1/2 rotate-[30deg] transform-gpu bg-linear-to-tr from-[#c880ff] to-[#9089fc] opacity-20"}]}]],["$","div",null,{"className":"flex h-screen flex-col justify-between","children":[["$","main",null,{"className":"titillium_web_561b13b2-module__wbCuzq__className","children":[[["$","$L3",null,{"moduleIds":["2972469916918538491"]}],["$","$L5",null,{}]],["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","$L8",null,{}],["$","main",null,{"className":"errorSplash container mx-auto","children":["$","div",null,{"children":["404 ",["$","span",null,{"children":"|"}]," This page is not found"]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],[["$","$L3",null,{"moduleIds":["12737876533879332231"]}],["$","footer",null,{"children":[["$","div",null,{"className":"mt-5 backdrop-blur-xs supports-backdrop-blur:bg-white/60","children":["$","div",null,{"className":"mx-5 mt-auto flex items-center justify-center","children":["$","div",null,{"className":"container","children":[["$","div",null,{"className":"divider"}],["$","div",null,{"className":"mt-2 mb-4 flex flex-col items-center justify-between space-y-2 sm:flex-row sm:space-y-0","children":[["$","div",null,{"className":"flex flex-col items-center justify-center gap-2 sm:flex-row sm:gap-0","children":[["$","span",null,{"className":"text-sm","children":["© 2025 ","Biplob Sutradhar"]}],["$","span",null,{"className":"mx-2 hidden sm:block","children":"|"}],["$","span",null,{"className":"text-sm","children":"Made in Bangladesh"}]]}],["$","ul",null,{"className":"flex flex-wrap space-x-4 text-sm","children":[["$","li",null,{"children":[["$","$L3",null,{"moduleIds":["7640330367050620805"]}],["$","$L9",null,{"href":"/about","className":"link-hover link","children":"About"}]]}],["$","li",null,{"children":[["$","$L3",null,{"moduleIds":"$0:f:0:1:0:props:children:1:props:children:props:children:props:children:2:props:children:1:1:props:children:0:props:children:props:children:props:children:1:props:children:1:props:children:0:props:children:0:props:moduleIds"}],["$","$L9",null,{"href":"/contact","className":"link-hover link","children":"Contact me"}]]}],["$","li",null,{"children":[["$","$L3",null,{"moduleIds":"$0:f:0:1:0:props:children:1:props:children:props:children:props:children:2:props:children:1:1:props:children:0:props:children:props:children:props:children:1:props:children:1:props:children:0:props:children:0:props:moduleIds"}],["$","$L9",null,{"href":"/privacy","className":"link-hover link","children":"Privacy policy"}]]}]]}]]}]]}]}]}],["$","div",null,{"className":"relative isolate -z-50 hidden md:block","children":["$","div",null,{"aria-hidden":"true","className":"pointer-events-none absolute inset-x-0 bottom-10 -z-50 transform-gpu overflow-hidden blur-3xl","children":"$La"}]}]]}]]]}],"$Lb"]}]}]}]]}],{"children":["$Lc",{"children":["$Ld",{"children":["$Le",{},null,false,false]},null,false,false]},null,false,false]},null,false,false],"$Lf",false]],"m":"$undefined","G":["$10",[]],"S":true}
+11:I[73399,["/_next/static/chunks/df89af08f39a668e.js","/_next/static/chunks/d824e1165b6c2cbd.js","/_next/static/chunks/306ed2401499d3d9.js","/_next/static/chunks/2ccc973a4ca89d60.js","/_next/static/chunks/9305858cc4011782.js"],"default"]
+13:I[25725,["/_next/static/chunks/208d109d56c94dec.js","/_next/static/chunks/b9df1088a5e002c8.js"],"OutletBoundary"]
+14:"$Sreact.suspense"
+16:I[25725,["/_next/static/chunks/208d109d56c94dec.js","/_next/static/chunks/b9df1088a5e002c8.js"],"ViewportBoundary"]
+18:I[25725,["/_next/static/chunks/208d109d56c94dec.js","/_next/static/chunks/b9df1088a5e002c8.js"],"MetadataBoundary"]
+a:["$","div",null,{"style":{"clipPath":"polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)"},"className":"relative left-[calc(50%-30rem)] aspect-1155/678 w-[72.1875rem] -translate-x-1/2 rotate-[30deg] transform-gpu bg-linear-to-tr from-[#ff80b5] to-[#9089fc] opacity-20"}]
+b:[["$","$L3",null,{"moduleIds":["11536131241018904265"]}],["$","$L11",null,{}]]
+c:["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+d:["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+e:["$","$1","c",{"children":["$L12",[["$","script","script-0",{"src":"/_next/static/chunks/08af111c6ca44ed4.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/e4b98677c3250abd.js","async":true,"nonce":"$undefined"}]],["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]]}]
+f:["$","$1","h",{"children":[null,["$","$L16",null,{"children":"$L17"}],["$","div",null,{"hidden":true,"children":["$","$L18",null,{"children":["$","$14",null,{"name":"Next.Metadata","children":"$L19"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+17:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1a:I[27201,["/_next/static/chunks/208d109d56c94dec.js","/_next/static/chunks/b9df1088a5e002c8.js"],"IconMark"]
+15:null
+19:[["$","title","0",{"children":"Migrating from Next.js 13 Page Router to Next.js 15 App Router | Biplob Sutradhar"}],["$","meta","1",{"name":"description","content":"This week, I successfully migrated my old Next.js blog site to the latest Next.js 15 App Router. In ... | Blogs | Biplob Sutradhar"}],["$","meta","2",{"name":"application-name","content":"Migrating from Next.js 13 Page Router to Next.js 15 App Router | Biplob Sutradhar"}],["$","link","3",{"rel":"manifest","href":"/manifest.json","crossOrigin":"$undefined"}],["$","meta","4",{"name":"fb:app_id","content":"732825215185793"}],["$","link","5",{"rel":"canonical","href":"https://biplobsd.me"}],["$","meta","6",{"name":"format-detection","content":"telephone=no"}],["$","meta","7",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","8",{"name":"apple-mobile-web-app-title","content":"Migrating from Next.js 13 Page Router to Next.js 15 App Router | Biplob Sutradhar"}],["$","meta","9",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","10",{"property":"og:title","content":"Migrating from Next.js 13 Page Router to Next.js 15 App Router | Biplob Sutradhar"}],["$","meta","11",{"property":"og:description","content":"This week, I successfully migrated my old Next.js blog site to the latest Next.js 15 App Router. In ... | Blogs | Biplob Sutradhar"}],["$","meta","12",{"property":"og:url","content":"https://biplobsd.me"}],["$","meta","13",{"property":"og:site_name","content":"Biplob Sutradhar"}],["$","meta","14",{"property":"og:image","content":"https://github.com/user-attachments/assets/743692de-8ab9-4e4a-9806-f94f645a4a88"}],["$","meta","15",{"property":"og:image:alt","content":"This week, I successfully migrated my old Next.js blog site to the latest Next.js 15 App Router. In ... | Blogs | Biplob Sutradhar"}],["$","meta","16",{"property":"og:type","content":"article"}],["$","meta","17",{"property":"article:published_time","content":"2024-12-15T03:23:08.000Z"}],["$","meta","18",{"property":"article:author","content":"https://biplobsd.me"}],["$","meta","19",{"property":"article:tag","content":"week"}],["$","meta","20",{"property":"article:tag","content":"successfully"}],["$","meta","21",{"property":"article:tag","content":"migrated"}],["$","meta","22",{"property":"article:tag","content":"nextjs"}],["$","meta","23",{"property":"article:tag","content":"blog"}],["$","meta","24",{"property":"article:tag","content":"site"}],["$","meta","25",{"property":"article:tag","content":"latest"}],["$","meta","26",{"property":"article:tag","content":"app"}],["$","meta","27",{"property":"article:tag","content":"router"}],["$","meta","28",{"property":"article:tag","content":"blogs"}],["$","meta","29",{"property":"article:tag","content":"biplob"}],["$","meta","30",{"property":"article:tag","content":"sutradhar"}],["$","meta","31",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","32",{"name":"twitter:site","content":"@biplobsd11"}],["$","meta","33",{"name":"twitter:creator","content":"@biplobsd11"}],["$","meta","34",{"name":"twitter:title","content":"Migrating from Next.js 13 Page Router to Next.js 15 App Router | Biplob Sutradhar"}],["$","meta","35",{"name":"twitter:description","content":"This week, I successfully migrated my old Next.js blog site to the latest Next.js 15 App Router. In ... | Blogs | Biplob Sutradhar"}],["$","meta","36",{"name":"twitter:image","content":"https://github.com/user-attachments/assets/743692de-8ab9-4e4a-9806-f94f645a4a88"}],["$","meta","37",{"name":"twitter:image:alt","content":"This week, I successfully migrated my old Next.js blog site to the latest Next.js 15 App Router. In ... | Blogs | Biplob Sutradhar"}],["$","link","38",{"rel":"icon","href":"https://biplobsd.me/favicon.ico"}],["$","$L1a","39",{}]]
+1b:I[66078,["/_next/static/chunks/df89af08f39a668e.js","/_next/static/chunks/d824e1165b6c2cbd.js","/_next/static/chunks/306ed2401499d3d9.js","/_next/static/chunks/2ccc973a4ca89d60.js","/_next/static/chunks/9305858cc4011782.js","/_next/static/chunks/08af111c6ca44ed4.js","/_next/static/chunks/e4b98677c3250abd.js"],"ProjectBlogView"]
+1c:T1ed3,
+![AI-preview](https://github.com/user-attachments/assets/743692de-8ab9-4e4a-9806-f94f645a4a88)
+
+# Migrating from Next.js 13 Page Router to Next.js 15 App Router
+
+This week, I successfully migrated my old Next.js blog site to the latest Next.js 15 App Router. In this blog, I’ll share the challenges I faced and the steps migration process. Hopefully, this guide will help you streamline the migration of your own projects.
+
+<video width="100%" height="100%" autoplay muted loop>
+  <source src="https://github.com/user-attachments/assets/6cacc375-5c82-4594-b475-13a6d7e2f725" type="video/webm">
+</video>
+
+Let’s start with an overview of my website and how it operates with GitHub Pages.
+
+## How My Website Works
+
+First, let me explain how my blog site operates. I’ve been developing this site for about a year, using the Next.js T3 stack to statically generate blog pages and host them for free on GitHub Pages. This approach eliminates the need for a server and ensures a fast, smooth-running site.
+
+![overview-pnp](https://github.com/user-attachments/assets/43a57d41-6e01-4c37-a6cd-1b4f7487386c)
+
+Whenever I make changes to the data repository where my website’s content is stored, a GitHub Actions workflow is triggered. This workflow runs a build step to export a static site. The workflow’s YAML file contains all the necessary environment configurations and build steps, making it straightforward to modify or replicate.
+
+![github-action-workflow-yml](https://github.com/user-attachments/assets/76e8514f-c7ce-4b40-8b34-e60014721f34)
+
+You can view my GitHub Actions workflow [here](https://github.com/biplobsd/biplobsd.github.io/blob/data/.github/workflows/build-and-deploy.yml
+).
+
+Here are my repository
+- Data: https://github.com/biplobsd/biplobsd.github.io
+- Nextjs Template: https://github.com/SpeedOut-Source/pnp
+
+
+## Benefits of the Upgrade
+
+### Before
+
+![image](https://github.com/user-attachments/assets/4eff01e9-0263-4dce-a27c-3312675c68a3)
+![image](https://github.com/user-attachments/assets/8a99b5b9-faf9-4098-88d9-aeb38e98678c)
+
+
+The older structure had some limitations:
+
+- Redundant code.
+- A more cluttered project directory.
+- Limited exposure to newer Next.js features.
+
+### After
+
+![image](https://github.com/user-attachments/assets/6c84c626-51f1-4061-ab20-4fd50fdddd1d)
+![image](https://github.com/user-attachments/assets/e206c8ff-8a74-4537-99e9-97c2e9721d6e)
+
+Next.js 15 introduces:
+- A cleaner directory structure under src/app, which centralizes pages and components.
+- Dynamic routing to manage similar pages (e.g., blogs, projects, and company pages) with less duplication.
+- Simplified setup for future changes.
+- Improved runtime performance, although the initial JavaScript load is slightly higher and requires optimization.
+
+### Directory Structure Comparison
+
+Before             |  After
+:-------------------------:|:-------------------------:
+![image](https://github.com/user-attachments/assets/40be0d20-a686-42ad-a32e-731c0a417cb0) | ![image](https://github.com/user-attachments/assets/12e5ac61-2767-49c5-801a-fa089d2a674a)
+
+This new structure reduces clutter and simplifies maintenance. Any changes can now be applied in one place and reflected across all relevant pages.
+
+## Upgrading the T3 Stack
+
+The T3 stack provides an excellent starting point for projects, including features like environment validation, Tailwind CSS, and TypeScript. To upgrade:
+
+1. Run the command:
+`npm create t3-app@latest .`
+
+2. Overwrite all files in the existing project.
+3. Compare file differences and apply the necessary updates manually.
+
+For detailed guidance, check the T3 stack’s [GitHub repository](https://github.com/t3-oss/create-t3-app/tree/main/upgrade).
+
+## Migrating from Page Router to App Router
+
+Initially, I thought migrating to the App Router would be challenging because it required reorganizing the entire directory structure under `src/app`. However, following the [official migration documentation](https://nextjs.org/docs/app/building-your-application/upgrading/app-router-migration) made the process much smoother.
+
+## SEO Enhancements
+
+Previously, I used the next-seo library for SEO configurations. With Next.js 15, this approach has been deprecated. The new native generateMetadata function is now used for setting page titles, descriptions, and Open Graph configurations.
+
+Here’s an example of the change:
+
+### Before:
+```typescript
+import { NextSeo } from 'next-seo';
+
+<NextSeo title="Blog Title" description="Blog Description" />
+```
+
+### After:
+```typescript
+export async function generateMetadata() {
+  return {
+    title: 'Blog Title',
+    description: 'Blog Description',
+    openGraph: {
+      title: 'Blog Title',
+      description: 'Blog Description',
+    },
+  };
+}
+```
+
+## Bug Faced During Migration
+
+While working on the migration, I encountered a Next.js 15 Turbo dev bug. When running `npm run dev` with `--turbo`, I received the following error when visiting the `/resume` page. This issue occurred because the `/resume` page uses `react-pdf`, which internally requires the `canvas` module. However, Next.js Turbo did not correctly detect that `canvas` should only be used on the client side.
+
+```typescript
+Error: ./node_modules/.pnpm/pdfjs-dist@2.15.349/node_modules/pdfjs-dist/build/pdf.js:10926:20
+Module not found: Can't resolve 'canvas'
+  10924 | class NodeCanvasFactory extends _base_factory.BaseCanvasFactory {
+  10925 |   _createCanvas(width, height) {
+> 10926 |     const Canvas = require("canvas");
+        |                    ^^^^^^^^^^^^^^^^^
+  10927 |
+  10928 |     return Canvas.createCanvas(width, height);
+  10929 |   }
+```
+
+After extensive research, I found a working solution. To fix this bug, update the `next.config.mjs` file as follows (source: [react-pdf GitHub](https://github.com/wojtekmaj/react-pdf?tab=readme-ov-file#nextjs)):
+
+```typescript
+const config = {
+  // Rest of the code
+  webpack: (config, { isServer }) => {
+    if (isServer) {
+      // Fix react-pdf referencing canvas in SSR
+      // eslint-disable-next-line @typescript-eslint/no-unsafe-member-access
+      config.resolve.alias.canvas = false;
+    }
+    // eslint-disable-next-line @typescript-eslint/no-unsafe-member-access
+    config.resolve.alias.encoding = false;
+    // eslint-disable-next-line @typescript-eslint/no-unsafe-return
+    return config;
+  },
+  experimental: {
+    turbo: {
+      resolveAlias: {
+        canvas: "./empty-module.ts",
+      },
+    },
+  },
+};
+```
+
+Additionally, create an `empty-module.ts` file in the root of the project:
+
+```typescript
+// empty-module.ts
+export default {};
+```
+
+This resolved the issue and allowed the `/resume` page to function as expected.
+
+
+## New Features and Improvements of My Site
+
+### Tag Feature
+
+I introduced a dynamic tagging system to highlight my expertise with recent technologies. This feature not only improves the site’s usability but could also enhance SEO optimization.
+
+![image](https://github.com/user-attachments/assets/567eb9e5-7fc5-4e8c-b818-17a3e2556d1b)
+
+### Updated Homepage
+
+I replaced the hero testimonials section with a dynamic blog section on the homepage. This adjustment prioritizes updated content and improves the chances of recent changes being indexed by search engines. Testimonials now serve as a trust-building element rather than the primary focus.
+
+## Conclusion
+
+Upgrading to Next.js 15 was both a learning experience and a significant enhancement for my blog site. The cleaner structure, new features, and improved performance make it a worthwhile investment of time. As someone working in software development, staying updated with the latest frameworks and technologies is invaluable for tackling live product challenges and implementing new features efficiently.
+
+If you’re planning a migration, I hope this guide helps simplify the process for you. Feel free to share your experiences or ask questions in the comments!
+
+12:["$","$L1b",null,{"data":"$1c","imgBlurdata":{"https://github.com/user-attachments/assets/743692de-8ab9-4e4a-9806-f94f645a4a88":{"base64":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAIAAADwyuo0AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAJUlEQVR4nAEaAOX/AAAGAEtlZrzj7W+DgQC+4Oewwr61w77a/f+YOw7dei9TWwAAAABJRU5ErkJggg==","height":1024,"width":1792},"https://github.com/user-attachments/assets/43a57d41-6e01-4c37-a6cd-1b4f7487386c":{"base64":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAIAAAA7ljmRAAAACXBIWXMAABJ0AAASdAHeZh94AAAAMElEQVR4nGPYuH3n8QtX4pJTpaWkGDbv3PXu85fm1jY9PV0GFRUVfX19FRUVbm5uAGu7Dpp9HdroAAAAAElFTkSuQmCC","height":795,"width":1158},"https://github.com/user-attachments/assets/76e8514f-c7ce-4b40-8b34-e60014721f34":{"base64":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAAECAIAAADETxJQAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAL0lEQVR4nGNYs36rf1CYmoYOw50HL4rKahSU1Bi27joQHZsEEtu2+4iru7eSshoASRsPLMl3IPkAAAAASUVORK5CYII=","height":711,"width":450},"https://github.com/user-attachments/assets/4eff01e9-0263-4dce-a27c-3312675c68a3":{"base64":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABCAIAAAB2XpiaAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAFUlEQVR4nGO4cuOhuKSslo7BgsWrACTZBU6P41FfAAAAAElFTkSuQmCC","height":202,"width":1200},"https://github.com/user-attachments/assets/8a99b5b9-faf9-4098-88d9-aeb38e98678c":{"base64":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABCAIAAAB2XpiaAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAFUlEQVR4nGN4/OKDqYUNKyefroEpACTpBBOGDb8AAAAAAElFTkSuQmCC","height":170,"width":1090},"https://github.com/user-attachments/assets/6c84c626-51f1-4061-ab20-4fd50fdddd1d":{"base64":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABCAIAAAB2XpiaAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAFUlEQVR4nGN49e4rAwODkKhEZk4hACKKBFPHns81AAAAAElFTkSuQmCC","height":237,"width":1112},"https://github.com/user-attachments/assets/e206c8ff-8a74-4537-99e9-97c2e9721d6e":{"base64":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABCAIAAAB2XpiaAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAFUlEQVR4nGN4/OKDtZ2zkJikla0TACaJBHK7kvAdAAAAAElFTkSuQmCC","height":120,"width":1002},"https://github.com/user-attachments/assets/40be0d20-a686-42ad-a32e-731c0a417cb0":{"base64":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAAECAIAAAArjXluAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAJUlEQVR4nGNo75po4+DKsGbTntLKRob07EJRcSmGa7efMDCwAQCZAgoRF8RA1AAAAABJRU5ErkJggg==","height":761,"width":345},"https://github.com/user-attachments/assets/12e5ac61-2767-49c5-801a-fa089d2a674a":{"base64":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAAECAIAAAArjXluAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAJUlEQVR4nGM4cuJyaEQ8w+Sp87V0DBgamjuFRMQZfvz/L6+kBgCkBQrflkGmIQAAAABJRU5ErkJggg==","height":768,"width":355},"https://github.com/user-attachments/assets/567eb9e5-7fc5-4e8c-b818-17a3e2556d1b":{"base64":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABJ0AAASdAHeZh94AAAAKUlEQVR4nGPYeeDC/3NXn/5XUDP6LySh8p+hfcL8/yBcUd//384t9D8AVg4TW+Jz/2cAAAAASUVORK5CYII=","height":227,"width":595}},"itemView":{"imgUrl":"https://github.com/user-attachments/assets/743692de-8ab9-4e4a-9806-f94f645a4a88","title":"Migrating from Next.js 13 Page Router to Next.js 15 App Router","desc":"This week, I successfully migrated my old Next.js blog site to the latest Next.js 15 App Router. In ...","date":1734232988000,"readTime":4,"fileName":"migrating-from-next.js-13-page-router-to-next.js-15-app-router.md","tags":["nextjs"],"imgBlurData":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAIAAADwyuo0AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAJUlEQVR4nAEaAOX/AAAGAEtlZrzj7W+DgQC+4Oewwr61w77a/f+YOw7dei9TWwAAAABJRU5ErkJggg=="},"previous":{"imgUrl":"https://github.com/user-attachments/assets/9bcb582d-2d61-45d3-9bbe-66dcfc570d58","title":"Reproducing and Fixing Bugs in Flutter Projects","desc":"Debugging is an essential skill for any software developer, especially when working with large codeb...","date":1734717841000,"readTime":3,"fileName":"reproducing-and-fixing-bugs-in-flutter-projects.md","tags":["flutter"],"imgBlurData":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAIAAADwyuo0AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAI0lEQVR4nGNgEhByj4zo6G74/2oJw8rdq2fP6X329m52rDsAjzkMz/lWzFIAAAAASUVORK5CYII="},"next":{"imgUrl":"https://github.com/user-attachments/assets/d00d2761-f93d-4681-88cc-9c1fc81cd4d2","title":"Common Topics for Software Development Interviews and Written Tests in Bangladesh, 2024","desc":"I recently applied for some entry-level or mid-level software development positions in October 2024 ...","date":1730139772000,"readTime":15,"fileName":"common-topics-for-software-development-interviews-and-written-tests-in-bangladesh-2024.md","tags":[],"imgBlurData":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAP0lEQVR4nAE0AMv/AEEwO5u90ajk/RlWcADXjn3K4u69//+HnrEA8Yxp0q6omKe5jo6cAFMHAI1STmhOVQ4GHOvUGcsGdcz1AAAAAElFTkSuQmCC"},"type":"blogs","more4":null,"toc":[{"value":"How My Website Works","depth":2,"data":{"hProperties":{"id":"how-my-website-works-1"}},"children":[]},{"value":"Benefits of the Upgrade","depth":2,"data":{"hProperties":{"id":"benefits-of-the-upgrade-1"}},"children":[{"value":"Before","depth":3,"data":{"hProperties":{"id":"before-1"}},"children":[]},{"value":"After","depth":3,"data":{"hProperties":{"id":"after-1"}},"children":[]},{"value":"Directory Structure Comparison","depth":3,"data":{"hProperties":{"id":"directory-structure-comparison-1"}},"children":[]}]},{"value":"Upgrading the T3 Stack","depth":2,"data":{"hProperties":{"id":"upgrading-the-t3-stack-1"}},"children":[]},{"value":"Migrating from Page Router to App Router","depth":2,"data":{"hProperties":{"id":"migrating-from-page-router-to-app-router-1"}},"children":[]},{"value":"SEO Enhancements","depth":2,"data":{"hProperties":{"id":"seo-enhancements-1"}},"children":[{"value":"Before:","depth":3,"data":{"hProperties":{"id":"before-1"}},"children":[]},{"value":"After:","depth":3,"data":{"hProperties":{"id":"after-1"}},"children":[]}]},{"value":"Bug Faced During Migration","depth":2,"data":{"hProperties":{"id":"bug-faced-during-migration-1"}},"children":[]},{"value":"New Features and Improvements of My Site","depth":2,"data":{"hProperties":{"id":"new-features-and-improvements-of-my-site-1"}},"children":[{"value":"Tag Feature","depth":3,"data":{"hProperties":{"id":"tag-feature-1"}},"children":[]},{"value":"Updated Homepage","depth":3,"data":{"hProperties":{"id":"updated-homepage-1"}},"children":[]}]},{"value":"Conclusion","depth":2,"data":{"hProperties":{"id":"conclusion-1"}},"children":[]}]}]

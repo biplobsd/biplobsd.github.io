@@ -1,0 +1,156 @@
+1:"$Sreact.fragment"
+2:I[63178,["/_next/static/chunks/df89af08f39a668e.js","/_next/static/chunks/d824e1165b6c2cbd.js","/_next/static/chunks/306ed2401499d3d9.js","/_next/static/chunks/2ccc973a4ca89d60.js","/_next/static/chunks/9305858cc4011782.js"],"ThemeProvider"]
+3:I[52157,["/_next/static/chunks/df89af08f39a668e.js","/_next/static/chunks/d824e1165b6c2cbd.js","/_next/static/chunks/306ed2401499d3d9.js","/_next/static/chunks/2ccc973a4ca89d60.js","/_next/static/chunks/9305858cc4011782.js"],"PreloadChunks"]
+4:I[6021,["/_next/static/chunks/df89af08f39a668e.js","/_next/static/chunks/d824e1165b6c2cbd.js","/_next/static/chunks/306ed2401499d3d9.js","/_next/static/chunks/2ccc973a4ca89d60.js","/_next/static/chunks/9305858cc4011782.js"],"default"]
+5:I[82815,["/_next/static/chunks/df89af08f39a668e.js","/_next/static/chunks/d824e1165b6c2cbd.js","/_next/static/chunks/306ed2401499d3d9.js","/_next/static/chunks/2ccc973a4ca89d60.js","/_next/static/chunks/9305858cc4011782.js"],"default"]
+6:I[39756,["/_next/static/chunks/208d109d56c94dec.js","/_next/static/chunks/b9df1088a5e002c8.js"],"default"]
+7:I[37457,["/_next/static/chunks/208d109d56c94dec.js","/_next/static/chunks/b9df1088a5e002c8.js"],"default"]
+8:I[75007,["/_next/static/chunks/df89af08f39a668e.js","/_next/static/chunks/d824e1165b6c2cbd.js","/_next/static/chunks/306ed2401499d3d9.js","/_next/static/chunks/2ccc973a4ca89d60.js","/_next/static/chunks/9305858cc4011782.js","/_next/static/chunks/c2fa84ca3b7efbb4.js"],"NotFoundRedirect"]
+9:I[22016,["/_next/static/chunks/df89af08f39a668e.js","/_next/static/chunks/d824e1165b6c2cbd.js","/_next/static/chunks/306ed2401499d3d9.js","/_next/static/chunks/2ccc973a4ca89d60.js","/_next/static/chunks/9305858cc4011782.js"],""]
+f:I[68027,["/_next/static/chunks/208d109d56c94dec.js","/_next/static/chunks/b9df1088a5e002c8.js"],"default"]
+:HL["/_next/static/chunks/ba1a6787ba195a3e.css","style"]
+:HL["/_next/static/chunks/b095a36addf1b84d.css","style"]
+:HL["/_next/static/media/fd3f2d7cff5f3729-s.p.6cff3a18.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"FV8kaFXDw6zXvFUAjtwc5","c":["","blogs","limbuscode-chrome-extension-analysis"],"q":"","i":false,"f":[[["",{"children":[["category","blogs","d"],{"children":[["file_name","limbuscode-chrome-extension-analysis","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/ba1a6787ba195a3e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/b095a36addf1b84d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/df89af08f39a668e.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/d824e1165b6c2cbd.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/306ed2401499d3d9.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/2ccc973a4ca89d60.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/9305858cc4011782.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"className":"scroll-smooth","lang":"en","data-scroll-behavior":"smooth","data-theme":"dark","suppressHydrationWarning":true,"children":["$","body",null,{"className":"scrollbar-style relative isolate","children":["$","$L2",null,{"enableSystem":false,"themes":["dark","winter"],"defaultTheme":"dark","children":[[["$","$L3",null,{"moduleIds":["3971526741515434858"]}],["$","$L4",null,{}]],[["$","$L3",null,{"moduleIds":["17713158809478910457"]}],["$","div",null,{"aria-hidden":"true","className":"pointer-events-none absolute inset-x-0 -top-80 -z-10 hidden transform-gpu overflow-hidden blur-3xl md:block","children":["$","div",null,{"style":{"clipPath":"polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)"},"className":"relative left-[calc(90%-20rem)] aspect-1155/678 w-[72.1875rem] -translate-x-1/2 rotate-[30deg] transform-gpu bg-linear-to-tr from-[#c880ff] to-[#9089fc] opacity-20"}]}]],["$","div",null,{"className":"flex h-screen flex-col justify-between","children":[["$","main",null,{"className":"titillium_web_561b13b2-module__wbCuzq__className","children":[[["$","$L3",null,{"moduleIds":["2972469916918538491"]}],["$","$L5",null,{}]],["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","$L8",null,{}],["$","main",null,{"className":"errorSplash container mx-auto","children":["$","div",null,{"children":["404 ",["$","span",null,{"children":"|"}]," This page is not found"]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],[["$","$L3",null,{"moduleIds":["12737876533879332231"]}],["$","footer",null,{"children":[["$","div",null,{"className":"mt-5 backdrop-blur-xs supports-backdrop-blur:bg-white/60","children":["$","div",null,{"className":"mx-5 mt-auto flex items-center justify-center","children":["$","div",null,{"className":"container","children":[["$","div",null,{"className":"divider"}],["$","div",null,{"className":"mt-2 mb-4 flex flex-col items-center justify-between space-y-2 sm:flex-row sm:space-y-0","children":[["$","div",null,{"className":"flex flex-col items-center justify-center gap-2 sm:flex-row sm:gap-0","children":[["$","span",null,{"className":"text-sm","children":["© 2025 ","Biplob Sutradhar"]}],["$","span",null,{"className":"mx-2 hidden sm:block","children":"|"}],["$","span",null,{"className":"text-sm","children":"Made in Bangladesh"}]]}],["$","ul",null,{"className":"flex flex-wrap space-x-4 text-sm","children":[["$","li",null,{"children":[["$","$L3",null,{"moduleIds":["7640330367050620805"]}],["$","$L9",null,{"href":"/about","className":"link-hover link","children":"About"}]]}],["$","li",null,{"children":[["$","$L3",null,{"moduleIds":"$0:f:0:1:0:props:children:1:props:children:props:children:props:children:2:props:children:1:1:props:children:0:props:children:props:children:props:children:1:props:children:1:props:children:0:props:children:0:props:moduleIds"}],["$","$L9",null,{"href":"/contact","className":"link-hover link","children":"Contact me"}]]}],["$","li",null,{"children":[["$","$L3",null,{"moduleIds":"$0:f:0:1:0:props:children:1:props:children:props:children:props:children:2:props:children:1:1:props:children:0:props:children:props:children:props:children:1:props:children:1:props:children:0:props:children:0:props:moduleIds"}],["$","$L9",null,{"href":"/privacy","className":"link-hover link","children":"Privacy policy"}]]}]]}]]}]]}]}]}],["$","div",null,{"className":"relative isolate -z-50 hidden md:block","children":["$","div",null,{"aria-hidden":"true","className":"pointer-events-none absolute inset-x-0 bottom-10 -z-50 transform-gpu overflow-hidden blur-3xl","children":["$","div",null,{"style":{"clipPath":"polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)"},"className":"relative left-[calc(50%-30rem)] aspect-1155/678 w-[72.1875rem] -translate-x-1/2 rotate-[30deg] transform-gpu bg-linear-to-tr from-[#ff80b5] to-[#9089fc] opacity-20"}]}]}]]}]]]}],"$La"]}]}]}]]}],{"children":["$Lb",{"children":["$Lc",{"children":["$Ld",{},null,false,false]},null,false,false]},null,false,false]},null,false,false],"$Le",false]],"m":"$undefined","G":["$f",[]],"S":true}
+10:I[73399,["/_next/static/chunks/df89af08f39a668e.js","/_next/static/chunks/d824e1165b6c2cbd.js","/_next/static/chunks/306ed2401499d3d9.js","/_next/static/chunks/2ccc973a4ca89d60.js","/_next/static/chunks/9305858cc4011782.js"],"default"]
+12:I[25725,["/_next/static/chunks/208d109d56c94dec.js","/_next/static/chunks/b9df1088a5e002c8.js"],"OutletBoundary"]
+13:"$Sreact.suspense"
+15:I[25725,["/_next/static/chunks/208d109d56c94dec.js","/_next/static/chunks/b9df1088a5e002c8.js"],"ViewportBoundary"]
+17:I[25725,["/_next/static/chunks/208d109d56c94dec.js","/_next/static/chunks/b9df1088a5e002c8.js"],"MetadataBoundary"]
+a:[["$","$L3",null,{"moduleIds":["11536131241018904265"]}],["$","$L10",null,{}]]
+b:["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+c:["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+d:["$","$1","c",{"children":["$L11",[["$","script","script-0",{"src":"/_next/static/chunks/08af111c6ca44ed4.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/e4b98677c3250abd.js","async":true,"nonce":"$undefined"}]],["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]]}]
+e:["$","$1","h",{"children":[null,["$","$L15",null,{"children":"$L16"}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$13",null,{"name":"Next.Metadata","children":"$L18"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+16:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+19:I[27201,["/_next/static/chunks/208d109d56c94dec.js","/_next/static/chunks/b9df1088a5e002c8.js"],"IconMark"]
+14:null
+18:[["$","title","0",{"children":"LimbusCode Chrome Extension Analysis | Biplob Sutradhar"}],["$","meta","1",{"name":"description","content":"LimbusCode, or limbuscode.com, is associated with Leo Ono. LimbusCode.com is his personal website. H... | Blogs | Biplob Sutradhar"}],["$","meta","2",{"name":"application-name","content":"LimbusCode Chrome Extension Analysis | Biplob Sutradhar"}],["$","link","3",{"rel":"manifest","href":"/manifest.json","crossOrigin":"$undefined"}],["$","meta","4",{"name":"fb:app_id","content":"732825215185793"}],["$","link","5",{"rel":"canonical","href":"https://biplobsd.me"}],["$","meta","6",{"name":"format-detection","content":"telephone=no"}],["$","meta","7",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","8",{"name":"apple-mobile-web-app-title","content":"LimbusCode Chrome Extension Analysis | Biplob Sutradhar"}],["$","meta","9",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","10",{"property":"og:title","content":"LimbusCode Chrome Extension Analysis | Biplob Sutradhar"}],["$","meta","11",{"property":"og:description","content":"LimbusCode, or limbuscode.com, is associated with Leo Ono. LimbusCode.com is his personal website. H... | Blogs | Biplob Sutradhar"}],["$","meta","12",{"property":"og:url","content":"https://biplobsd.me"}],["$","meta","13",{"property":"og:site_name","content":"Biplob Sutradhar"}],["$","meta","14",{"property":"og:image","content":"https://github.com/biplobsd/biplobsd.github.io/assets/43641536/4c7c87c3-7766-42ce-8626-c95d1b5ce22c"}],["$","meta","15",{"property":"og:image:alt","content":"LimbusCode, or limbuscode.com, is associated with Leo Ono. LimbusCode.com is his personal website. H... | Blogs | Biplob Sutradhar"}],["$","meta","16",{"property":"og:type","content":"article"}],["$","meta","17",{"property":"article:published_time","content":"2023-08-02T18:50:33.000Z"}],["$","meta","18",{"property":"article:author","content":"https://biplobsd.me"}],["$","meta","19",{"property":"article:tag","content":"limbuscode"}],["$","meta","20",{"property":"article:tag","content":"limbuscodecom"}],["$","meta","21",{"property":"article:tag","content":"leo"}],["$","meta","22",{"property":"article:tag","content":"ono"}],["$","meta","23",{"property":"article:tag","content":"personal"}],["$","meta","24",{"property":"article:tag","content":"website"}],["$","meta","25",{"property":"article:tag","content":"blogs"}],["$","meta","26",{"property":"article:tag","content":"biplob"}],["$","meta","27",{"property":"article:tag","content":"sutradhar"}],["$","meta","28",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","29",{"name":"twitter:site","content":"@biplobsd11"}],["$","meta","30",{"name":"twitter:creator","content":"@biplobsd11"}],["$","meta","31",{"name":"twitter:title","content":"LimbusCode Chrome Extension Analysis | Biplob Sutradhar"}],["$","meta","32",{"name":"twitter:description","content":"LimbusCode, or limbuscode.com, is associated with Leo Ono. LimbusCode.com is his personal website. H... | Blogs | Biplob Sutradhar"}],["$","meta","33",{"name":"twitter:image","content":"https://github.com/biplobsd/biplobsd.github.io/assets/43641536/4c7c87c3-7766-42ce-8626-c95d1b5ce22c"}],["$","meta","34",{"name":"twitter:image:alt","content":"LimbusCode, or limbuscode.com, is associated with Leo Ono. LimbusCode.com is his personal website. H... | Blogs | Biplob Sutradhar"}],["$","link","35",{"rel":"icon","href":"https://biplobsd.me/favicon.ico"}],["$","$L19","36",{}]]
+1a:I[66078,["/_next/static/chunks/df89af08f39a668e.js","/_next/static/chunks/d824e1165b6c2cbd.js","/_next/static/chunks/306ed2401499d3d9.js","/_next/static/chunks/2ccc973a4ca89d60.js","/_next/static/chunks/9305858cc4011782.js","/_next/static/chunks/08af111c6ca44ed4.js","/_next/static/chunks/e4b98677c3250abd.js"],"ProjectBlogView"]
+1b:T1929,![Limbus Code](https://github.com/biplobsd/biplobsd.github.io/assets/43641536/4c7c87c3-7766-42ce-8626-c95d1b5ce22c)
+
+# LimbusCode Chrome Extension Analysis
+LimbusCode, or limbuscode.com, is associated with Leo Ono. LimbusCode.com is his personal website. He has graduated in Information Technology and is a Software Developer. He has published 10 Chrome extensions.
+
+In this blog, I will analyze Leo's 10 Chrome extensions and highlight the problems I faced with those extensions.
+
+## Subscription Importer For Youtube
+
+![Subscription Importer For Youtube Logo](https://github.com/biplobsd/biplobsd.github.io/assets/43641536/750cb3ea-d45c-4b9d-beea-168a9331bd34)
+
+> Import or Export your Youtube Subscriptions
+> <br>Users : 6000+
+> <br>Publish Date : Oct 26, 2021 (From Youtube video)
+> <br>Platfrom: Chrome web store only, [Check Out](https://chrome.google.com/webstore/detail/subscriptions-importer-fo/dejjakoompaeblngfchggeaballjkmao)
+
+> Problem: There's a limit of importing up to 50 channels at a time and exporting up to 1000 channels, requiring payment.
+
+> For this problem  I have developed an open-source solution called [Youtube Subscriptions Transfer](https://biplobsd.me/apps/view/yst.md). It is completely free.
+
+## Youtube Channels To CSV
+
+![Youtube Channels To CSV Logo](https://github.com/biplobsd/biplobsd.github.io/assets/43641536/4e6a7396-0321-476a-8a3d-efc2737084f3)
+
+> Export Youtube Channel Data to CSV from a list of channel links
+> <br>Users : 213
+> <br>Publish Date : Sep 24, 2022  (From  Youtube video)
+> <br>Platfrom: Chrome web store only, [Check Out](https://chrome.google.com/webstore/detail/youtube-channels-to-csv/leleihajebccdgcpoinijlfccdkajioa)
+
+> Problem: The extension doesn't work on the first try. 😢
+
+## Playlist Importer for Youtube
+
+![Playlist Importer for Youtube Logo](https://github.com/biplobsd/biplobsd.github.io/assets/43641536/90aec1ff-728d-4dc0-99e9-37b6cf737c28)
+
+> Import Youtube Playlist into your account
+> <br>Users : 187
+> <br>Publish Date : May 21, 2023 (From chrome web page v0.0.1.1)
+> <br>Platfrom: Chrome web store only, [Check Out](https://chrome.google.com/webstore/detail/playlist-importer-for-you/khefnmjiamchejjncollkmmbocnabgpa)
+
+> Problem: The extension is not working, and the free version only allows importing up to 10 videos at once.
+
+## Unsubscriby for Youtube
+
+![Unsubscriby for Youtube Logo](https://github.com/biplobsd/biplobsd.github.io/assets/43641536/21cbb28b-7aa6-4266-8b29-dc3d4ce3588f)
+
+> Unsubscribe Youtube Subscriptions
+> <br>Users : 365
+> <br>Publish Date : Mar 2, 2022 (From youtube video)
+> <br>Platfrom: Chrome web store only, [Check Out](https://chrome.google.com/webstore/detail/unsubscriby-for-youtube/oeflnaibmdjfpnlgoihbefikofplmimj/)
+
+> Problem: Users need to refresh manually after unsubscribing from one page (https://www.youtube.com/feed/channels) – not fully automated.
+
+## Comment Exporter for Youtube
+
+![Comment Exporter for Youtube Logo](https://github.com/biplobsd/biplobsd.github.io/assets/43641536/66dca1f0-4006-4088-90ce-88b68ee80f58)
+
+> Export Youtube Comments to Text, CSV or JSON
+> <br>Users : 151
+> <br>Publish Date : December 9, 2022 (From chrome web page v0.0.1)
+> <br>Platfrom: Chrome web store only, [Check Out](https://chrome.google.com/webstore/detail/comment-exporter-for-yout/flbjnmpmnemonehebikfcaofhikbgkim/)
+
+> Problem: The extension is not working, based on my usages.
+
+## Youtube Thumb Previewer
+
+![Youtube Thumb Previewer Logo](https://github.com/biplobsd/biplobsd.github.io/assets/43641536/09e0e0f4-71c5-4303-8be2-84d1f64f4992)
+
+> Preview how your youtube thumbnail will be displayed on devices like mobile, desktop and more
+> <br>Users : 5
+> <br>Publish Date : February 19, 2023 (From chrome web page v0.0.1)
+> <br>Platfrom: Chrome web store only, [Check Out](https://chrome.google.com/webstore/detail/youtube-thumb-previewer/cneobfplimjkbgdbbkjcbbafhnmjhaad/)
+
+> Problem: The extension is not responding in my usages. Sometimes it shows the preview, and sometimes it becomes unresponsive.
+
+## PayGen For Mercado Pago
+
+![PayGen For Mercado Pago Logo](https://github.com/biplobsd/biplobsd.github.io/assets/43641536/9766313e-7d7f-4338-8fdf-a5f74338f2b4)
+
+> Generate instant mercado pago's payment links by a click of a button.
+> <br>Users : 154
+> <br>Publish Date : Jan 6, 2021 (From Youtube video)
+> <br>Platfrom: Chrome web store only, [Check Out](https://chrome.google.com/webstore/detail/paygen-for-mercado-pago/mopfkbmlpaaoocgcjifnlomobfejpfdo/)
+
+> Problem: Not interested.
+
+## Unsubscriby for Rumble
+
+![Unsubscriby for Rumble Logo](https://github.com/biplobsd/biplobsd.github.io/assets/43641536/c94ed4ca-f671-4a40-af6f-0acce1bfb033)
+
+> Unsubscribe all your Rumble Channels
+> <br>Users : 21
+> <br>Publish Date : May 12, 2022 (From chrome web page v0.0.1)
+> <br>Platfrom: Chrome web store only, [Check Out](https://chrome.google.com/webstore/detail/unsubscriby-for-rumble/ejhdfhhgoimmjciplfjgfnnopopdekif/)
+
+> Problem: Not interested.
+
+## Printscreen YouTube
+
+![Printscreen YouTube Logo](https://github.com/biplobsd/biplobsd.github.io/assets/43641536/bf2d603a-bebc-4c79-83ce-90bf27f90a3a)
+
+> Take a printscreen of any YouTube video.
+> <br>Users : 20
+> <br>Publish Date : November 6, 2022 (From chrome web page v0.0.1)
+> <br>Platfrom: Chrome web store only, [Check Out](https://chrome.google.com/webstore/detail/printscreen-youtube/ledkfpmgmimfleobfeepelhihghneckg)
+
+> Problem: Working, but not interested.
+
+## PlusOne Counter Button
+
+![PlusOne Counter Button Logo](https://github.com/biplobsd/biplobsd.github.io/assets/43641536/16b9d386-0587-49e4-a072-810382e5a363)
+
+> PlusOne Counter Button: Keep track everything you need only with a click of a Button.
+> <br>Users : 21
+> <br>Publish Date : April 23, 2022 (From chrome web page v0.1)
+> <br>Platfrom: Chrome web store only, [Check Out](https://chrome.google.com/webstore/detail/plusone-counter-button/ncoebbpimpepemnhccomokfhopddbfap/)
+
+> Problem: Just opening the payment page, description, and app not properly described.
+
+## Final
+All of these extensions may have been fixed by Leo in the future. Therefore, I am now just addressing the current problems with those extensions. I am not supposed to represent a bad impression of Leo. I am simply analyzing these extensions to create a good user experience for the application.
+
+## Reference
+1. https://www.limbuscode.com/
+2. https://www.linkedin.com/in/leo-ono-limbus-code/
+3. https://linktr.ee/limbuscode
+11:["$","$L1a",null,{"data":"$1b","imgBlurdata":{"https://github.com/biplobsd/biplobsd.github.io/assets/43641536/4c7c87c3-7766-42ce-8626-c95d1b5ce22c":{"base64":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABCAYAAAD5PA/NAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGklEQVR4nGMQlJH/f+nOg//X7j3+zyIk9h8ATu0JmmiYYk8AAAAASUVORK5CYII=","height":319,"width":902},"https://github.com/biplobsd/biplobsd.github.io/assets/43641536/750cb3ea-d45c-4b9d-beea-168a9331bd34":{"base64":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAL0lEQVR4nCXHMQ0AIRAAsHoDCTDfBblMKAEJ/wl0q2SXFgSSb67xEoz7fAlO7ckPUUYMvkdJ9SoAAAAASUVORK5CYII=","height":128,"width":128},"https://github.com/biplobsd/biplobsd.github.io/assets/43641536/4e6a7396-0321-476a-8a3d-efc2737084f3":{"base64":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAN0lEQVR4nGOIZWBYwqk1k0EmloGBYT6Dyrue3v8vX8YwMDDssHD8//LllZR0ECeWgSGPgSEGjAC0fQ+++tsHbAAAAABJRU5ErkJggg==","height":128,"width":128},"https://github.com/biplobsd/biplobsd.github.io/assets/43641536/90aec1ff-728d-4dc0-99e9-37b6cf737c28":{"base64":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAOklEQVR4nGPIZWBIYGAoY2CIZWBg+L95y/9Hj+YwSJQwMDDkMjCsZVC7GRSdywCW3SZptIlDJ5aBAQB4sg3GdW213gAAAABJRU5ErkJggg==","height":128,"width":128},"https://github.com/biplobsd/biplobsd.github.io/assets/43641536/21cbb28b-7aa6-4266-8b29-dc3d4ce3588f":{"base64":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAJ0lEQVR4nGP49+/f2bNnT58+/e/fPwYmJqbQ0FBXV1deXl5UDrIyAJT3GW8ZOvRYAAAAAElFTkSuQmCC","height":128,"width":128},"https://github.com/biplobsd/biplobsd.github.io/assets/43641536/66dca1f0-4006-4088-90ce-88b68ee80f58":{"base64":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAOklEQVR4nGOIZWBYZmy3ytolhoGB4eHceUcfPNh98sS52nqGNfbu/3/8WGjpWMfAxBDLwBDDwBAPJgEoTxLhZJFl1wAAAABJRU5ErkJggg==","height":128,"width":128},"https://github.com/biplobsd/biplobsd.github.io/assets/43641536/09e0e0f4-71c5-4303-8be2-84d1f64f4992":{"base64":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAP0lEQVR4nAE0AMv/AP+MjNyLi8h3eP+JiQDdhoYwQUEABwfUfn4A5Y+Qo7u76v//8JiaAP+Oj/+wsfmnp/+OjOXSHk5ms8JWAAAAAElFTkSuQmCC","height":128,"width":128},"https://github.com/biplobsd/biplobsd.github.io/assets/43641536/9766313e-7d7f-4338-8fdf-a5f74338f2b4":{"base64":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAPElEQVR4nGNgZWVh5+L19PJWU1NnYGRklFLVfPf3f1ZOHgOXoDi/gYuooaOwuBQDGycnJy8ft7AUCys7AOyYCBsOfqF0AAAAAElFTkSuQmCC","height":128,"width":128},"https://github.com/biplobsd/biplobsd.github.io/assets/43641536/c94ed4ca-f671-4a40-af6f-0acce1bfb033":{"base64":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAP0lEQVR4nAE0AMv/AMjIyH19fampqf///wBqampzc3NiYmKDg4MAHR0dNTU1AAAAQkJCAJmZmSQkJGxsbPf393pmFip9etHVAAAAAElFTkSuQmCC","height":128,"width":128},"https://github.com/biplobsd/biplobsd.github.io/assets/43641536/bf2d603a-bebc-4c79-83ce-90bf27f90a3a":{"base64":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAP0lEQVR4nAE0AMv/AGUSHf/Fwf+koTwAAADEHS//eF7/eFbEHS8AhQAD/3lf/3hWpwAeALJTVP+xrf+ko3AcJFEvFvn3r0q+AAAAAElFTkSuQmCC","height":128,"width":128},"https://github.com/biplobsd/biplobsd.github.io/assets/43641536/16b9d386-0587-49e4-a072-810382e5a363":{"base64":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAKElEQVR4nGOQYGWwMGCyMmSWYGVgsDFh/f9t0f/vi21N2FA5YiwIZQB43A5awBDWXAAAAABJRU5ErkJggg==","height":128,"width":128}},"itemView":{"imgUrl":"https://github.com/biplobsd/biplobsd.github.io/assets/43641536/4c7c87c3-7766-42ce-8626-c95d1b5ce22c","title":"LimbusCode Chrome Extension Analysis","desc":"LimbusCode, or limbuscode.com, is associated with Leo Ono. LimbusCode.com is his personal website. H...","date":1691002233000,"readTime":3,"fileName":"limbuscode-chrome-extension-analysis.md","tags":[],"imgBlurData":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABCAYAAAD5PA/NAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGklEQVR4nGMQlJH/f+nOg//X7j3+zyIk9h8ATu0JmmiYYk8AAAAASUVORK5CYII="},"previous":{"imgUrl":"https://github.com/biplobsd/biplobsd.github.io/assets/43641536/d2fa6523-78af-42f5-843a-c6318aafbaa1","title":"Stellar Login System with Facebook and Google","desc":"We have seen login systems using Google and Facebook accounts on many websites. Our team has develop...","date":1692157028000,"readTime":1,"fileName":"stellar-login-system-with-facebook-and-google.md","tags":["firebase","nextjs","stellar.org"],"imgBlurData":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAYAAAC09K7GAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPklEQVR4nAEzAMz/APz9/f91cW3/OjIo//X19v8AtLS1/zs4NP8cFgD/kpKA/wDW2Nb/qqqo/zo5J/9saVf/LSUekvwubvEAAAAASUVORK5CYII="},"next":{"imgUrl":"https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/syntax-highlight-code-in-NextJS-tailwindcss-daisyui/preview-code-syntax-highlighter.gif","title":"Syntax Highlight Code in NextJS TailwindCSS DaisyUI","desc":"Code syntax highlighting is needed to make code more readable and understandable. In this article, y...","date":1688040173000,"readTime":3,"fileName":"syntax-highlight-code-in-NextJS-tailwindcss-daisyui.md","tags":["nextjs","react"],"imgBlurData":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAYAAAC09K7GAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPklEQVR4nAEzAMz/AEVNWP8tNT//HiYw/1FaY/8Ar7fF/+z1///F0N//qLK//wAXHSX/ISgy/xUcJf8JEBr/qSYZ999uXi0AAAAASUVORK5CYII="},"type":"blogs","more4":null,"toc":[{"value":"Subscription Importer For Youtube","depth":2,"data":{"hProperties":{"id":"subscription-importer-for-youtube-1"}},"children":[]},{"value":"Youtube Channels To CSV","depth":2,"data":{"hProperties":{"id":"youtube-channels-to-csv-1"}},"children":[]},{"value":"Playlist Importer for Youtube","depth":2,"data":{"hProperties":{"id":"playlist-importer-for-youtube-1"}},"children":[]},{"value":"Unsubscriby for Youtube","depth":2,"data":{"hProperties":{"id":"unsubscriby-for-youtube-1"}},"children":[]},{"value":"Comment Exporter for Youtube","depth":2,"data":{"hProperties":{"id":"comment-exporter-for-youtube-1"}},"children":[]},{"value":"Youtube Thumb Previewer","depth":2,"data":{"hProperties":{"id":"youtube-thumb-previewer-1"}},"children":[]},{"value":"PayGen For Mercado Pago","depth":2,"data":{"hProperties":{"id":"paygen-for-mercado-pago-1"}},"children":[]},{"value":"Unsubscriby for Rumble","depth":2,"data":{"hProperties":{"id":"unsubscriby-for-rumble-1"}},"children":[]},{"value":"Printscreen YouTube","depth":2,"data":{"hProperties":{"id":"printscreen-youtube-1"}},"children":[]},{"value":"PlusOne Counter Button","depth":2,"data":{"hProperties":{"id":"plusone-counter-button-1"}},"children":[]},{"value":"Final","depth":2,"data":{"hProperties":{"id":"final-1"}},"children":[]},{"value":"Reference","depth":2,"data":{"hProperties":{"id":"reference-1"}},"children":[]}]}]

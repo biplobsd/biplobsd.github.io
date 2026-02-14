@@ -1,0 +1,236 @@
+1:"$Sreact.fragment"
+2:I[63178,["/_next/static/chunks/df89af08f39a668e.js","/_next/static/chunks/d824e1165b6c2cbd.js","/_next/static/chunks/306ed2401499d3d9.js","/_next/static/chunks/2ccc973a4ca89d60.js","/_next/static/chunks/9305858cc4011782.js"],"ThemeProvider"]
+3:I[52157,["/_next/static/chunks/df89af08f39a668e.js","/_next/static/chunks/d824e1165b6c2cbd.js","/_next/static/chunks/306ed2401499d3d9.js","/_next/static/chunks/2ccc973a4ca89d60.js","/_next/static/chunks/9305858cc4011782.js"],"PreloadChunks"]
+4:I[6021,["/_next/static/chunks/df89af08f39a668e.js","/_next/static/chunks/d824e1165b6c2cbd.js","/_next/static/chunks/306ed2401499d3d9.js","/_next/static/chunks/2ccc973a4ca89d60.js","/_next/static/chunks/9305858cc4011782.js"],"default"]
+5:I[82815,["/_next/static/chunks/df89af08f39a668e.js","/_next/static/chunks/d824e1165b6c2cbd.js","/_next/static/chunks/306ed2401499d3d9.js","/_next/static/chunks/2ccc973a4ca89d60.js","/_next/static/chunks/9305858cc4011782.js"],"default"]
+6:I[39756,["/_next/static/chunks/208d109d56c94dec.js","/_next/static/chunks/b9df1088a5e002c8.js"],"default"]
+7:I[37457,["/_next/static/chunks/208d109d56c94dec.js","/_next/static/chunks/b9df1088a5e002c8.js"],"default"]
+8:I[75007,["/_next/static/chunks/df89af08f39a668e.js","/_next/static/chunks/d824e1165b6c2cbd.js","/_next/static/chunks/306ed2401499d3d9.js","/_next/static/chunks/2ccc973a4ca89d60.js","/_next/static/chunks/9305858cc4011782.js","/_next/static/chunks/c2fa84ca3b7efbb4.js"],"NotFoundRedirect"]
+9:I[22016,["/_next/static/chunks/df89af08f39a668e.js","/_next/static/chunks/d824e1165b6c2cbd.js","/_next/static/chunks/306ed2401499d3d9.js","/_next/static/chunks/2ccc973a4ca89d60.js","/_next/static/chunks/9305858cc4011782.js"],""]
+10:I[68027,["/_next/static/chunks/208d109d56c94dec.js","/_next/static/chunks/b9df1088a5e002c8.js"],"default"]
+:HL["/_next/static/chunks/ba1a6787ba195a3e.css","style"]
+:HL["/_next/static/chunks/b095a36addf1b84d.css","style"]
+:HL["/_next/static/media/fd3f2d7cff5f3729-s.p.6cff3a18.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"FV8kaFXDw6zXvFUAjtwc5","c":["","blogs","syntax-highlight-code-in-NextJS-tailwindcss-daisyui"],"q":"","i":false,"f":[[["",{"children":[["category","blogs","d"],{"children":[["file_name","syntax-highlight-code-in-NextJS-tailwindcss-daisyui","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/ba1a6787ba195a3e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/b095a36addf1b84d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/df89af08f39a668e.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/d824e1165b6c2cbd.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/306ed2401499d3d9.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/2ccc973a4ca89d60.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/9305858cc4011782.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"className":"scroll-smooth","lang":"en","data-scroll-behavior":"smooth","data-theme":"dark","suppressHydrationWarning":true,"children":["$","body",null,{"className":"scrollbar-style relative isolate","children":["$","$L2",null,{"enableSystem":false,"themes":["dark","winter"],"defaultTheme":"dark","children":[[["$","$L3",null,{"moduleIds":["3971526741515434858"]}],["$","$L4",null,{}]],[["$","$L3",null,{"moduleIds":["17713158809478910457"]}],["$","div",null,{"aria-hidden":"true","className":"pointer-events-none absolute inset-x-0 -top-80 -z-10 hidden transform-gpu overflow-hidden blur-3xl md:block","children":["$","div",null,{"style":{"clipPath":"polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)"},"className":"relative left-[calc(90%-20rem)] aspect-1155/678 w-[72.1875rem] -translate-x-1/2 rotate-[30deg] transform-gpu bg-linear-to-tr from-[#c880ff] to-[#9089fc] opacity-20"}]}]],["$","div",null,{"className":"flex h-screen flex-col justify-between","children":[["$","main",null,{"className":"titillium_web_561b13b2-module__wbCuzq__className","children":[[["$","$L3",null,{"moduleIds":["2972469916918538491"]}],["$","$L5",null,{}]],["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","$L8",null,{}],["$","main",null,{"className":"errorSplash container mx-auto","children":["$","div",null,{"children":["404 ",["$","span",null,{"children":"|"}]," This page is not found"]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],[["$","$L3",null,{"moduleIds":["12737876533879332231"]}],["$","footer",null,{"children":[["$","div",null,{"className":"mt-5 backdrop-blur-xs supports-backdrop-blur:bg-white/60","children":["$","div",null,{"className":"mx-5 mt-auto flex items-center justify-center","children":["$","div",null,{"className":"container","children":[["$","div",null,{"className":"divider"}],["$","div",null,{"className":"mt-2 mb-4 flex flex-col items-center justify-between space-y-2 sm:flex-row sm:space-y-0","children":[["$","div",null,{"className":"flex flex-col items-center justify-center gap-2 sm:flex-row sm:gap-0","children":[["$","span",null,{"className":"text-sm","children":["© 2025 ","Biplob Sutradhar"]}],["$","span",null,{"className":"mx-2 hidden sm:block","children":"|"}],["$","span",null,{"className":"text-sm","children":"Made in Bangladesh"}]]}],["$","ul",null,{"className":"flex flex-wrap space-x-4 text-sm","children":[["$","li",null,{"children":[["$","$L3",null,{"moduleIds":["7640330367050620805"]}],["$","$L9",null,{"href":"/about","className":"link-hover link","children":"About"}]]}],["$","li",null,{"children":[["$","$L3",null,{"moduleIds":"$0:f:0:1:0:props:children:1:props:children:props:children:props:children:2:props:children:1:1:props:children:0:props:children:props:children:props:children:1:props:children:1:props:children:0:props:children:0:props:moduleIds"}],["$","$L9",null,{"href":"/contact","className":"link-hover link","children":"Contact me"}]]}],["$","li",null,{"children":[["$","$L3",null,{"moduleIds":"$0:f:0:1:0:props:children:1:props:children:props:children:props:children:2:props:children:1:1:props:children:0:props:children:props:children:props:children:1:props:children:1:props:children:0:props:children:0:props:moduleIds"}],["$","$L9",null,{"href":"/privacy","className":"link-hover link","children":"Privacy policy"}]]}]]}]]}]]}]}]}],["$","div",null,{"className":"relative isolate -z-50 hidden md:block","children":["$","div",null,{"aria-hidden":"true","className":"pointer-events-none absolute inset-x-0 bottom-10 -z-50 transform-gpu overflow-hidden blur-3xl","children":"$La"}]}]]}]]]}],"$Lb"]}]}]}]]}],{"children":["$Lc",{"children":["$Ld",{"children":["$Le",{},null,false,false]},null,false,false]},null,false,false]},null,false,false],"$Lf",false]],"m":"$undefined","G":["$10",[]],"S":true}
+11:I[73399,["/_next/static/chunks/df89af08f39a668e.js","/_next/static/chunks/d824e1165b6c2cbd.js","/_next/static/chunks/306ed2401499d3d9.js","/_next/static/chunks/2ccc973a4ca89d60.js","/_next/static/chunks/9305858cc4011782.js"],"default"]
+13:I[25725,["/_next/static/chunks/208d109d56c94dec.js","/_next/static/chunks/b9df1088a5e002c8.js"],"OutletBoundary"]
+14:"$Sreact.suspense"
+16:I[25725,["/_next/static/chunks/208d109d56c94dec.js","/_next/static/chunks/b9df1088a5e002c8.js"],"ViewportBoundary"]
+18:I[25725,["/_next/static/chunks/208d109d56c94dec.js","/_next/static/chunks/b9df1088a5e002c8.js"],"MetadataBoundary"]
+a:["$","div",null,{"style":{"clipPath":"polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)"},"className":"relative left-[calc(50%-30rem)] aspect-1155/678 w-[72.1875rem] -translate-x-1/2 rotate-[30deg] transform-gpu bg-linear-to-tr from-[#ff80b5] to-[#9089fc] opacity-20"}]
+b:[["$","$L3",null,{"moduleIds":["11536131241018904265"]}],["$","$L11",null,{}]]
+c:["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+d:["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+e:["$","$1","c",{"children":["$L12",[["$","script","script-0",{"src":"/_next/static/chunks/08af111c6ca44ed4.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/e4b98677c3250abd.js","async":true,"nonce":"$undefined"}]],["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]]}]
+f:["$","$1","h",{"children":[null,["$","$L16",null,{"children":"$L17"}],["$","div",null,{"hidden":true,"children":["$","$L18",null,{"children":["$","$14",null,{"name":"Next.Metadata","children":"$L19"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+17:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1a:I[27201,["/_next/static/chunks/208d109d56c94dec.js","/_next/static/chunks/b9df1088a5e002c8.js"],"IconMark"]
+15:null
+19:[["$","title","0",{"children":"Syntax Highlight Code in NextJS TailwindCSS DaisyUI | Biplob Sutradhar"}],["$","meta","1",{"name":"description","content":"Code syntax highlighting is needed to make code more readable and understandable. In this article, y... | Blogs | Biplob Sutradhar"}],["$","meta","2",{"name":"application-name","content":"Syntax Highlight Code in NextJS TailwindCSS DaisyUI | Biplob Sutradhar"}],["$","link","3",{"rel":"manifest","href":"/manifest.json","crossOrigin":"$undefined"}],["$","meta","4",{"name":"fb:app_id","content":"732825215185793"}],["$","link","5",{"rel":"canonical","href":"https://biplobsd.me"}],["$","meta","6",{"name":"format-detection","content":"telephone=no"}],["$","meta","7",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","8",{"name":"apple-mobile-web-app-title","content":"Syntax Highlight Code in NextJS TailwindCSS DaisyUI | Biplob Sutradhar"}],["$","meta","9",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","10",{"property":"og:title","content":"Syntax Highlight Code in NextJS TailwindCSS DaisyUI | Biplob Sutradhar"}],["$","meta","11",{"property":"og:description","content":"Code syntax highlighting is needed to make code more readable and understandable. In this article, y... | Blogs | Biplob Sutradhar"}],["$","meta","12",{"property":"og:url","content":"https://biplobsd.me"}],["$","meta","13",{"property":"og:site_name","content":"Biplob Sutradhar"}],["$","meta","14",{"property":"og:image","content":"https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/syntax-highlight-code-in-NextJS-tailwindcss-daisyui/preview-code-syntax-highlighter.gif"}],["$","meta","15",{"property":"og:image:alt","content":"Code syntax highlighting is needed to make code more readable and understandable. In this article, y... | Blogs | Biplob Sutradhar"}],["$","meta","16",{"property":"og:type","content":"article"}],["$","meta","17",{"property":"article:published_time","content":"2023-06-29T12:02:53.000Z"}],["$","meta","18",{"property":"article:author","content":"https://biplobsd.me"}],["$","meta","19",{"property":"article:tag","content":"code"}],["$","meta","20",{"property":"article:tag","content":"syntax"}],["$","meta","21",{"property":"article:tag","content":"highlighting"}],["$","meta","22",{"property":"article:tag","content":"needed"}],["$","meta","23",{"property":"article:tag","content":"make"}],["$","meta","24",{"property":"article:tag","content":"readable"}],["$","meta","25",{"property":"article:tag","content":"understandable"}],["$","meta","26",{"property":"article:tag","content":"article"}],["$","meta","27",{"property":"article:tag","content":"blogs"}],["$","meta","28",{"property":"article:tag","content":"biplob"}],["$","meta","29",{"property":"article:tag","content":"sutradhar"}],["$","meta","30",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","31",{"name":"twitter:site","content":"@biplobsd11"}],["$","meta","32",{"name":"twitter:creator","content":"@biplobsd11"}],["$","meta","33",{"name":"twitter:title","content":"Syntax Highlight Code in NextJS TailwindCSS DaisyUI | Biplob Sutradhar"}],["$","meta","34",{"name":"twitter:description","content":"Code syntax highlighting is needed to make code more readable and understandable. In this article, y... | Blogs | Biplob Sutradhar"}],["$","meta","35",{"name":"twitter:image","content":"https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/syntax-highlight-code-in-NextJS-tailwindcss-daisyui/preview-code-syntax-highlighter.gif"}],["$","meta","36",{"name":"twitter:image:alt","content":"Code syntax highlighting is needed to make code more readable and understandable. In this article, y... | Blogs | Biplob Sutradhar"}],["$","link","37",{"rel":"icon","href":"https://biplobsd.me/favicon.ico"}],["$","$L1a","38",{}]]
+1b:I[66078,["/_next/static/chunks/df89af08f39a668e.js","/_next/static/chunks/d824e1165b6c2cbd.js","/_next/static/chunks/306ed2401499d3d9.js","/_next/static/chunks/2ccc973a4ca89d60.js","/_next/static/chunks/9305858cc4011782.js","/_next/static/chunks/08af111c6ca44ed4.js","/_next/static/chunks/e4b98677c3250abd.js"],"ProjectBlogView"]
+1c:T21dc,
+![preview](https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/syntax-highlight-code-in-NextJS-tailwindcss-daisyui/preview-code-syntax-highlighter.gif)
+
+# Syntax Highlight Code in NextJS TailwindCSS DaisyUI
+
+Code syntax highlighting is needed to make code more readable and understandable. In this article, you will learn how to implement syntax highlighting in your Next.js website using TailwindCSS, DaisyUI, react-markdown, react-syntax-highlighter, and more.
+
+I have created a simple repository for this tutorial. You can check it out to better understand how to implement this on your website. The link to the repository is provided in the full code section below.
+
+## Install Dependencies
+
+To use syntax highlighting, we need to install the following dependencies:
+
+`npm i react-copy-to-clipboard react-syntax-highlighter`
+
+For development dependencies, we need to install:
+
+`npm i -D @heroicons/react @types/react-copy-to-clipboard @types/react-syntax-highlighter daisyui tailwind-scrollbar`
+
+## Add `code` components in your ReactMarkdown
+
+Wrap your Markdown string with the `<ReactMarkdown>` component for rendering. It should look like this:
+
+Find your ReactMarkdown component or create a new component and pass the Markdown string to it.
+
+### File `markdown_render.tsx`
+
+```tsx
+import ReactMarkdown from "react-markdown";
+
+interface MarkdownRenderProps {
+  mdString: string;
+}
+
+export default function MarkdownRender({ mdString }: MarkdownRenderProps) {
+  return <ReactMarkdown>{mdString}</ReactMarkdown>;
+}
+```
+
+In this ReactMarkdown component, we will add the `react-syntax-highlighter` to highlight our code.
+
+## Adding `SyntaxHighlighter` to the ReactMarkdown
+
+In the `ReactMarkdown` component, we can style our HTML tags by passing props to our `code` component. Update the `code` component with the following code snippet:
+
+```tsx
+import ReactMarkdown from "react-markdown";
+import { PrismLight as SyntaxHighlighter } from "react-syntax-highlighter";
+import { oneDark } from "react-syntax-highlighter/dist/cjs/styles/prism";
+
+interface MarkdownRenderProps {
+  mdString: string;
+}
+
+export default function MarkdownRender({ mdString }: MarkdownRenderProps) {
+  return (
+    <ReactMarkdown
+      components={{
+        code({ inline, className, ...props }) {
+          const hasLang = /language-(\w+)/.exec(className || "");
+          return !inline && hasLang ? (
+            <SyntaxHighlighter
+              style={oneDark}
+              language={hasLang[1]}
+              PreTag="div"
+              className="mockup-code scrollbar-thin scrollbar-track-base-content/5 scrollbar-thumb-base-content/40 scrollbar-track-rounded-md scrollbar-thumb-rounded"
+              showLineNumbers={true}
+              useInlineStyles={true}
+            >
+              {String(props.children).replace(/\n$/, "")}
+            </SyntaxHighlighter>
+          ) : (
+            <code className={className} {...props} />
+          );
+        },
+      }}
+    >
+      {mdString}
+    </ReactMarkdown>
+  );
+}
+```
+
+In this code, we are using TailwindCSS, DaisyUI, and tailwind-scrollbar to style the code block. It will now look like this:
+
+When running `npm run dev`:
+
+![highlight-added-dev-preview.png](https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/syntax-highlight-code-in-NextJS-tailwindcss-daisyui/highlight-added-dev-preview.png)
+
+When running `npm run build`:
+
+![highlight-added-pro-preview.png](https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/syntax-highlight-code-in-NextJS-tailwindcss-daisyui/highlight-added-pro-preview.png)
+
+However, there is a problem with the code highlighting in `npm run build`. To fix this, we need to register the syntax highlighter languages in our `MarkdownRender` component file.
+
+## Register Language for `SyntaxHighlighter`
+
+We can register languages using the `registerLanguage` method provided by `SyntaxHighlighter`. Below, I have added some popular languages, but you can add more languages. Here is the list of supported languages by Prism. [Check here](https://github.com/react-syntax-highlighter/react-syntax-highlighter/blob/master/AVAILABLE_LANGUAGES_PRISM.MD) for the languages supported by Prism.
+
+Add the following lines of code in the `MarkdownRender` component file:
+
+```tsx
+import tsx from "react-syntax-highlighter/dist/cjs/languages/prism/tsx";
+import typescript from "react-syntax-highlighter/dist/cjs/languages/prism/typescript";
+import scss from "react-syntax-highlighter/dist/cjs/languages/prism/scss";
+import bash from "react-syntax-highlighter/dist/cjs/languages/prism/bash";
+import markdown from "react-syntax-highlighter/dist/cjs/languages/prism/markdown";
+import json from "react-syntax-highlighter/dist/cjs/languages/prism/json";
+import lua from "react-syntax-highlighter/dist/cjs/languages/prism/lua";
+
+SyntaxHighlighter.registerLanguage("tsx", tsx);
+SyntaxHighlighter.registerLanguage("typescript", typescript);
+SyntaxHighlighter.registerLanguage("scss", scss);
+SyntaxHighlighter.registerLanguage("bash", bash);
+SyntaxHighlighter.registerLanguage("markdown", markdown);
+SyntaxHighlighter.registerLanguage("json", json);
+SyntaxHighlighter.registerLanguage("lua", lua);
+```
+
+## Adding Copy Code Button and Language Name
+
+A copy code button will allow readers to quickly copy code snippets to their clipboard. This button is highly useful. Additionally, displaying the language name will help in better understanding the code.
+
+To achieve this, we need to update the `pre` HTML tag in the code.
+
+Here is the `pre` code for the MarkdownRender component:
+
+```tsx
+pre: (pre) => {
+  // eslint-disable-next-line @typescript-eslint/no-unsafe-member-access, @typescript-eslint/no-explicit-any
+  const codeChunk = (pre as any).node.children[0].children[0].value as string;
+
+  // eslint-disable-next-line react-hooks/rules-of-hooks
+  const [copyTip, setCopyTip] = useState("Copy code");
+
+  const language =
+    // eslint-disable-next-line @typescript-eslint/no-unsafe-member-access, @typescript-eslint/no-unsafe-call, @typescript-eslint/no-explicit-any
+    (pre as any).children[0]?.props.className.replace(
+      /language-/g,
+      ""
+    ) as string;
+
+  return (
+    <div className="relative overflow-x-hidden">
+      <button
+        style={{
+          right: 0,
+        }}
+        className="tooltip tooltip-left absolute z-40 mr-2 mt-5"
+        data-tip={copyTip}
+      >
+        <CopyToClipboard
+          text={codeChunk}
+          // eslint-disable-next-line @typescript-eslint/no-misused-promises
+          onCopy={async () => {
+            setCopyTip("Copied");
+            await new Promise((resolve) => setTimeout(resolve, 500));
+            setCopyTip(`Copy code`);
+          }}
+        >
+          <DocumentDuplicateIcon className="h-5 w-5 cursor-pointer hover:text-blue-600" />
+        </CopyToClipboard>
+      </button>
+      <span
+        style={{
+          bottom: 0,
+          right: 0,
+        }}
+        className="absolute z-40 mb-5 mr-1 rounded-lg bg-base-content/40 p-1 text-xs uppercase text-base-300 backdrop-blur-sm"
+      >
+        {language}
+      </span>
+      <pre {...pre}></pre>
+    </div>
+  );
+};
+```
+
+## Final preview
+
+![copy-button-language-name.png](https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/syntax-highlight-code-in-NextJS-tailwindcss-daisyui/copy-button-language-name.png)
+
+## Complete Code for `markdown_render.tsx`
+
+You can find the source code for this tutorial on GitHub.
+Project link: https://github.com/biplobsd/code-syntax-highlighter-tailwind-daisyui
+
+To view the code for the `markdown_render.tsx` file, you can click on the following https://github.com/biplobsd/code-syntax-highlighter-tailwind-daisyui/blob/main/src/components/markdown_render.tsx
+
+You can also see the, this website implementation of this code syntax highlighter on the PNP project, which is an open-source project. Here is the link to the PNP GitHub repository below -
+
+https://github.com/SpeedOut-Source/pnp/blob/d03965a73d42751ae282b3613289695b0df06a6a/src/components/markdown/md_render.tsx
+
+## Reference
+
+Here are some other great blogs on this topic. I followed them to implement code syntax highlighting on this website:
+
+- [Syntax Highlight Code in Markdown by Amir Ardalan](https://amirardalan.com/blog/syntax-highlight-code-in-markdown)
+- [React Markdown — Code and Syntax Highlighting by Bexultan Myrzatay](https://medium.com/young-developer/react-markdown-code-and-syntax-highlighting-632d2f9b4ada)
+
+## Conclusion
+
+That's it! If you have any questions, feel free to ask in the comment box below. 🔥🔥🔥🔥
+
+I hope this helps! Let me know if you have any further questions.
+12:["$","$L1b",null,{"data":"$1c","imgBlurdata":{"https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/syntax-highlight-code-in-NextJS-tailwindcss-daisyui/highlight-added-dev-preview.png":{"base64":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAYAAAC09K7GAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAPklEQVR4nAEzAMz/AKCktf+ytsT/bnN//1lfaf8AtrrI/+rr+P++xM//houX/wCkq7b/ho+b/2pwfP8iJzL/bMEhH7DFSOkAAAAASUVORK5CYII=","height":498,"width":578},"https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/syntax-highlight-code-in-NextJS-tailwindcss-daisyui/highlight-added-pro-preview.png":{"base64":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAYAAAC09K7GAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAM0lEQVR4nGNYv+3QfxAOjU77b+/q/59hy67j/y9ce/IfRDd3TvnPAJKdNnclWIWQhNJ/AFQpICVPDxswAAAAAElFTkSuQmCC","height":494,"width":575},"https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/syntax-highlight-code-in-NextJS-tailwindcss-daisyui/copy-button-language-name.png":{"base64":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAK0lEQVR4nGOQUdbdJSShsI+VV2Lj4z//BRiiYrP+FZU3/Hf3Cf9w+8l/MQDVhQ8tFOVAqQAAAABJRU5ErkJggg==","height":446,"width":779}},"itemView":{"imgUrl":"https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/syntax-highlight-code-in-NextJS-tailwindcss-daisyui/preview-code-syntax-highlighter.gif","title":"Syntax Highlight Code in NextJS TailwindCSS DaisyUI","desc":"Code syntax highlighting is needed to make code more readable and understandable. In this article, y...","date":1688040173000,"readTime":3,"fileName":"syntax-highlight-code-in-NextJS-tailwindcss-daisyui.md","tags":["nextjs","react"],"imgBlurData":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAYAAAC09K7GAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPklEQVR4nAEzAMz/AEVNWP8tNT//HiYw/1FaY/8Ar7fF/+z1///F0N//qLK//wAXHSX/ISgy/xUcJf8JEBr/qSYZ999uXi0AAAAASUVORK5CYII="},"previous":{"imgUrl":"https://github.com/biplobsd/biplobsd.github.io/assets/43641536/4c7c87c3-7766-42ce-8626-c95d1b5ce22c","title":"LimbusCode Chrome Extension Analysis","desc":"LimbusCode, or limbuscode.com, is associated with Leo Ono. LimbusCode.com is his personal website. H...","date":1691002233000,"readTime":3,"fileName":"limbuscode-chrome-extension-analysis.md","tags":[],"imgBlurData":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABCAYAAAD5PA/NAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGklEQVR4nGMQlJH/f+nOg//X7j3+zyIk9h8ATu0JmmiYYk8AAAAASUVORK5CYII="},"next":{"imgUrl":"https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/reading-progressbar/preview.png","title":"Creating a Gradient Reading Progress Bar in NextJS with TailwindCSS","desc":"I am building this portfolio website to showcase my app and services to the world. During my researc...","date":1687780096000,"readTime":2,"fileName":"creating-a-gradient-reading-progress-bar-in-NextJS-and-tailwindcss.md","tags":["nextjs","typescript"],"imgBlurData":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAYAAAC09K7GAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAPklEQVR4nAEzAMz/AElQXf+sssD/ZWt4/wAAEv8AKTJB/wsTIP8NFCD/Awwc/wCfbHL/m5/I/8vn///j+///T0watmXy154AAAAASUVORK5CYII="},"type":"blogs","more4":null,"toc":[{"value":"Install Dependencies","depth":2,"data":{"hProperties":{"id":"install-dependencies-1"}},"children":[]},{"value":"Add code components in your ReactMarkdown","depth":2,"data":{"hProperties":{"id":"add-code-components-in-your-reactmarkdown-1"}},"children":[{"value":"File markdown_render.tsx","depth":3,"data":{"hProperties":{"id":"file-markdownrendertsx-1"}},"children":[]}]},{"value":"Adding SyntaxHighlighter to the ReactMarkdown","depth":2,"data":{"hProperties":{"id":"adding-syntaxhighlighter-to-the-reactmarkdown-1"}},"children":[]},{"value":"Register Language for SyntaxHighlighter","depth":2,"data":{"hProperties":{"id":"register-language-for-syntaxhighlighter-1"}},"children":[]},{"value":"Adding Copy Code Button and Language Name","depth":2,"data":{"hProperties":{"id":"adding-copy-code-button-and-language-name-1"}},"children":[]},{"value":"Final preview","depth":2,"data":{"hProperties":{"id":"final-preview-1"}},"children":[]},{"value":"Complete Code for markdown_render.tsx","depth":2,"data":{"hProperties":{"id":"complete-code-for-markdownrendertsx-1"}},"children":[]},{"value":"Reference","depth":2,"data":{"hProperties":{"id":"reference-1"}},"children":[]},{"value":"Conclusion","depth":2,"data":{"hProperties":{"id":"conclusion-1"}},"children":[]}]}]

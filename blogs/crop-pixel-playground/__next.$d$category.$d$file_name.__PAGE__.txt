@@ -1,0 +1,47 @@
+1:"$Sreact.fragment"
+2:I[66078,["/_next/static/chunks/df89af08f39a668e.js","/_next/static/chunks/d824e1165b6c2cbd.js","/_next/static/chunks/306ed2401499d3d9.js","/_next/static/chunks/2ccc973a4ca89d60.js","/_next/static/chunks/9305858cc4011782.js","/_next/static/chunks/08af111c6ca44ed4.js","/_next/static/chunks/e4b98677c3250abd.js"],"ProjectBlogView"]
+7:I[25725,["/_next/static/chunks/208d109d56c94dec.js","/_next/static/chunks/b9df1088a5e002c8.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+3:T95b,
+![cpp-preview](https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/cpp-preview.gif)
+
+# Crop Pixel Playground
+
+Crop Pixel Playground is an app that allows you to crop an image into blocks of small images. It generates multiple chunks of small images from the given image, and all the processing is performed on your device without using any API. This app is free to use and is supported on Android, Windows, and the web.
+
+## Usages
+
+This app is supported on
+
+| Android | Window | Web |
+|:-:|:-:|:-:|
+| [<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height=75 width=200>](https://play.google.com/store/apps/details?id=com.speedout.cppg) | [<img src="https://get.microsoft.com/images/en-us%20dark.svg" height=75 width=150>](https://apps.microsoft.com/store/detail/crop-pixel-playground/9NXP42BX8X7M?hl=en-us&gl=us) | [<img src="https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/cpp-logo.png" height=100 width=100>](https://croppixel.web.app) |
+
+To use the app, you need to set the x and y values and upload the image by tapping the upload image button. Then, adjust the zoom or pan to fit the grid and tap the capture button to crop the image. Sometimes, the loading Save button will enable you to save the cropped images. The app creates a zip file containing the cropped image, the main image, and a fileinfo.json.
+
+## Features
+
+1. Blocks size adjust as x, y value.
+2. Interactive image scaling and pan slide.
+3. Image rotate
+4. Download/Save image into download folder. Internal storage/ Download/cppg/
+5. Using Isolate(multithread) to blocking image as fast as possible.
+6. Adjust scale factor.
+7. Block image size height, width adjustable in setting page.
+8. Restore app setting value using 'Factory reset' option in setting page.
+9. Dark/Light mode theme.
+10. Image supported png, jpeg.
+11. Save processed image as zip file. In zip file include fileinfo.json to get blocks name and files information.
+12. Adaptive design.
+13. Gif/Apng supported
+
+## App Technology
+Crop Pixel Playground is built using Flutter, which is ideal for making this kind of tool. Dart is the language in which Flutter is built, and it is a strongly typed language.
+
+
+if you need more feature on this app, highly requested to create an issue on our GitHub repository https://github.com/biplobsd/cppg-build/issues tab.
+0:{"buildId":"FV8kaFXDw6zXvFUAjtwc5","rsc":["$","$1","c",{"children":[["$","$L2",null,{"data":"$3","imgBlurdata":{"https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png":{"base64":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAAAsTAAALEwEAmpwYAAAALUlEQVR4nAEiAN3/AKSspH2LjIauXFxdsBAQEHgAuKijbMK/uZb///+Xd3R0aB9sEcTIP4AwAAAAAElFTkSuQmCC","height":250,"width":646},"https://get.microsoft.com/images/en-us%20dark.svg":{"base64":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABCAYAAAD5PA/NAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGklEQVR4nGPg5ORc/vLly//fvn37n5iYuBIATlwKKr9k9GwAAAAASUVORK5CYII=","height":34,"width":116},"https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/cpp-logo.png":{"base64":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAOUlEQVR4nGNgYGBg8I/4z+Lr/Z8VxAaDI///7z/y//9hT9X/jGCBG///H77y//8JuIB54zZWEAZxAA7XF0JvnPJDAAAAAElFTkSuQmCC","height":120,"width":120}},"itemView":{"imgUrl":"https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/cpp-preview.gif","title":"Crop Pixel Playground","desc":"Crop Pixel Playground is an app that allows you to crop an image into blocks of small images. It gen...","date":1680895451000,"readTime":1,"fileName":"crop-pixel-playground.md","tags":["flutter","android"],"imgBlurData":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAYAAAC09K7GAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPklEQVR4nAEzAMz/AAQIFP9KS1X/lJSg/29xfP8AS0xX/4yNmv8PERv/o6Sx/wClprP/zdDc/7W3xP+0tsH/kkgdyamYStAAAAAASUVORK5CYII="},"previous":{"imgUrl":"https://github.com/biplobsd/ocaria2/raw/main/src/preview.gif","title":"Run aria2c and AriaNgWke together with one click","desc":"Run aria2c and AriaNgWke with one click. ocaria2 will automatically get the trackers list and optimi...","date":1680975232000,"readTime":1,"fileName":"ocaria2.md","tags":["python","github action"],"imgBlurData":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAYAAAC09K7GAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPklEQVR4nAEzAMz/AMDAwP/Ew8P/iIiI/wsLC/8A2NrY/6SkpP+Wlpb/GBgY/wDo6en/srKy/8DAwP8vLy//Qr4gVQG2tBQAAAAASUVORK5CYII="},"next":{"imgUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Lenovo_ThinkPad_X1_Ultrabook_%28Nov_16%2C_2012%29.png/330px-Lenovo_ThinkPad_X1_Ultrabook_%28Nov_16%2C_2012%29.png","title":"t460s-ux","desc":"Some useful change for lenovo thinkpad t460s","date":1680860417000,"readTime":1,"fileName":"t460s-ux.md","tags":[],"imgBlurData":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAYAAAC09K7GAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAO0lEQVR4nGNgYGBgqGlsjLn77NnJ7///LwfxGdzcXZZ19nb9nz579hWGDRu2WORn5x+0trb57+joPBkAPfIW/1syKhQAAAAASUVORK5CYII="},"type":"blogs","more4":null,"toc":[{"value":"Usages","depth":2,"data":{"hProperties":{"id":"usages-1"}},"children":[]},{"value":"Features","depth":2,"data":{"hProperties":{"id":"features-1"}},"children":[]},{"value":"App Technology","depth":2,"data":{"hProperties":{"id":"app-technology-1"}},"children":[]}]}],["$L4","$L5"],"$L6"]}],"loading":null,"isPartial":false}
+4:["$","script","script-0",{"src":"/_next/static/chunks/08af111c6ca44ed4.js","async":true}]
+5:["$","script","script-1",{"src":"/_next/static/chunks/e4b98677c3250abd.js","async":true}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

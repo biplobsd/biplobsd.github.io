@@ -1,0 +1,35 @@
+1:"$Sreact.fragment"
+2:I[66078,["/_next/static/chunks/df89af08f39a668e.js","/_next/static/chunks/d824e1165b6c2cbd.js","/_next/static/chunks/306ed2401499d3d9.js","/_next/static/chunks/2ccc973a4ca89d60.js","/_next/static/chunks/9305858cc4011782.js","/_next/static/chunks/08af111c6ca44ed4.js","/_next/static/chunks/e4b98677c3250abd.js"],"ProjectBlogView"]
+7:I[25725,["/_next/static/chunks/208d109d56c94dec.js","/_next/static/chunks/b9df1088a5e002c8.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+3:T88d,
+## BLC(Blended Learning Center) তে কিছু সময় পরপর logout হয়ে যাচ্ছে? অথবা কিছু দিন পরে BLC তে visit করলে আবার login করা লাগছে?
+
+<center>
+    <iframe class="w-full h-96" src="https://www.youtube.com/embed/7PWVRwNLFlQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
+
+এটা ঝামেলা মনে না হতে পারে। মনে করতে পারেন আবার login করে নিব। 1 second এর বেপার ই। কিন্তু এটা আপনার কিছু attention, time নিয়ে যাচ্ছে। অল্প অল্প করে অনেক time নস্ত হচ্ছে।
+
+আপনি এটা automatic করে নিতে পারেন Browser extension এর মাধ্যমে। না আপনাকে আমি browser extension কিভাবে বানাতে হবে তা শিখে নিজে বানাতে বলছি। আমি কিছু দিন সময় দিয়ে এই problem এর জন্য Edge extension create করেছি।
+
+BLC Auto Login - Edge store এটা free তে পেয়ে যাবেন। এই extension টি open-source . আপনি আপনার ইছা মত code review, change or কিভাবে এই extension কাজ করে তা জানতে পারবেন। সব কিছু free কারণ এটা hobby project. Pull request করতে পারবেন আমি টা review next version update করে দিবো।
+
+Features
+
+- Toggle on/off
+- Auto login account
+- Dark theme
+- Mark as done
+- Open-source
+
+Microsoft Edge store থেকে try করে দেকতে পারেন। নিছে সব link রয়েছে -
+
+BLC Auto Login: https://microsoftedge.microsoft.com/addons/detail/blc-auto-login/cklmpfnelcdadbpoonlejongcfmkngjj
+<br>
+Source-code: https://github.com/biplobsd/blc-auto-login
+0:{"buildId":"FV8kaFXDw6zXvFUAjtwc5","rsc":["$","$1","c",{"children":[["$","$L2",null,{"data":"$3","imgBlurdata":{},"itemView":{"imgUrl":"https://user-images.githubusercontent.com/43641536/227714912-f2fb693d-8b4d-4f26-8013-15a9eddb2203.gif","title":"BLC(Blended Learning Center) তে কিছু সময় পরপর logout হয়ে যাচ্ছে? অথবা কিছু দিন পরে BLC তে visit করলে আবার login করা লাগছে?","desc":"","date":1683225317000,"readTime":1,"fileName":"blc-auto-logo.bn.md","tags":["chrome extension"],"imgBlurData":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAYAAAC09K7GAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPklEQVR4nAEzAMz/AAAKK/8AAiT/BQIh/wAFIf8AfMH//+Gr////RZz//56r/wB/ltL/jgA+/9ROYv//6Yv/XO0cN4PISbEAAAAASUVORK5CYII="},"previous":{"imgUrl":"https://raw.githubusercontent.com/SpeedOut-Source/pnp-data/main/images/all-devices-black-pnp.png","title":"PNP Setup Guide GitHub, Google Maps API, Algolia, Giscus, Buy Me a Coffee, and Domain Configuration","desc":"PNP, or Portfolio NextJs Project, is a portfolio website built using the NextJS framework. It is a static website that can be hosted on any static web hosting platform. PNP is a completely free and open-source project.","date":1685100471000,"readTime":5,"fileName":"get-started.md","tags":[],"imgBlurData":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAK0lEQVR4nGOQVtIq1zKw+a+kYbiMjVVIjkFRw2jFr7//d1TWdX/yDIxdDACsjQyvy2jJ7AAAAABJRU5ErkJggg=="},"next":{"imgUrl":"https://github.com/biplobsd/ocaria2/raw/main/src/preview.gif","title":"Run aria2c and AriaNgWke together with one click","desc":"Run aria2c and AriaNgWke with one click. ocaria2 will automatically get the trackers list and optimi...","date":1680975232000,"readTime":1,"fileName":"ocaria2.md","tags":["python","github action"],"imgBlurData":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAYAAAC09K7GAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPklEQVR4nAEzAMz/AMDAwP/Ew8P/iIiI/wsLC/8A2NrY/6SkpP+Wlpb/GBgY/wDo6en/srKy/8DAwP8vLy//Qr4gVQG2tBQAAAAASUVORK5CYII="},"type":"blogs","more4":null,"toc":[{"value":"BLC(Blended Learning Center) তে কিছু সময় পরপর logout হয়ে যাচ্ছে? অথবা কিছু দিন পরে BLC তে visit করলে আবার login করা লাগছে?","depth":2,"data":{"hProperties":{"id":"blcblended-learning-center-----logout-------blc--visit---login---1"}},"children":[]}]}],["$L4","$L5"],"$L6"]}],"loading":null,"isPartial":false}
+4:["$","script","script-0",{"src":"/_next/static/chunks/08af111c6ca44ed4.js","async":true}]
+5:["$","script","script-1",{"src":"/_next/static/chunks/e4b98677c3250abd.js","async":true}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

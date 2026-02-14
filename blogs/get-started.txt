@@ -1,0 +1,160 @@
+1:"$Sreact.fragment"
+2:I[63178,["/_next/static/chunks/df89af08f39a668e.js","/_next/static/chunks/d824e1165b6c2cbd.js","/_next/static/chunks/306ed2401499d3d9.js","/_next/static/chunks/2ccc973a4ca89d60.js","/_next/static/chunks/9305858cc4011782.js"],"ThemeProvider"]
+3:I[52157,["/_next/static/chunks/df89af08f39a668e.js","/_next/static/chunks/d824e1165b6c2cbd.js","/_next/static/chunks/306ed2401499d3d9.js","/_next/static/chunks/2ccc973a4ca89d60.js","/_next/static/chunks/9305858cc4011782.js"],"PreloadChunks"]
+4:I[6021,["/_next/static/chunks/df89af08f39a668e.js","/_next/static/chunks/d824e1165b6c2cbd.js","/_next/static/chunks/306ed2401499d3d9.js","/_next/static/chunks/2ccc973a4ca89d60.js","/_next/static/chunks/9305858cc4011782.js"],"default"]
+5:I[82815,["/_next/static/chunks/df89af08f39a668e.js","/_next/static/chunks/d824e1165b6c2cbd.js","/_next/static/chunks/306ed2401499d3d9.js","/_next/static/chunks/2ccc973a4ca89d60.js","/_next/static/chunks/9305858cc4011782.js"],"default"]
+6:I[39756,["/_next/static/chunks/208d109d56c94dec.js","/_next/static/chunks/b9df1088a5e002c8.js"],"default"]
+7:I[37457,["/_next/static/chunks/208d109d56c94dec.js","/_next/static/chunks/b9df1088a5e002c8.js"],"default"]
+8:I[75007,["/_next/static/chunks/df89af08f39a668e.js","/_next/static/chunks/d824e1165b6c2cbd.js","/_next/static/chunks/306ed2401499d3d9.js","/_next/static/chunks/2ccc973a4ca89d60.js","/_next/static/chunks/9305858cc4011782.js","/_next/static/chunks/c2fa84ca3b7efbb4.js"],"NotFoundRedirect"]
+9:I[22016,["/_next/static/chunks/df89af08f39a668e.js","/_next/static/chunks/d824e1165b6c2cbd.js","/_next/static/chunks/306ed2401499d3d9.js","/_next/static/chunks/2ccc973a4ca89d60.js","/_next/static/chunks/9305858cc4011782.js"],""]
+f:I[68027,["/_next/static/chunks/208d109d56c94dec.js","/_next/static/chunks/b9df1088a5e002c8.js"],"default"]
+:HL["/_next/static/chunks/ba1a6787ba195a3e.css","style"]
+:HL["/_next/static/chunks/b095a36addf1b84d.css","style"]
+:HL["/_next/static/media/fd3f2d7cff5f3729-s.p.6cff3a18.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"FV8kaFXDw6zXvFUAjtwc5","c":["","blogs","get-started"],"q":"","i":false,"f":[[["",{"children":[["category","blogs","d"],{"children":[["file_name","get-started","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/ba1a6787ba195a3e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/b095a36addf1b84d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/df89af08f39a668e.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/d824e1165b6c2cbd.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/306ed2401499d3d9.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/2ccc973a4ca89d60.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/9305858cc4011782.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"className":"scroll-smooth","lang":"en","data-scroll-behavior":"smooth","data-theme":"dark","suppressHydrationWarning":true,"children":["$","body",null,{"className":"scrollbar-style relative isolate","children":["$","$L2",null,{"enableSystem":false,"themes":["dark","winter"],"defaultTheme":"dark","children":[[["$","$L3",null,{"moduleIds":["3971526741515434858"]}],["$","$L4",null,{}]],[["$","$L3",null,{"moduleIds":["17713158809478910457"]}],["$","div",null,{"aria-hidden":"true","className":"pointer-events-none absolute inset-x-0 -top-80 -z-10 hidden transform-gpu overflow-hidden blur-3xl md:block","children":["$","div",null,{"style":{"clipPath":"polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)"},"className":"relative left-[calc(90%-20rem)] aspect-1155/678 w-[72.1875rem] -translate-x-1/2 rotate-[30deg] transform-gpu bg-linear-to-tr from-[#c880ff] to-[#9089fc] opacity-20"}]}]],["$","div",null,{"className":"flex h-screen flex-col justify-between","children":[["$","main",null,{"className":"titillium_web_561b13b2-module__wbCuzq__className","children":[[["$","$L3",null,{"moduleIds":["2972469916918538491"]}],["$","$L5",null,{}]],["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","$L8",null,{}],["$","main",null,{"className":"errorSplash container mx-auto","children":["$","div",null,{"children":["404 ",["$","span",null,{"children":"|"}]," This page is not found"]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],[["$","$L3",null,{"moduleIds":["12737876533879332231"]}],["$","footer",null,{"children":[["$","div",null,{"className":"mt-5 backdrop-blur-xs supports-backdrop-blur:bg-white/60","children":["$","div",null,{"className":"mx-5 mt-auto flex items-center justify-center","children":["$","div",null,{"className":"container","children":[["$","div",null,{"className":"divider"}],["$","div",null,{"className":"mt-2 mb-4 flex flex-col items-center justify-between space-y-2 sm:flex-row sm:space-y-0","children":[["$","div",null,{"className":"flex flex-col items-center justify-center gap-2 sm:flex-row sm:gap-0","children":[["$","span",null,{"className":"text-sm","children":["© 2025 ","Biplob Sutradhar"]}],["$","span",null,{"className":"mx-2 hidden sm:block","children":"|"}],["$","span",null,{"className":"text-sm","children":"Made in Bangladesh"}]]}],["$","ul",null,{"className":"flex flex-wrap space-x-4 text-sm","children":[["$","li",null,{"children":[["$","$L3",null,{"moduleIds":["7640330367050620805"]}],["$","$L9",null,{"href":"/about","className":"link-hover link","children":"About"}]]}],["$","li",null,{"children":[["$","$L3",null,{"moduleIds":"$0:f:0:1:0:props:children:1:props:children:props:children:props:children:2:props:children:1:1:props:children:0:props:children:props:children:props:children:1:props:children:1:props:children:0:props:children:0:props:moduleIds"}],["$","$L9",null,{"href":"/contact","className":"link-hover link","children":"Contact me"}]]}],["$","li",null,{"children":[["$","$L3",null,{"moduleIds":"$0:f:0:1:0:props:children:1:props:children:props:children:props:children:2:props:children:1:1:props:children:0:props:children:props:children:props:children:1:props:children:1:props:children:0:props:children:0:props:moduleIds"}],["$","$L9",null,{"href":"/privacy","className":"link-hover link","children":"Privacy policy"}]]}]]}]]}]]}]}]}],["$","div",null,{"className":"relative isolate -z-50 hidden md:block","children":["$","div",null,{"aria-hidden":"true","className":"pointer-events-none absolute inset-x-0 bottom-10 -z-50 transform-gpu overflow-hidden blur-3xl","children":["$","div",null,{"style":{"clipPath":"polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)"},"className":"relative left-[calc(50%-30rem)] aspect-1155/678 w-[72.1875rem] -translate-x-1/2 rotate-[30deg] transform-gpu bg-linear-to-tr from-[#ff80b5] to-[#9089fc] opacity-20"}]}]}]]}]]]}],"$La"]}]}]}]]}],{"children":["$Lb",{"children":["$Lc",{"children":["$Ld",{},null,false,false]},null,false,false]},null,false,false]},null,false,false],"$Le",false]],"m":"$undefined","G":["$f",[]],"S":true}
+10:I[73399,["/_next/static/chunks/df89af08f39a668e.js","/_next/static/chunks/d824e1165b6c2cbd.js","/_next/static/chunks/306ed2401499d3d9.js","/_next/static/chunks/2ccc973a4ca89d60.js","/_next/static/chunks/9305858cc4011782.js"],"default"]
+12:I[25725,["/_next/static/chunks/208d109d56c94dec.js","/_next/static/chunks/b9df1088a5e002c8.js"],"OutletBoundary"]
+13:"$Sreact.suspense"
+15:I[25725,["/_next/static/chunks/208d109d56c94dec.js","/_next/static/chunks/b9df1088a5e002c8.js"],"ViewportBoundary"]
+17:I[25725,["/_next/static/chunks/208d109d56c94dec.js","/_next/static/chunks/b9df1088a5e002c8.js"],"MetadataBoundary"]
+a:[["$","$L3",null,{"moduleIds":["11536131241018904265"]}],["$","$L10",null,{}]]
+b:["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+c:["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+d:["$","$1","c",{"children":["$L11",[["$","script","script-0",{"src":"/_next/static/chunks/08af111c6ca44ed4.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/e4b98677c3250abd.js","async":true,"nonce":"$undefined"}]],["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]]}]
+e:["$","$1","h",{"children":[null,["$","$L15",null,{"children":"$L16"}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$13",null,{"name":"Next.Metadata","children":"$L18"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+16:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+14:null
+18:[["$","title","0",{"children":"PNP Setup Guide GitHub, Google Maps API, Algolia, Giscus, Buy Me a Coffee, and Domain Configuration | Biplob Sutradhar"}],["$","meta","1",{"name":"description","content":"PNP, or Portfolio NextJs Project, is a portfolio website built using the NextJS framework. It is a static website that can be hosted on any static web hosting"}],["$","meta","2",{"name":"application-name","content":"PNP Setup Guide GitHub, Google Maps API, Algolia, Giscus, Buy Me a Coffee, and Domain Configuration | Biplob Sutradhar"}],["$","link","3",{"rel":"manifest","href":"/manifest.json","crossOrigin":"$undefined"}],["$","meta","4",{"name":"fb:app_id","content":"732825215185793"}],["$","link","5",{"rel":"canonical","href":"https://biplobsd.me"}],["$","meta","6",{"name":"format-detection","content":"telephone=no"}],["$","meta","7",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","8",{"name":"apple-mobile-web-app-title","content":"PNP Setup Guide GitHub, Google Maps API, Algolia, Giscus, Buy Me a Coffee, and Domain Configuration | Biplob Sutradhar"}],["$","meta","9",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","10",{"property":"og:title","content":"PNP Setup Guide GitHub, Google Maps API, Algolia, Giscus, Buy Me a Coffee, and Domain Configuration | Biplob Sutradhar"}],["$","meta","11",{"property":"og:description","content":"PNP, or Portfolio NextJs Project, is a portfolio website built using the NextJS framework. It is a static website that can be hosted on any static web hosting"}],["$","meta","12",{"property":"og:url","content":"https://biplobsd.me"}],["$","meta","13",{"property":"og:site_name","content":"Biplob Sutradhar"}],["$","meta","14",{"property":"og:image","content":"https://raw.githubusercontent.com/SpeedOut-Source/pnp-data/main/images/all-devices-black-pnp.png"}],["$","meta","15",{"property":"og:image:alt","content":"PNP, or Portfolio NextJs Project, is a portfolio website built using the NextJS framework. It is a static website that can be hosted on any static web hosting"}],["$","meta","16",{"property":"og:type","content":"article"}],["$","meta","17",{"property":"article:published_time","content":"2023-05-26T11:27:51.000Z"}],["$","meta","18",{"property":"article:author","content":"https://biplobsd.me"}],["$","meta","19",{"property":"article:tag","content":"pnp"}],["$","meta","20",{"property":"article:tag","content":"portfolio"}],["$","meta","21",{"property":"article:tag","content":"nextjs"}],["$","meta","22",{"property":"article:tag","content":"project"}],["$","meta","23",{"property":"article:tag","content":"website"}],["$","meta","24",{"property":"article:tag","content":"built"}],["$","meta","25",{"property":"article:tag","content":"framework"}],["$","meta","26",{"property":"article:tag","content":"static"}],["$","meta","27",{"property":"article:tag","content":"hosted"}],["$","meta","28",{"property":"article:tag","content":"web"}],["$","meta","29",{"property":"article:tag","content":"hosting"}],["$","meta","30",{"property":"article:tag","content":"platform"}],["$","meta","31",{"property":"article:tag","content":"completely"}],["$","meta","32",{"property":"article:tag","content":"free"}],["$","meta","33",{"property":"article:tag","content":"blogs"}],["$","meta","34",{"property":"article:tag","content":"biplob"}],["$","meta","35",{"property":"article:tag","content":"sutradhar"}],["$","meta","36",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","37",{"name":"twitter:site","content":"@biplobsd11"}],["$","meta","38",{"name":"twitter:creator","content":"@biplobsd11"}],["$","meta","39",{"name":"twitter:title","content":"PNP Setup Guide GitHub, Google Maps API, Algolia, Giscus, Buy Me a Coffee, and Domain Configuration | Biplob Sutradhar"}],["$","meta","40",{"name":"twitter:description","content":"PNP, or Portfolio NextJs Project, is a portfolio website built using the NextJS framework. It is a static website that can be hosted on any static web hosting"}],["$","meta","41",{"name":"twitter:image","content":"https://raw.githubusercontent.com/SpeedOut-Source/pnp-data/main/images/all-devices-black-pnp.png"}],"$L19","$L1a","$L1b"]
+1c:I[27201,["/_next/static/chunks/208d109d56c94dec.js","/_next/static/chunks/b9df1088a5e002c8.js"],"IconMark"]
+19:["$","meta","42",{"name":"twitter:image:alt","content":"PNP, or Portfolio NextJs Project, is a portfolio website built using the NextJS framework. It is a static website that can be hosted on any static web hosting"}]
+1a:["$","link","43",{"rel":"icon","href":"https://biplobsd.me/favicon.ico"}]
+1b:["$","$L1c","44",{}]
+1d:I[66078,["/_next/static/chunks/df89af08f39a668e.js","/_next/static/chunks/d824e1165b6c2cbd.js","/_next/static/chunks/306ed2401499d3d9.js","/_next/static/chunks/2ccc973a4ca89d60.js","/_next/static/chunks/9305858cc4011782.js","/_next/static/chunks/08af111c6ca44ed4.js","/_next/static/chunks/e4b98677c3250abd.js"],"ProjectBlogView"]
+1e:T187a,
+![preview](https://raw.githubusercontent.com/SpeedOut-Source/pnp-data/main/images/all-devices-black-pnp.png)
+
+# What is PNP?
+
+PNP, or Portfolio NextJs Project, is a portfolio website built using the NextJS framework. It is a static website that can be hosted on any static web hosting platform. PNP is a completely free and open-source project. It helps you showcase your skills and services. If anyone wants to know about your business or your personality, this type of website will boost you to the level you need.
+
+## Getting Started
+
+This guide shows you how to set up PNP on your GitHub account.
+
+## What do you need?
+
+- GitHub account
+- Google Maps API key
+- Algolia for search API
+- Giscus
+- Buy Me a Coffee
+- Domain (Optional) [GitHub Pages provides free .github.io domains]
+
+## GitHub Account
+
+Why do we need a GitHub account? GitHub Pages hosting is completely free. We use GitHub Pages to host the PNP website. GitHub Pages also provides SSL for free. How to create a GitHub account? You can simply go to https://github.com/join and follow their instructions to create a GitHub account.
+
+## Google Maps API Key
+
+On the PNP contact page, we embed a Google Map to show your location on Earth. To do this, we need a Google Maps API key. You can follow the instructions provided by Google Maps in their documentation under the "Create API Keys" section -> https://developers.google.com/maps/documentation/embed/get-api-key#create-api-keys
+
+## Algolia
+
+Since PNP is a static site, it is not possible to have a search feature on the page without a server. The search feature in PNP is built using Algolia, which is a hosted search engine. To integrate Algolia, you will need an Algolia account. Please visit https://www.algolia.com/dashboard and create an Algolia account and application. After that, collect the following information: Application ID, Search-Only API Key, and Admin API Key.
+
+Next, create five indexes under your application:
+
+- `testimonials`
+- `company`
+- `blogs`
+- `apps`
+- `projects`
+
+Once you have successfully set up all the content, you will need to search the table field in the Algolia console.
+
+## Giscus
+
+Giscus is a comments system powered by GitHub Discussions. To set up Giscus, go to https://giscus.app/ and set it up for your repository. After that, take note of the `REPO_ID`, `CATEGORY`, and `CATEGORY_ID`.
+
+## Buy Me a Coffee
+
+"Buy me a coffee" is a support system. Go to https://www.buymeacoffee.com/ and create an account. Then collect your username.
+
+## Domain (Optional)
+
+Register a domain from any domain registrar platform, such as Google Domains, Namecheap, GoDaddy, etc.
+
+Once you have completed these primary setups, you will be able to proceed to the next step.
+
+# Setup
+
+Now set up PNP data in your GitHub account. To do this, follow the section below:
+
+## Fork the pnp-data Repository
+
+The source code for the PNP site is located at [SpeedOut-Source/pnp](https://github.com/SpeedOut-Source/pnp), while the data part is in [SpeedOut-Source/pnp-data](https://github.com/SpeedOut-Source/pnp-data). If you want to change any content on the PNP site, update the pnp-data repository.
+
+To fork the pnp-data repository, go to https://github.com/SpeedOut-Source/pnp-data and click the Fork button in the top-right corner. Set the Repository name to your GitHub username.github.io. For example, if your GitHub username is abcd, your repository name would be abcd.github.io. Click on Create fork and wait for a few moments for a copy of the pnp-data repository to be created under your GitHub account.
+
+## Update Repository Secret Variables
+
+Go to the repository's settings, navigate to Security > Actions, and under Repository secrets, create a new repository secret. Set the name as `ALGOLIA_SEARCH_ADMIN_KEY`, and the secret value should be your Algolia Admin API Key.
+
+## Update Workflow Permissions
+
+In the repository settings, go to Actions > General. On the page, navigate to the Workflow permissions section and toggle the switch to enable `Read and write permissions`.
+
+## Changing .env.local
+
+The .env.local file contains the environment variables for the PNP site, including site configuration. Update each variable according to your information. For example:
+
+- `NEXT_PUBLIC_PERSON_NAME`: Your full name, which will be displayed in the header and footer.
+- `NEXT_PUBLIC_BASE_URL`: Your username.github.io or your domain name.
+  Once you have made these changes, your PNP site will be live at your `<username>.github.io`. Now you need to configure and set up your data.
+
+## Setup your Data
+
+Explore each file and folder where you need to make updates. Change the necessary values while keeping in mind not to change any keys, only update the values. Here are the files that need to be updated:
+
+## Update configs.json
+
+Update all values except `baseUrl` and `baseImgPath`.
+
+## Update home/bio.json
+
+Update your `name`, `profession`, and `text`: information about yourself.
+
+## Update home/expertise.json
+
+Update your areas of expertise in technology.
+
+## Update home/testimonials.json
+
+Place your testimonials in the `testis` section.
+
+## apps, company, projects, blogs directories
+
+In these directories, you can create markdown (.md) files to update your site. A demo .md file is already provided in the folder to give you an idea of how to create a .md file.
+
+## images directory
+
+Place all the images you need for `blogs`, `projects`, and `company` posts in this directory.
+
+Note: The compileData.py script will automatically replace `./images/<fileName>` when run on the GitHub Actions workflow.
+
+## Update privacy-policy.md
+
+This file, located at the root path, contains your privacy policy. Change or update it according to your policy.
+
+## meta_tags.txt
+
+This file contains meta tags for the head section of your HTML. If you need to set specific meta tags for each page in the head section, place them in this file. This is particularly useful when other sites need to verify that PNP is your site.
+
+## public directory
+
+If you place any files in this directory, they will be accessible at your `<username>.github.io/<your_filename>`.
+
+Please comment in the section below if you do not understand any of the sections. Alternatively, you can join us on the Telegram group.
+
+https://t.me/+fAPG7kz2erYyNzY9
+11:["$","$L1d",null,{"data":"$1e","imgBlurdata":{"https://raw.githubusercontent.com/SpeedOut-Source/pnp-data/main/images/all-devices-black-pnp.png":{"base64":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAK0lEQVR4nGOQVtIq1zKw+a+kYbiMjVVIjkFRw2jFr7//d1TWdX/yDIxdDACsjQyvy2jJ7AAAAABJRU5ErkJggg==","height":760,"width":1800}},"itemView":{"imgUrl":"https://raw.githubusercontent.com/SpeedOut-Source/pnp-data/main/images/all-devices-black-pnp.png","title":"PNP Setup Guide GitHub, Google Maps API, Algolia, Giscus, Buy Me a Coffee, and Domain Configuration","desc":"PNP, or Portfolio NextJs Project, is a portfolio website built using the NextJS framework. It is a static website that can be hosted on any static web hosting platform. PNP is a completely free and open-source project.","date":1685100471000,"readTime":5,"fileName":"get-started.md","tags":[],"imgBlurData":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAK0lEQVR4nGOQVtIq1zKw+a+kYbiMjVVIjkFRw2jFr7//d1TWdX/yDIxdDACsjQyvy2jJ7AAAAABJRU5ErkJggg=="},"previous":{"imgUrl":"https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/reading-progressbar/preview.png","title":"Creating a Gradient Reading Progress Bar in NextJS with TailwindCSS","desc":"I am building this portfolio website to showcase my app and services to the world. During my researc...","date":1687780096000,"readTime":2,"fileName":"creating-a-gradient-reading-progress-bar-in-NextJS-and-tailwindcss.md","tags":["nextjs","typescript"],"imgBlurData":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAYAAAC09K7GAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAPklEQVR4nAEzAMz/AElQXf+sssD/ZWt4/wAAEv8AKTJB/wsTIP8NFCD/Awwc/wCfbHL/m5/I/8vn///j+///T0watmXy154AAAAASUVORK5CYII="},"next":{"imgUrl":"https://user-images.githubusercontent.com/43641536/227714912-f2fb693d-8b4d-4f26-8013-15a9eddb2203.gif","title":"BLC(Blended Learning Center) তে কিছু সময় পরপর logout হয়ে যাচ্ছে? অথবা কিছু দিন পরে BLC তে visit করলে আবার login করা লাগছে?","desc":"","date":1683225317000,"readTime":1,"fileName":"blc-auto-logo.bn.md","tags":["chrome extension"],"imgBlurData":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAYAAAC09K7GAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPklEQVR4nAEzAMz/AAAKK/8AAiT/BQIh/wAFIf8AfMH//+Gr////RZz//56r/wB/ltL/jgA+/9ROYv//6Yv/XO0cN4PISbEAAAAASUVORK5CYII="},"type":"blogs","more4":null,"toc":[{"value":"Getting Started","depth":2,"data":{"hProperties":{"id":"getting-started-1"}},"children":[]},{"value":"What do you need?","depth":2,"data":{"hProperties":{"id":"what-do-you-need-1"}},"children":[]},{"value":"GitHub Account","depth":2,"data":{"hProperties":{"id":"github-account-1"}},"children":[]},{"value":"Google Maps API Key","depth":2,"data":{"hProperties":{"id":"google-maps-api-key-1"}},"children":[]},{"value":"Algolia","depth":2,"data":{"hProperties":{"id":"algolia-1"}},"children":[]},{"value":"Giscus","depth":2,"data":{"hProperties":{"id":"giscus-1"}},"children":[]},{"value":"Buy Me a Coffee","depth":2,"data":{"hProperties":{"id":"buy-me-a-coffee-1"}},"children":[]},{"value":"Domain (Optional)","depth":2,"data":{"hProperties":{"id":"domain-optional-1"}},"children":[]},{"value":"Fork the pnp-data Repository","depth":2,"data":{"hProperties":{"id":"fork-the-pnp-data-repository-1"}},"children":[]},{"value":"Update Repository Secret Variables","depth":2,"data":{"hProperties":{"id":"update-repository-secret-variables-1"}},"children":[]},{"value":"Update Workflow Permissions","depth":2,"data":{"hProperties":{"id":"update-workflow-permissions-1"}},"children":[]},{"value":"Changing .env.local","depth":2,"data":{"hProperties":{"id":"changing-envlocal-1"}},"children":[]},{"value":"Setup your Data","depth":2,"data":{"hProperties":{"id":"setup-your-data-1"}},"children":[]},{"value":"Update configs.json","depth":2,"data":{"hProperties":{"id":"update-configsjson-1"}},"children":[]},{"value":"Update home/bio.json","depth":2,"data":{"hProperties":{"id":"update-homebiojson-1"}},"children":[]},{"value":"Update home/expertise.json","depth":2,"data":{"hProperties":{"id":"update-homeexpertisejson-1"}},"children":[]},{"value":"Update home/testimonials.json","depth":2,"data":{"hProperties":{"id":"update-hometestimonialsjson-1"}},"children":[]},{"value":"apps, company, projects, blogs directories","depth":2,"data":{"hProperties":{"id":"apps-company-projects-blogs-directories-1"}},"children":[]},{"value":"images directory","depth":2,"data":{"hProperties":{"id":"images-directory-1"}},"children":[]},{"value":"Update privacy-policy.md","depth":2,"data":{"hProperties":{"id":"update-privacy-policymd-1"}},"children":[]},{"value":"meta_tags.txt","depth":2,"data":{"hProperties":{"id":"metatagstxt-1"}},"children":[]},{"value":"public directory","depth":2,"data":{"hProperties":{"id":"public-directory-1"}},"children":[]}]}]

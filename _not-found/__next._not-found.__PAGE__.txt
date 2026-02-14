@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[75007,["/_next/static/chunks/df89af08f39a668e.js","/_next/static/chunks/b9df1088a5e002c8.js","/_next/static/chunks/d824e1165b6c2cbd.js","/_next/static/chunks/2ccc973a4ca89d60.js","/_next/static/chunks/9305858cc4011782.js","/_next/static/chunks/306ed2401499d3d9.js","/_next/static/chunks/c2fa84ca3b7efbb4.js"],"NotFoundRedirect"]
+3:I[25725,["/_next/static/chunks/df89af08f39a668e.js","/_next/static/chunks/b9df1088a5e002c8.js","/_next/static/chunks/d824e1165b6c2cbd.js","/_next/static/chunks/2ccc973a4ca89d60.js","/_next/static/chunks/9305858cc4011782.js","/_next/static/chunks/306ed2401499d3d9.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"FV8kaFXDw6zXvFUAjtwc5","rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","main",null,{"className":"errorSplash container mx-auto","children":["$","div",null,{"children":["404 ",["$","span",null,{"children":"|"}]," This page is not found"]}]}]],[["$","script","script-0",{"src":"/_next/static/chunks/c2fa84ca3b7efbb4.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

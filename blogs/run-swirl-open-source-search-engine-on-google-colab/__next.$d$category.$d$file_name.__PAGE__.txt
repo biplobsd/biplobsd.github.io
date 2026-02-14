@@ -1,0 +1,89 @@
+1:"$Sreact.fragment"
+2:I[66078,["/_next/static/chunks/df89af08f39a668e.js","/_next/static/chunks/d824e1165b6c2cbd.js","/_next/static/chunks/306ed2401499d3d9.js","/_next/static/chunks/2ccc973a4ca89d60.js","/_next/static/chunks/9305858cc4011782.js","/_next/static/chunks/08af111c6ca44ed4.js","/_next/static/chunks/e4b98677c3250abd.js"],"ProjectBlogView"]
+7:I[25725,["/_next/static/chunks/208d109d56c94dec.js","/_next/static/chunks/b9df1088a5e002c8.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+3:Ted0,
+![Swirl-Preview](https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/swirl/swirl-preview.gif)
+
+# Running Swirl in Google Colab
+
+I have created a Google Colab notebook to run Swirl without setting it up on your local machine. For making it easy to test, try and maybe contribute while being on cloud. 
+
+## What is Swirl?
+
+[Swirl](https://github.com/swirlai/swirl-search) is an open-source Python-based search platform that connects to various data sources, including databases, public data services, and enterprise data providers.
+ 
+It provides AI-ranked results and supports Generative AI Models like ChatGPT for answering questions based on the search results. All while maintaining ease of use and not requiring any data re-indexing.
+
+[![Swirl-Homepage](https://github.com/user-attachments/assets/12631dbc-d773-4a9f-8ad5-a4ca730183fd)](https://swirl.today/)
+
+
+Here are the instructions on running this notebook in Google Colab. _Let's get started._ 😃
+
+## Open in this notebook in Google Colab
+
+<a href="https://colab.research.google.com/github/biplobsd/swirl-colab/blob/master/swirl_colab.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+Click on the "Open in Colab" button above to open the notebook. And, connect to a new Google Colab runtime backend.
+
+![Connect-Runtime](https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/swirl/connect-runtime.png)
+
+## Step 1 - Prerequisites & Installation
+
+Run the prerequisites `setup 1` cell to install udocker and redis-server. In Colab, Docker is not yet supported yet. So, I found udocker as an alternative to Docker.
+
+![Step-1](https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/swirl/step-1.png)
+
+
+## Step 2 - Port Forwarding 
+
+In Google Colab notebook, the local port is not open by default. 
+
+So, if we want to access the localhost port, we need to forward this port. 
+After running this cell, you will get a link to access the Google Colab backend at localhost:8000. 
+
+> Warning
+Do not click that link now because Swirl has not started yet.
+
+![Step-2](https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/swirl/step-2.png)
+
+## Step 3 - Start Swirl Using Udocker
+
+Run this cell to start udocker. Udocker will download the `swirlai/swirl-search` image. Please wait for the download to complete. 
+
+It may take upto 2-3 minutes for Swirl to start automatically and it'll wait for any request.
+
+After that, you will see the message `Listening on TCP address 0.0.0.0:8000` in the console.
+
+![Step-3](https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/swirl/step-3.png)
+
+## Step 4 - Access Swirl
+
+Please keep the cell in  `Step 3` running. Now, Go back to `Step 2` and click the port-forwarded link.
+
+If you see the message `no tunnel here :(` or any other message. 
+
+Stop the `Step 3` cell, run the `Step 2` cell again to get a new link. Then, run the `Step 3` cell again.
+
+Enter the username as `admin` and the password as `password`, and press Login.
+
+![Galaxy-UI](https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/swirl/Final.png)
+
+Now, enter any query to try out the open-source Swirl metasearch engine.
+
+## Conclusion
+
+In my opinion, Swirl is a great open-source search engine built with Python. If you're curious about the project's code, visit their GitHub repository. And give them a 🌟.
+
+**GitHub**: https://github.com/swirlai/swirl-search <br>
+
+**Slack**: [Swirl Community Slack](https://join.slack.com/t/swirlmetasearch/shared_invite/zt-1qk7q02eo-kpqFAbiZJGOdqgYVvR1sfw)
+
+**Notebook repository**: https://github.com/biplobsd/swirl-colab
+
+Thank you for reading and trying this amazing open-source search engine. 🚀🚀🚀
+0:{"buildId":"FV8kaFXDw6zXvFUAjtwc5","rsc":["$","$1","c",{"children":[["$","$L2",null,{"data":"$3","imgBlurdata":{"https://github.com/user-attachments/assets/12631dbc-d773-4a9f-8ad5-a4ca730183fd":{"base64":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAIAAADwyuo0AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAI0lEQVR4nGNgY1Cu7r5U33+Hi0mDoajy3NWf/6csfsrGIAYAgnMK3uTtdSwAAAAASUVORK5CYII=","height":360,"width":640},"https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/swirl/connect-runtime.png":{"base64":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABJ0AAASdAHeZh94AAAALUlEQVR4nAEiAN3/AODi4P+pqan/Njk7/2Zmav8AmJqb/6Wmpv9AQkL/AwUG/2VjEwYB21vWAAAAAElFTkSuQmCC","height":561,"width":950},"https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/swirl/step-1.png":{"base64":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABJ0AAASdAHeZh94AAAAKElEQVR4nGO4eu3a/9TkpP8MDAwQ/PzNx/8vv///f+v+k/83blz7DwBPNRZqFHWhXAAAAABJRU5ErkJggg==","height":400,"width":806},"https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/swirl/step-2.png":{"base64":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABJ0AAASdAHeZh94AAAALUlEQVR4nAEiAN3/AHd3eP8UEhD/DAcC/wkGBP8AhYWG/73J1f/a7v//hYuS//s5EhFAgjNDAAAAAElFTkSuQmCC","height":546,"width":897},"https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/swirl/step-3.png":{"base64":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABJ0AAASdAHeZh94AAAALUlEQVR4nAEiAN3/ADw8PP9lZWX/GBga/3t7e/8AcHJw/5eZm/+Vm6f/+Pr//xQ5E3xjRZBNAAAAAElFTkSuQmCC","height":517,"width":878},"https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/swirl/Final.png":{"base64":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABJ0AAASdAHeZh94AAAALUlEQVR4nAEiAN3/AMft//9rjbH/1Pf//3WWvf8Albvj/1N0n/8AHkf/AA0n/5jmFRljxzaKAAAAAElFTkSuQmCC","height":778,"width":1287},"https://colab.research.google.com/assets/colab-badge.svg":{"base64":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABCAYAAAD5PA/NAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGklEQVR4nGOQFmK4l7Hvz5sl3/7/77zz/yMAS7kLB9cNfy8AAAAASUVORK5CYII=","height":20,"width":117}},"itemView":{"imgUrl":"https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/swirl/swirl-preview.gif","title":"Running Swirl in Google Colab","desc":"I have created a Google Colab notebook to run Swirl without setting it up on your local machine. For...","date":1696599145000,"readTime":2,"fileName":"run-swirl-open-source-search-engine-on-google-colab.md","tags":["google colab","open-source"],"imgBlurData":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAYAAAC09K7GAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAOUlEQVR4nGNYuHD+/+7unv/FxUX/T5268J9h38GD/588e/Y/Jjb+//w58/8zgGRBmJWD+39oSPB/AFTdH24iYXpJAAAAAElFTkSuQmCC"},"previous":{"imgUrl":"https://github.com/biplobsd/biplobsd.github.io/assets/43641536/76c3938a-9aa9-46e0-8f9c-642ac71070ca","title":"Contributing to Open Source: My Hacktoberfest Experience","desc":"Learn how to get free stickers, t-shirts, hoodies, and more by contributing to open-source projects....","date":1699412644000,"readTime":9,"fileName":"contributing-to-open-source-my-hacktoberfest-experience.md","tags":["open-source"],"imgBlurData":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAALUlEQVR4nAEiAN3/AA8MFv/AurP/vri2/wcBD/8AGA8X/862wP//+PL/IyIq/ycCEnQwA9RpAAAAAElFTkSuQmCC"},"next":{"imgUrl":"https://github.com/biplobsd/biplobsd.github.io/assets/43641536/7b2f8f6b-0913-4507-89dd-819941243b40","title":"Restore the stock bootloader on the Xiaomi Mi WiFi Router 3C from Breed Web recovery","desc":"I flashed breed web bootloader for installing Openwrt firmware. After changing the bootloader to bre...","date":1693889578000,"readTime":1,"fileName":"restore-stock-bootloader-xiaomi-mi-wifi-router-3c-breed-web-recovery.md","tags":["openwrt"],"imgBlurData":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAYAAAC09K7GAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAPklEQVR4nAEzAMz/AAAYKjE6RVBUiJShbpOfrWsAjZaj3p6kqe7V3Nrw9f///wC7vbtw0dDOwjA+SsYAESOchQ8bGPyy2O4AAAAASUVORK5CYII="},"type":"blogs","more4":null,"toc":[{"value":"What is Swirl?","depth":2,"data":{"hProperties":{"id":"what-is-swirl-1"}},"children":[]},{"value":"Open in this notebook in Google Colab","depth":2,"data":{"hProperties":{"id":"open-in-this-notebook-in-google-colab-1"}},"children":[]},{"value":"Step 1 - Prerequisites & Installation","depth":2,"data":{"hProperties":{"id":"step-1---prerequisites--installation-1"}},"children":[]},{"value":"Step 2 - Port Forwarding","depth":2,"data":{"hProperties":{"id":"step-2---port-forwarding-1"}},"children":[]},{"value":"Step 3 - Start Swirl Using Udocker","depth":2,"data":{"hProperties":{"id":"step-3---start-swirl-using-udocker-1"}},"children":[]},{"value":"Step 4 - Access Swirl","depth":2,"data":{"hProperties":{"id":"step-4---access-swirl-1"}},"children":[]},{"value":"Conclusion","depth":2,"data":{"hProperties":{"id":"conclusion-1"}},"children":[]}]}],["$L4","$L5"],"$L6"]}],"loading":null,"isPartial":false}
+4:["$","script","script-0",{"src":"/_next/static/chunks/08af111c6ca44ed4.js","async":true}]
+5:["$","script","script-1",{"src":"/_next/static/chunks/e4b98677c3250abd.js","async":true}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

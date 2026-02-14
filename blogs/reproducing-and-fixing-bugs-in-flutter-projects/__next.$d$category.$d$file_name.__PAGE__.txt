@@ -1,0 +1,107 @@
+1:"$Sreact.fragment"
+2:I[66078,["/_next/static/chunks/df89af08f39a668e.js","/_next/static/chunks/d824e1165b6c2cbd.js","/_next/static/chunks/306ed2401499d3d9.js","/_next/static/chunks/2ccc973a4ca89d60.js","/_next/static/chunks/9305858cc4011782.js","/_next/static/chunks/08af111c6ca44ed4.js","/_next/static/chunks/e4b98677c3250abd.js"],"ProjectBlogView"]
+7:I[25725,["/_next/static/chunks/208d109d56c94dec.js","/_next/static/chunks/b9df1088a5e002c8.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+3:T15d6,
+![reproducing-and-fixing-bugs-in-flutter-projects.jpg](https://github.com/user-attachments/assets/9bcb582d-2d61-45d3-9bbe-66dcfc570d58)
+
+# Reproducing and Fixing Bugs in Flutter Projects
+
+Debugging is an essential skill for any software developer, especially when working with large codebases. It involves reproducing a bug and systematically resolving it. In this blog, I will share my debugging process for Flutter projects, outlining the tools and steps I follow to identify and fix issues efficiently. Mastering debugging can significantly improve your productivity and problem-solving capabilities.
+
+## Debugging Tools
+To debug effectively, you need a solid understanding of the available tools. Flutter provides several powerful debugging utilities:
+
+1. **Flutter DevTools**: Access this tool via Android Studio by navigating to `View > Tool Windows > Flutter DevTools`, `Flutter DevTools Extensions`, or `Flutter Inspector`. These tools help analyze performance, inspect widgets, and debug layout issues.
+
+  <video width="100%" height="100%" autoplay loop controls>
+      <source src="https://github.com/user-attachments/assets/cde5093f-d2c7-4e64-82e1-5d31fad5f0bc" type="video/webm">
+  </video>
+
+3. **Logcat**: A critical tool for viewing logs during Android development. Use it to analyze errors and behaviors by executing the following command in the terminal:
+   ```bash
+   adb logcat -s flutter
+   ```
+  
+  <video width="100%" height="100%" autoplay loop controls>
+      <source src="https://github.com/user-attachments/assets/c326b85d-9009-49a2-a356-30fbd47734b5" type="video/webm">
+  </video>
+
+4. **Print Statements**: Sometimes, the simplest approach is the most effective. When advanced tools are unavailable, `print` statements can help trace variable values and locate the root cause of a bug.
+   
+   Example:
+   ```dart
+   @pragma("vm:entry-point")
+   static Future<void> onNotificationCreatedMethod(
+       ReceivedNotification receivedNotification) async {
+     var message =
+         'onNotificationCreatedMethod ${receivedNotification.createdLifeCycle?.name}';
+     print(message);
+     print(receivedNotification.channelKey);
+
+     await Vibrations.trigger(receivedNotification.channelKey ?? '');
+   }
+   ```
+
+   <video width="100%" height="100%" autoplay loop controls>
+      <source src="https://github.com/user-attachments/assets/4e226a5a-2b1f-4253-a6f1-edb37a705506" type="video/webm">
+   </video>
+
+## Flutter Inspector
+Flutter Inspector allows you to quickly locate the code responsible for a particular screen or widget. Open it via `View > Tool Windows > Flutter Inspector` in Android Studio. Enable `Toggle Select Widget Mode` and tap on the desired widget on your app screen. The corresponding widget tree and code will appear, making it easier to understand and modify.
+
+<video width="100%" height="100%" autoplay loop controls>
+  <source src="https://github.com/user-attachments/assets/2f9aab1d-4f18-4913-8e00-582e5a3de25a" type="video/webm">
+</video>
+
+## Setting Debugging Breakpoints
+Breakpoints are invaluable for pausing execution at specific lines of code and inspecting variable values. With breakpoints, you can:
+- Check if variables hold the expected values.
+- Analyze the execution flow.
+- Step backward and forward in the code.
+
+<video width="100%" height="100%" autoplay loop controls>
+  <source src="https://github.com/user-attachments/assets/02acd025-8b8b-4e24-a702-c1e36d3c39ba" type="video/webm">
+</video>
+
+## Issue Analysis
+Not every issue qualifies as a bug. Some problems may involve simple UI tweaks, text changes, or minor modifications. However, a "bug" typically involves unexpected behavior in an app, such as incorrect functionality or inconsistent behavior across devices.
+
+To analyze an issue effectively:
+1. Determine if the issue is a bug, simple change, or feature request.
+2. Proceed to reproduce the bug if applicable.
+
+## Reproducing Bugs
+Reproducing a bug involves:
+1. Understanding the environment in which the bug occurred (e.g., device type, OS version, app settings).
+2. Following the same steps as the tester or user who reported the bug.
+3. Gathering as much information as possible, including screen recordings or live demonstrations.
+
+## Research and Analysis
+If you can reproduce the bug, research similar issues in your codebase or online. Use:
+- The bug's behavior.
+- Error text or stack traces.
+- Similar issues (open or closed) in your project's repository.
+
+For external resources, search on Google, ChatGPT, or other AI tools using specific keywords related to the bug.
+
+## Attempt Fixes
+After identifying the cause, try different solutions to resolve the issue. For example:
+- Adjusting logic in the code.
+- Updating third-party libraries.
+- Optimizing performance or resource usage.
+
+## Testing
+Once fixed, thoroughly test the solution across all relevant environments to ensure the bug no longer occurs and no new issues are introduced.
+
+## Documentation (Optional)
+Document the bug, steps to reproduce it, the fix applied, and any additional notes. This practice helps future developers address similar issues more efficiently.
+
+## Conclusion
+Debugging is a critical skill for developers, especially when working with large codebases. By familiarizing yourself with tools like Flutter DevTools, Logcat, and Flutter Inspector, and following a systematic approach to issue analysis, reproduction, and resolution, you can quickly and effectively fix bugs. Remember, debugging is not just about fixing; it's about understanding the problem and improving the overall quality of your code. Happy debugging!
+
+0:{"buildId":"FV8kaFXDw6zXvFUAjtwc5","rsc":["$","$1","c",{"children":[["$","$L2",null,{"data":"$3","imgBlurdata":{"https://github.com/user-attachments/assets/9bcb582d-2d61-45d3-9bbe-66dcfc570d58":{"base64":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAIAAADwyuo0AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAI0lEQVR4nGNgEhByj4zo6G74/2oJw8rdq2fP6X329m52rDsAjzkMz/lWzFIAAAAASUVORK5CYII=","height":1024,"width":1792}},"itemView":{"imgUrl":"https://github.com/user-attachments/assets/9bcb582d-2d61-45d3-9bbe-66dcfc570d58","title":"Reproducing and Fixing Bugs in Flutter Projects","desc":"Debugging is an essential skill for any software developer, especially when working with large codeb...","date":1734717841000,"readTime":3,"fileName":"reproducing-and-fixing-bugs-in-flutter-projects.md","tags":["flutter"],"imgBlurData":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAIAAADwyuo0AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAI0lEQVR4nGNgEhByj4zo6G74/2oJw8rdq2fP6X329m52rDsAjzkMz/lWzFIAAAAASUVORK5CYII="},"previous":{"imgUrl":"https://github.com/user-attachments/assets/92bdcdea-cff0-4d54-9938-32b3cf836048","title":"Task Tracking and Time Management for Productivity Optimization in Google Spreadsheets","desc":"For anyone working in software development, managing daily tasks effectively is crucial. Without pro...","date":1735580712000,"readTime":3,"fileName":"task-tracking-and-time-management-for-productivity-optimization-in-google-spreadsheets.md","tags":["developer productivity tools","google spreadsheets"],"imgBlurData":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAPUlEQVR4nGPIzXf//2PXli29DCIMDJbOmqee3Tj34JyGjSqDp4eejrUJg4iYh5cpg7ObWXiin4u/fVmmBwAf2RIZj+mBGwAAAABJRU5ErkJggg=="},"next":{"imgUrl":"https://github.com/user-attachments/assets/743692de-8ab9-4e4a-9806-f94f645a4a88","title":"Migrating from Next.js 13 Page Router to Next.js 15 App Router","desc":"This week, I successfully migrated my old Next.js blog site to the latest Next.js 15 App Router. In ...","date":1734232988000,"readTime":4,"fileName":"migrating-from-next.js-13-page-router-to-next.js-15-app-router.md","tags":["nextjs"],"imgBlurData":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAIAAADwyuo0AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAJUlEQVR4nAEaAOX/AAAGAEtlZrzj7W+DgQC+4Oewwr61w77a/f+YOw7dei9TWwAAAABJRU5ErkJggg=="},"type":"blogs","more4":null,"toc":[{"value":"Debugging Tools","depth":2,"data":{"hProperties":{"id":"debugging-tools-1"}},"children":[]},{"value":"Flutter Inspector","depth":2,"data":{"hProperties":{"id":"flutter-inspector-1"}},"children":[]},{"value":"Setting Debugging Breakpoints","depth":2,"data":{"hProperties":{"id":"setting-debugging-breakpoints-1"}},"children":[]},{"value":"Issue Analysis","depth":2,"data":{"hProperties":{"id":"issue-analysis-1"}},"children":[]},{"value":"Reproducing Bugs","depth":2,"data":{"hProperties":{"id":"reproducing-bugs-1"}},"children":[]},{"value":"Research and Analysis","depth":2,"data":{"hProperties":{"id":"research-and-analysis-1"}},"children":[]},{"value":"Attempt Fixes","depth":2,"data":{"hProperties":{"id":"attempt-fixes-1"}},"children":[]},{"value":"Testing","depth":2,"data":{"hProperties":{"id":"testing-1"}},"children":[]},{"value":"Documentation (Optional)","depth":2,"data":{"hProperties":{"id":"documentation-optional-1"}},"children":[]},{"value":"Conclusion","depth":2,"data":{"hProperties":{"id":"conclusion-1"}},"children":[]}]}],["$L4","$L5"],"$L6"]}],"loading":null,"isPartial":false}
+4:["$","script","script-0",{"src":"/_next/static/chunks/08af111c6ca44ed4.js","async":true}]
+5:["$","script","script-1",{"src":"/_next/static/chunks/e4b98677c3250abd.js","async":true}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null
