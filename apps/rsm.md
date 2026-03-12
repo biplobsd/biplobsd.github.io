@@ -1,5 +1,5 @@
 ---
-logoUrl: https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/rsm/logo.png
+logoUrl: https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/rsm/logo.webp
 title: Running Services Monitor
 category: Productivity
 p_name_1: Android

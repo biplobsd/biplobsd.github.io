@@ -1,5 +1,5 @@
 ---
-logoUrl: https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/foodlay/logo.png
+logoUrl: https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/foodlay/logo.webp
 title: Foodlay
 category: Productivity
 p_name_1: Website Demo
