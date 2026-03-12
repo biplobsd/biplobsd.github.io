@@ -1,5 +1,5 @@
 ---
-logoUrl: https://raw.githubusercontent.com/biplobsd/running_services_monitor/refs/heads/main/fastlane/metadata/android/en-US/images/icon.png
+logoUrl: https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/rsm/logo.png
 title: Running Services Monitor
 category: Productivity
 p_name_1: Android
