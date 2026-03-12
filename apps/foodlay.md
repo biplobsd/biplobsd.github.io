@@ -1,6 +1,6 @@
 ---
 logoUrl: https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/foodlay/logo.png
-title: Foodlay - Restaurant Management System
+title: Foodlay
 category: Productivity
 p_name_1: Website Demo
 p_link_1: https://foodlay.dayonesoft.com
