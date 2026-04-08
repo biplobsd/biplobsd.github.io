@@ -2,12 +2,14 @@
 logoUrl: https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/webmerge/logo.webp
 title: WebMerge
 category: Utilities
-p_name_1: Source Code
-p_link_1: https://github.com/biplobsd/webmerge
+p_name_1: Edge Add-ons
+p_link_1: https://microsoftedge.microsoft.com/addons/detail/kfdnpdinfcohppjmbddokpeenlonmpfm
 p_name_2: Firefox Add-ons
 p_link_2: https://addons.mozilla.org/en-US/android/addon/webmerge/
 p_name_3: Github release
 p_link_3: https://github.com/biplobsd/webmerge/releases/latest
+p_name_4: Source Code
+p_link_4: https://github.com/biplobsd/webmerge
 img_1: https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/webmerge/s8.webp
 img_2: https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/webmerge/s7.webp
 img_3: https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/webmerge/s6.webp
@@ -35,7 +37,8 @@ tags:
 | Browser | Download |
 |---------|----------|
 | 🦊 Firefox | [Firefox Add-ons](https://addons.mozilla.org/en-US/android/addon/webmerge/) |
-| 🌐 Chrome / Edge / Brave | [GitHub Releases](https://github.com/biplobsd/webmerge/releases/latest) |
+| 🔷 Microsoft Edge | [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/kfdnpdinfcohppjmbddokpeenlonmpfm) |
+| 🌐 Chrome / Brave | [GitHub Releases](https://github.com/biplobsd/webmerge/releases/latest) |
 
 ### Features
 - **Parallel Multi-Site Search** — Query multiple websites at once in a single search.
