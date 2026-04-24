@@ -1,211 +1,211 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url><loc>https://biplobsd.me/apps/as</loc><lastmod>2026-04-08T18:29:41.885Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/awc</loc><lastmod>2026-04-08T18:29:41.885Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/beh</loc><lastmod>2026-04-08T18:29:41.885Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/blc-auto-login</loc><lastmod>2026-04-08T18:29:41.885Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/cppg</loc><lastmod>2026-04-08T18:29:41.885Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/diu-speeder</loc><lastmod>2026-04-08T18:29:41.885Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/epoch-readable</loc><lastmod>2026-04-08T18:29:41.885Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/foodlay</loc><lastmod>2026-04-08T18:29:41.885Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/image-animated-splitter</loc><lastmod>2026-04-08T18:29:41.885Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/image-converter-offline</loc><lastmod>2026-04-08T18:29:41.885Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/image-resizer-offline</loc><lastmod>2026-04-08T18:29:41.885Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/ocr</loc><lastmod>2026-04-08T18:29:41.885Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/proxy-speed-test-app-pro</loc><lastmod>2026-04-08T18:29:41.885Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/rsm</loc><lastmod>2026-04-08T18:29:41.885Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/stellar-wall</loc><lastmod>2026-04-08T18:29:41.885Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/webmerge</loc><lastmod>2026-04-08T18:29:41.885Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/ygpt</loc><lastmod>2026-04-08T18:29:41.885Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/yst</loc><lastmod>2026-04-08T18:29:41.885Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/beh-app-starter-kit</loc><lastmod>2026-04-08T18:29:41.885Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/BLC auto login</loc><lastmod>2026-04-08T18:29:41.885Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/blc-auto-logo.bn</loc><lastmod>2026-04-08T18:29:41.885Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/common-topics-for-software-development-interviews-and-written-tests-in-bangladesh-2024</loc><lastmod>2026-04-08T18:29:41.885Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/contributing-to-open-source-my-hacktoberfest-experience</loc><lastmod>2026-04-08T18:29:41.885Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/creating-a-gradient-reading-progress-bar-in-NextJS-and-tailwindcss</loc><lastmod>2026-04-08T18:29:41.885Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/crop-pixel-playground</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/get-started</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/limbuscode-chrome-extension-analysis</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/manually-patching-apatch-to-boot-img-using-the-latest-build-tools-and-files</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/migrating-from-next.js-13-page-router-to-next.js-15-app-router</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/ocaria2</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/OneClickRun Notebook</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/reproducing-and-fixing-bugs-in-flutter-projects</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/restore-stock-bootloader-xiaomi-mi-wifi-router-3c-breed-web-recovery</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/run-swirl-open-source-search-engine-on-google-colab</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/stellar-login-system-with-facebook-and-google</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/syntax-highlight-code-in-NextJS-tailwindcss-daisyui</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/t460s-ux</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/task-tracking-and-time-management-for-productivity-optimization-in-google-spreadsheets</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/use-your-brother-printer-on-lan-by-raspberry-pi</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/Youtube Subscriptions Transfer</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/company/6amtech</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/company/action-tokens</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/company/caretutors_technologies_ltd</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/company/nuna-project-art</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/company/qtec-solution-limited</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/projects/Action wallet checker</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/projects/action-tokens-collections</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/projects/action-tokens-gallery</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/projects/action-tokens-plot-and-splot</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/projects/skillsynth-ai-driven-interactive-personalized-education-platform</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/projects/stellar-wall</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/company</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/projects</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/2</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/2</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/3</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/4</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/company/page/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/projects/page/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/company/page</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/projects/page</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/ai/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/android/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/bloc/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/chrome extension/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/daisyui/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/dart/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/firefox add-ons/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/flutter/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/google colab/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/ios/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/kivy/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/laravel/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/linux/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/mysql/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/open-source/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/openai/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/postgresql/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/python/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/riverpod/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/stellar.org/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/supabase/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/svelte/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/tailwind/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/typescript/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/vue/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/youtube api/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/tag/android/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/tag/chrome extension/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/tag/developer productivity tools/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/tag/firebase/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/tag/flutter/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/tag/github action/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/tag/google colab/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/tag/google spreadsheets/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/tag/linux/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/tag/nextjs/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/tag/open-source/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/tag/openwrt/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/tag/python/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/tag/raspberrypi/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/tag/react/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/tag/riverpod/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/tag/stellar.org/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/tag/supabase/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/tag/typescript/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/tag/youtube/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/company/page/tag/amazon amplify/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/company/page/tag/android/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/company/page/tag/dart/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/company/page/tag/firebase/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/company/page/tag/flutter/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/company/page/tag/nextjs/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/company/page/tag/rest api/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/company/page/tag/typescript/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/projects/page/tag/amazon amplify/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/projects/page/tag/bloc/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/projects/page/tag/firebase/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/projects/page/tag/flutter/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/projects/page/tag/mysql/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/projects/page/tag/nextjs/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/projects/page/tag/openai/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/projects/page/tag/stellar.org/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/projects/page/tag/typescript/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/projects/page/tag/vercel/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/projects/page/tag/zustand/1</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/ai</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/android</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/bloc</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/chrome extension</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/daisyui</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/dart</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/firefox add-ons</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/flutter</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/google colab</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/ios</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/kivy</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/laravel</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/linux</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/mysql</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/open-source</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/openai</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/postgresql</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/python</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/riverpod</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/stellar.org</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/supabase</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/svelte</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/tailwind</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/typescript</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/vue</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag/youtube api</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/tag/android</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/tag/chrome extension</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/tag/developer productivity tools</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/tag/firebase</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/tag/flutter</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/tag/github action</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/tag/google colab</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/tag/google spreadsheets</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/tag/linux</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/tag/nextjs</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/tag/open-source</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/tag/openwrt</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/tag/python</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/tag/raspberrypi</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/tag/react</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/tag/riverpod</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/tag/stellar.org</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/tag/supabase</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/tag/typescript</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/tag/youtube</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/company/page/tag/amazon amplify</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/company/page/tag/android</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/company/page/tag/dart</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/company/page/tag/firebase</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/company/page/tag/flutter</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/company/page/tag/nextjs</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/company/page/tag/rest api</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/company/page/tag/typescript</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/projects/page/tag/amazon amplify</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/projects/page/tag/bloc</loc><lastmod>2026-04-08T18:29:41.886Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/projects/page/tag/firebase</loc><lastmod>2026-04-08T18:29:41.887Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/projects/page/tag/flutter</loc><lastmod>2026-04-08T18:29:41.887Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/projects/page/tag/mysql</loc><lastmod>2026-04-08T18:29:41.887Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/projects/page/tag/nextjs</loc><lastmod>2026-04-08T18:29:41.887Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/projects/page/tag/openai</loc><lastmod>2026-04-08T18:29:41.887Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/projects/page/tag/stellar.org</loc><lastmod>2026-04-08T18:29:41.887Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/projects/page/tag/typescript</loc><lastmod>2026-04-08T18:29:41.887Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/projects/page/tag/vercel</loc><lastmod>2026-04-08T18:29:41.887Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/projects/page/tag/zustand</loc><lastmod>2026-04-08T18:29:41.887Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/apps/page/tag</loc><lastmod>2026-04-08T18:29:41.887Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/blogs/page/tag</loc><lastmod>2026-04-08T18:29:41.887Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/company/page/tag</loc><lastmod>2026-04-08T18:29:41.887Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/projects/page/tag</loc><lastmod>2026-04-08T18:29:41.887Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/about</loc><lastmod>2026-04-08T18:29:41.887Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/contact</loc><lastmod>2026-04-08T18:29:41.887Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/manifest.json</loc><lastmod>2026-04-08T18:29:41.887Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me</loc><lastmod>2026-04-08T18:29:41.887Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/privacy</loc><lastmod>2026-04-08T18:29:41.887Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/resume</loc><lastmod>2026-04-08T18:29:41.887Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://biplobsd.me/tags</loc><lastmod>2026-04-08T18:29:41.887Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/as</loc><lastmod>2026-04-24T17:55:29.325Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/awc</loc><lastmod>2026-04-24T17:55:29.325Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/beh</loc><lastmod>2026-04-24T17:55:29.325Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/blc-auto-login</loc><lastmod>2026-04-24T17:55:29.325Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/cppg</loc><lastmod>2026-04-24T17:55:29.325Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/diu-speeder</loc><lastmod>2026-04-24T17:55:29.325Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/epoch-readable</loc><lastmod>2026-04-24T17:55:29.325Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/foodlay</loc><lastmod>2026-04-24T17:55:29.325Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/image-animated-splitter</loc><lastmod>2026-04-24T17:55:29.325Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/image-converter-offline</loc><lastmod>2026-04-24T17:55:29.325Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/image-resizer-offline</loc><lastmod>2026-04-24T17:55:29.325Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/ocr</loc><lastmod>2026-04-24T17:55:29.325Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/proxy-speed-test-app-pro</loc><lastmod>2026-04-24T17:55:29.325Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/rsm</loc><lastmod>2026-04-24T17:55:29.325Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/stellar-wall</loc><lastmod>2026-04-24T17:55:29.325Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/webmerge</loc><lastmod>2026-04-24T17:55:29.325Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/ygpt</loc><lastmod>2026-04-24T17:55:29.325Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/yst</loc><lastmod>2026-04-24T17:55:29.325Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/beh-app-starter-kit</loc><lastmod>2026-04-24T17:55:29.325Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/BLC auto login</loc><lastmod>2026-04-24T17:55:29.325Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/blc-auto-logo.bn</loc><lastmod>2026-04-24T17:55:29.325Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/common-topics-for-software-development-interviews-and-written-tests-in-bangladesh-2024</loc><lastmod>2026-04-24T17:55:29.325Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/contributing-to-open-source-my-hacktoberfest-experience</loc><lastmod>2026-04-24T17:55:29.325Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/creating-a-gradient-reading-progress-bar-in-NextJS-and-tailwindcss</loc><lastmod>2026-04-24T17:55:29.325Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/crop-pixel-playground</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/get-started</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/limbuscode-chrome-extension-analysis</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/manually-patching-apatch-to-boot-img-using-the-latest-build-tools-and-files</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/migrating-from-next.js-13-page-router-to-next.js-15-app-router</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/ocaria2</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/OneClickRun Notebook</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/reproducing-and-fixing-bugs-in-flutter-projects</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/restore-stock-bootloader-xiaomi-mi-wifi-router-3c-breed-web-recovery</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/run-swirl-open-source-search-engine-on-google-colab</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/stellar-login-system-with-facebook-and-google</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/syntax-highlight-code-in-NextJS-tailwindcss-daisyui</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/t460s-ux</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/task-tracking-and-time-management-for-productivity-optimization-in-google-spreadsheets</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/use-your-brother-printer-on-lan-by-raspberry-pi</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/Youtube Subscriptions Transfer</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/company/6amtech</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/company/action-tokens</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/company/caretutors_technologies_ltd</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/company/nuna-project-art</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/company/qtec-solution-limited</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/projects/Action wallet checker</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/projects/action-tokens-collections</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/projects/action-tokens-gallery</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/projects/action-tokens-plot-and-splot</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/projects/skillsynth-ai-driven-interactive-personalized-education-platform</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/projects/stellar-wall</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/company</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/projects</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/2</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/2</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/3</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/4</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/company/page/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/projects/page/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/company/page</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/projects/page</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/ai/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/android/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/bloc/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/chrome extension/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/daisyui/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/dart/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/firefox add-ons/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/flutter/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/google colab/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/ios/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/kivy/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/laravel/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/linux/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/mysql/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/open-source/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/openai/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/postgresql/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/python/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/riverpod/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/stellar.org/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/supabase/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/svelte/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/tailwind/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/typescript/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/vue/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/youtube api/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/tag/android/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/tag/chrome extension/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/tag/developer productivity tools/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/tag/firebase/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/tag/flutter/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/tag/github action/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/tag/google colab/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/tag/google spreadsheets/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/tag/linux/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/tag/nextjs/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/tag/open-source/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/tag/openwrt/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/tag/python/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/tag/raspberrypi/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/tag/react/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/tag/riverpod/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/tag/stellar.org/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/tag/supabase/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/tag/typescript/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/tag/youtube/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/company/page/tag/amazon amplify/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/company/page/tag/android/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/company/page/tag/dart/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/company/page/tag/firebase/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/company/page/tag/flutter/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/company/page/tag/nextjs/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/company/page/tag/rest api/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/company/page/tag/typescript/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/projects/page/tag/amazon amplify/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/projects/page/tag/bloc/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/projects/page/tag/firebase/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/projects/page/tag/flutter/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/projects/page/tag/mysql/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/projects/page/tag/nextjs/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/projects/page/tag/openai/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/projects/page/tag/stellar.org/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/projects/page/tag/typescript/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/projects/page/tag/vercel/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/projects/page/tag/zustand/1</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/ai</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/android</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/bloc</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/chrome extension</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/daisyui</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/dart</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/firefox add-ons</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/flutter</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/google colab</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/ios</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/kivy</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/laravel</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/linux</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/mysql</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/open-source</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/openai</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/postgresql</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/python</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/riverpod</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/stellar.org</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/supabase</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/svelte</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/tailwind</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/typescript</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/vue</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag/youtube api</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/tag/android</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/tag/chrome extension</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/tag/developer productivity tools</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/tag/firebase</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/tag/flutter</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/tag/github action</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/tag/google colab</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/tag/google spreadsheets</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/tag/linux</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/tag/nextjs</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/tag/open-source</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/tag/openwrt</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/tag/python</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/tag/raspberrypi</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/tag/react</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/tag/riverpod</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/tag/stellar.org</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/tag/supabase</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/tag/typescript</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/tag/youtube</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/company/page/tag/amazon amplify</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/company/page/tag/android</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/company/page/tag/dart</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/company/page/tag/firebase</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/company/page/tag/flutter</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/company/page/tag/nextjs</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/company/page/tag/rest api</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/company/page/tag/typescript</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/projects/page/tag/amazon amplify</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/projects/page/tag/bloc</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/projects/page/tag/firebase</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/projects/page/tag/flutter</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/projects/page/tag/mysql</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/projects/page/tag/nextjs</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/projects/page/tag/openai</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/projects/page/tag/stellar.org</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/projects/page/tag/typescript</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/projects/page/tag/vercel</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/projects/page/tag/zustand</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/apps/page/tag</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/blogs/page/tag</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/company/page/tag</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/projects/page/tag</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/about</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/contact</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/manifest.json</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/privacy</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/resume</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://biplobsd.me/tags</loc><lastmod>2026-04-24T17:55:29.326Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 </urlset>
