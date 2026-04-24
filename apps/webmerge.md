@@ -4,12 +4,14 @@ title: WebMerge
 category: Utilities
 p_name_1: Edge Add-ons
 p_link_1: https://microsoftedge.microsoft.com/addons/detail/kfdnpdinfcohppjmbddokpeenlonmpfm
-p_name_2: Firefox Add-ons
-p_link_2: https://addons.mozilla.org/en-US/android/addon/webmerge/
-p_name_3: Github release
-p_link_3: https://github.com/biplobsd/webmerge/releases/latest
-p_name_4: Source Code
-p_link_4: https://github.com/biplobsd/webmerge
+p_name_2: Chrome Web Store
+p_link_2: https://chromewebstore.google.com/detail/ccdghdefafiefoffeiafalaenofkgjeo
+p_name_3: Firefox Add-ons
+p_link_3: https://addons.mozilla.org/en-US/android/addon/webmerge/
+p_name_4: Github release
+p_link_4: https://github.com/biplobsd/webmerge/releases/latest
+p_name_5: Source Code
+p_link_5: https://github.com/biplobsd/webmerge
 img_1: https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/webmerge/s8.webp
 img_2: https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/webmerge/s7.webp
 img_3: https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/webmerge/s6.webp
@@ -38,7 +40,7 @@ tags:
 |---------|----------|
 | 🦊 Firefox | [Firefox Add-ons](https://addons.mozilla.org/en-US/android/addon/webmerge/) |
 | 🔷 Microsoft Edge | [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/kfdnpdinfcohppjmbddokpeenlonmpfm) |
-| 🌐 Chrome / Brave | [GitHub Releases](https://github.com/biplobsd/webmerge/releases/latest) |
+| 🌐 Chrome / Brave | [Chrome Web Store](https://chromewebstore.google.com/detail/ccdghdefafiefoffeiafalaenofkgjeo) |
 
 ### Features
 - **Parallel Multi-Site Search** — Query multiple websites at once in a single search.
