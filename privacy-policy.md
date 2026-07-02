@@ -1,56 +1,73 @@
 ## Privacy Policy
 
+**Developer / Entity:** SpeedOut Lab (operated by Biplob Sutradhar)
+**Last updated:** July 2, 2026
+**Contact:** biplobsd11@gmail.com
+
 ### Introduction
 
-Our privacy policy will help you understand what information we collect at Portfolio Next.js Project(PNP), how PNP uses it, and what choices you have.
-Biplob Kumar Sutradhar built the PNP app as a free app. This SERVICE is provided by Biplob Kumar Sutradhar at no cost and is intended for use as is.
-If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise defined in this Privacy Policy.
+This Privacy Policy explains how SpeedOut Lab ("we," "us," or "our") collects, uses, and protects information in connection with the Android applications we publish on Google Play (each an "App," collectively the "Apps"), including **Running Services Monitor**. This Policy applies to every App published under the SpeedOut Lab developer account, now and in the future, unless a specific App links to a separate policy of its own.
 
-### Information Collection and Use
+By installing or using any App published by SpeedOut Lab, you agree to the collection and use of information as described in this Policy. We do not sell your personal information.
 
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
-The app does use third party services that may collect information used to identify you.
+### Scope of This Policy
 
-### Cookies
+SpeedOut Lab publishes small utility and developer-tool Android apps, several of which are open source. Because our Apps differ in what, if anything, they collect, this Policy is intentionally written to cover our whole catalog. For an App-specific breakdown, always check that App's **Data Safety** section on its Google Play Store listing — it takes precedence over the general descriptions below for that particular App.
 
-Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.
+### Information We Do Not Collect
 
-This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+Unless a specific App's store listing or Data Safety section says otherwise, our Apps do not collect, request, or transmit:
 
-### Location Information
+- Your name, email address, or other account/contact details
+- Gender, date of birth, or other demographic information
+- Photos, contacts, or other personal media or files
+- Precise or approximate location
 
-Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.
+If a future App genuinely needs any of the above, that collection will be disclosed in the App's store listing, its Data Safety section, and an in-app consent prompt shown before any such data is accessed.
 
-### Device Information
+### Information We May Collect
 
-We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.
+**Device and technical data.** Some Apps read technical details needed to do their job. For example, Running Services Monitor reads the list of currently running processes/services and basic device information (such as OS version and device model) in order to display that information back to you. This happens on your device and is not uploaded anywhere as part of that feature.
 
-### Service Providers
+**Permissions-based data.** Some Apps request Android permissions such as Usage Access or Accessibility Service, which Android itself requires in order to read running-app or usage data. We request only the permissions needed for an App's stated purpose, and data read through these permissions stays on your device unless an App explicitly says otherwise.
 
-We may employ third-party companies and individuals due to the following reasons:
+**Diagnostic data.** If an App includes a crash-reporting or analytics library (for example, via Google Play services), that library may collect limited technical data such as crash logs or app version under its own privacy terms. Any App that does this will disclose it in its Data Safety section.
 
-- To facilitate our Service;
-- To provide the Service on our behalf;
-- To perform Service-related services; or
-- To assist us in analyzing how our Service is used.
+### Cookies and Local Storage
 
-We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+Our Android Apps do not use browser cookies. Some Apps store small amounts of data locally on your device (such as your saved settings) using standard Android storage; this stays on your device and isn't accessible to us unless you opt into a feature that syncs it elsewhere.
 
-### Security
+### How We Use Information
 
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+Any information described above is used only to provide and improve the relevant App's core functionality. We do not build advertising profiles from on-device data, and we do not sell user data.
 
-### Children’s Privacy
+### Third-Party Services
 
-This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
+Our Apps may rely on third-party infrastructure they don't control, such as Google Play services or open-source libraries. These components process limited technical data under their own privacy policies. Where a specific App shares data with a third party, that sharing is disclosed in the App's Data Safety section. Beyond this, we do not share your information with third parties except where required by law.
+
+### Data Security
+
+We take reasonable, industry-standard measures to protect information handled by our Apps. However, no method of transmission over the internet or electronic storage is 100% secure, and we cannot guarantee absolute security.
+
+### Data Retention and Deletion
+
+Data processed entirely on your device is retained only on your device and is removed when you clear the App's storage or uninstall it. If a specific App ever collects account information, that App will provide both an in-app and web-based way to request account deletion, as described in that App's own listing.
+
+### Children's Privacy
+
+Our Apps are not directed at children under 13, and we do not knowingly collect personal information from anyone under 13. If you believe a child has provided us with personal information, please contact us below and we will delete it.
+
+### Your Rights and Choices
+
+You can review and change any permission granted to an App at any time in your device's Settings. Depending on where you live, you may have additional rights over personal data we hold about you, such as access, correction, or deletion — contact us to exercise them.
 
 ### Changes to This Privacy Policy
 
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
+We may update this Policy from time to time. Changes take effect as soon as the revised Policy is posted at this URL; the "Last updated" date above reflects the most recent revision.
 
 ### Contact Us
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
-Contact Information:  
+Questions about this Privacy Policy, or about how a specific App handles data, can be sent to:
+
+**SpeedOut Lab**
 Email: biplobsd11@gmail.com
