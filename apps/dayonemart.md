@@ -47,8 +47,6 @@ Experience the full capabilities of DayOneMart through our interactive demo envi
 
 ![DayOneMart Banner](https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/dayonemart/banner.webp)
 
-For more information, visit the [DayOneSoft Portfolio](https://codecanyon.net/user/dayonesoft/portfolio).
-
 If this app has been helpful to you, consider [buying me a ☕coffee](https://www.buymeacoffee.com/biplobsd). It would make me very happy 😃
 
 <a href="https://www.buymeacoffee.com/biplobsd" target="_blank"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGg5MTA5YXE0cXp3Z3M5cHA4bmthajI2YzQwbXZ1NXhmZ3E1cTYwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TDQOtnWgsBx99cNoyH/giphy.gif" alt="Buy Me A Coffee" width="50" height="50"></a>
