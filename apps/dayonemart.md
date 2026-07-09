@@ -11,9 +11,6 @@ p_link_3: https://dayonemart.dayonesoft.com/hub/auth/login
 p_name_4: Documentation
 p_link_4: https://dayonemart-doc.dayonesoft.com/
 img_1: https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/dayonemart/banner.webp
-img_2: https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/dayonemart/qr_customer.webp
-img_3: https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/dayonemart/qr_deliveryman.webp
-img_4: https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/dayonemart/b1.webp
 date: 1783578903000
 tags:
   - Flutter
@@ -45,17 +42,8 @@ Experience the full capabilities of DayOneMart through our interactive demo envi
 - **Grocery Storefront**: [Try Grocery Demo](https://dayonemart.dayonesoft.com/grocery) - Browse categories, check out flash deals, manage your cart, and place orders.
 - **Admin Dashboard**: [Try Admin Demo](https://dayonemart.dayonesoft.com/admin/auth/login) - Access the command center to explore analytics, configure taxes, manage zones, and publish content.
 - **Hub Panel**: [Try Hub Demo](https://dayonemart.dayonesoft.com/hub/auth/login) - Test the delivery control tower and dispatch orders.
-
-### Try the Mobile Apps
-
-Scan the QR codes or download the demo APK files directly:
 - **Customer Mobile App**: [Download Customer APK](https://s3-file.day1soft.com/dayonesoft/dayonemart/Customer%20App%20Demo%20V3.0.apk)
 - **Deliveryman Mobile App**: [Download Deliveryman APK](https://s3-file.day1soft.com/dayonesoft/dayonemart/Delivery%20Man%20App%20Demo%20V3.0.apk)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/dayonemart/qr_customer.webp" alt="Customer App QR Code" width="200" style="margin-right: 20px;" />
-  <img src="https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/dayonemart/qr_deliveryman.webp" alt="Deliveryman App QR Code" width="200" />
-</div>
 
 ![DayOneMart Banner](https://raw.githubusercontent.com/biplobsd/biplobsd.github.io/data/images/dayonemart/banner.webp)
 
